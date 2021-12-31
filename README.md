@@ -10,6 +10,8 @@ Quick query manual for Nanning Dialect | 南寧話單字音快速查詢手冊
 
 需要注意的是：有少部分字來源於古壯字，例如「⿰車奔」，現有字庫無法顯示，故而用組合字符來描述，使用時需留意。
 
+1.總表版收錄所有賦音的字；2.通用規範漢字表版收錄《通用規範漢字表》範圍的字；3.一級字表版收錄《通用規範漢字表》一級字表範圍的字，二級、三級以此類推。
+
 ## 拼音方案及查詢工具
 
 [Leimaau's Webdict 2.0](https://leimaau.github.io/leimaau-webdict2/) | [南寧白話拼音方案](https://leimaau.github.io/book/PHONETICIZE.html) | [南寧（亭子）平話拼音方案](https://leimaau.github.io/book/PHONETICIZE_bingwaa.html)
