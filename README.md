@@ -26,5 +26,5 @@ ID|TRAD|SIMP|IPA|JYUTPING|EXPL|NOTE|LEVEL
 
 ## 參攷文獻
 
-使用本[倉庫](https://github.com/leimaau/bookCollection)的已有研究。
+使用[本站](https://leimaau-webdict3.vercel.app/)的已有研究。
 
