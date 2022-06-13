@@ -18,7 +18,7 @@ ID|TRAD|SIMP|IPA|JYUTPING|EXPL|NOTE|LEVEL
 
 ## 拼音方案及查詢工具
 
-[Leimaau's Webdict 2.0](https://leimaau.github.io/leimaau-webdict2/) | [南寧白話拼音方案](https://leimaau.github.io/book/PHONETICIZE.html) | [南寧（亭子）平話拼音方案](https://leimaau.github.io/book/PHONETICIZE_bingwaa.html)
+[Leimaau's Webdict 3.0](https://leimaau-webdict3.vercel.app/) | [南寧白話拼音方案](https://leimaau-webdict3.vercel.app/posts/PHONETICIZE) | [南寧（亭子）平話拼音方案](https://leimaau-webdict3.vercel.app/posts/PHONETICIZE_bingwaa)
 
 ## 輸入法
 
