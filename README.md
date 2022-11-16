@@ -18,7 +18,7 @@ ID|TRAD|SIMP|IPA|JYUTPING|EXPL|NOTE|LEVEL
 
 ## 拼音方案及查詢工具
 
-[Leimaau's Webdict 3.0](https://leimaau-webdict3.vercel.app/) | [南寧白話拼音方案](https://leimaau-webdict3.vercel.app/posts/PHONETICIZE) | [南寧（亭子）平話拼音方案](https://leimaau-webdict3.vercel.app/posts/PHONETICIZE_bingwaa)
+[Leimaau's Webdict 2.0](https://leimaau.github.io/leimaau-webdict2/) 或 [Leimaau's Webdict 3.0](https://leimaau-webdict3.vercel.app/) 〔[備用地址](https://tranquil-tulumba-4026d9.netlify.app/)〕 | [南寧白話拼音方案](https://leimaau.github.io/book/PHONETICIZE.html) | [南寧（亭子）平話拼音方案](https://leimaau.github.io/book/PHONETICIZE_bingwaa.html)
 
 ## 輸入法
 
@@ -26,5 +26,5 @@ ID|TRAD|SIMP|IPA|JYUTPING|EXPL|NOTE|LEVEL
 
 ## 參攷文獻
 
-使用[本站](https://leimaau-webdict3.vercel.app/)的已有研究。
+使用[**本倉庫**](https://github.com/leimaau/bookCollection)的已有研究。
 
