@@ -16,6 +16,10 @@ ID|TRAD|SIMP|IPA|JYUTPING|EXPL|NOTE|LEVEL
 
 需要注意的是：有少部分字來源於古壯字，例如「⿰車奔」，現有字庫無法顯示，故而用組合字符來描述，使用時需留意。
 
+## PDF 版
+
+此處存放的爲 TSV 版，爲防止倉庫過大，PDF 版及衍生版（即常用字版）放在[Releases](https://github.com/leimaau/Nanning-Dialect-Manual/releases)中，需要者可自取。
+
 ## 拼音方案及查詢工具
 
 [Leimaau's Webdict 2.0](https://leimaau.github.io/leimaau-webdict2/) 或 [Leimaau's Webdict 3.0](https://leimaau-webdict3.vercel.app/) 〔[備用地址](https://tranquil-tulumba-4026d9.netlify.app/)〕 | [南寧白話拼音方案](https://leimaau.github.io/book/PHONETICIZE.html) | [南寧（亭子）平話拼音方案](https://leimaau.github.io/book/PHONETICIZE_bingwaa.html)
