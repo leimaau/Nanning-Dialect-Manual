@@ -824,7 +824,7 @@ ID	TRAD	SIMP	IPA	JYUTPING	EXPL	NOTE	LEVEL
 823	朴	朴	piu21	biu4	姓		1
 824	瓢	瓢	piu21	biu4	水瓢		1
 825	剽	剽	piu21	biu4			2
-826	嫖	嫖	piu21	biu4			2
+826	嫖	嫖	piu21	biu4	嫖賭；嫖字分音作皮條		2
 827	薸	薸	piu21	biu4			3
 828	摽	摽	piu24	biu5	落下；緊捆綁		2
 829	殍	殍	piu24	biu5			2
@@ -3471,7 +3471,7 @@ ID	TRAD	SIMP	IPA	JYUTPING	EXPL	NOTE	LEVEL
 3470	鉤	钩	kɐu53	gau1		(文)	1
 3471	龜	龟	kɐu53	gau1	龜茲		1
 3472	佝	佝	kɐu53	gau1	佝僂	(文)	2
-3473	鳩	鸠	kɐu53	gau1	斑鳩；男陰		2
+3473	鳩	鸠	kɐu53	gau1	斑鳩；男陰，罕用		2
 3474	篝	篝	kɐu53	gau1			2
 3475	緱	缑	kɐu53	gau1			2
 3476	鬮	阄	kɐu53	gau1			2
@@ -8391,7 +8391,7 @@ ID	TRAD	SIMP	IPA	JYUTPING	EXPL	NOTE	LEVEL
 8390	𠸎	𠸎	na53	naa1			5
 8391	𤸻	𤸻	na53	naa1	補丁，或源自補衲；傷疤，疑本字痆；又作𤶸字		5
 8392	哪	哪	na33	naa2	哪些，哪個		1
-8393	乸	乸	na33	naa2	母，雌		3
+8393	乸	乸	na33	naa2	母、雌，一說本字女，上古魚部		3
 8394	南	南	na55	naa3	南無（喃嘸）佬，道士和尚	(語)	1
 8395	喃	喃	na55	naa3	喃嘸（南無）佬，道士和尚	(語)	2
 8396	哪	哪	na21	naa4	哪吒		1
@@ -10727,7 +10727,7 @@ ID	TRAD	SIMP	IPA	JYUTPING	EXPL	NOTE	LEVEL
 10726	恕	恕	ʃy55	syu3			1
 10727	緒	绪	ʃy55	syu3			1
 10728	嗾	嗾	ʃy55	syu3	指使狗聲，唆使、挑撥，又作噓/𡂡字	(語)	2
-10729	噓	嘘	ʃy55	syu3	指使狗聲，唆使、挑撥，又作嗾/𡂡字，析音作射豬	(語)	2
+10729	噓	嘘	ʃy55	syu3	指使狗聲，唆使、挑撥，又作嗾/𡂡字，分音作射豬	(語)	2
 10730	戍	戍	ʃy55	syu3	戍守		2
 10731	腧	腧	ʃy55	syu3			2
 10732	殊	殊	ʃy21	syu4			1

@@ -2546,7 +2546,7 @@ ID	TRAD	SIMP	N-JYUTPING	T-JYUTPING	G-JYUTPING|LEVEL
 2545	枸	枸	gau2	gau2	gau2	2
 2546	柩	柩	gau6	gau6	gau6	2
 2547	詬	诟	gau3	gau3	gau3	2
-2548	鳩	鸠	gau1「斑鳩；男陰」	gau1「斑鳩；男陰」	gau1	2
+2548	鳩	鸠	gau1「斑鳩；男陰，罕用」	gau1「斑鳩；男陰，罕用」	gau1	2
 2549	廄	厩	gau3	gau3	gau3	2
 2550	岣	岣	gau2	gau2	gau2	2
 2551	彀	彀	gau3	gau3	gau3	2
@@ -2599,7 +2599,7 @@ ID	TRAD	SIMP	N-JYUTPING	T-JYUTPING	G-JYUTPING|LEVEL
 2598	幾	几	gi2「幾個」,gi1「幾乎」	gi2「幾個」,gi1「幾乎」	1)gei2:幾個 2)gei1:幾乎	1
 2599	嘰	叽	gi1「嘰哩咕嚕」	gi1「嘰哩咕嚕」	gei1	1
 2600	基	基	gi1	gi1	gei1	1
-2601	妓	妓	gi6「妓女」; (語)gyu2「老舉，本字老妓」	gi6「妓女」; (語)gi3「老～婆，老妓女」,(語)gyu3「老～寨、老～牌，妓院」	gei6	1
+2601	妓	妓	gi6「妓女」; (語)gyu2「老～，妓女的合音，俗作老舉」	gi6「妓女」; (語)gi3「老～婆，老妓女」,(語)gyu3「老～寨、老～牌，妓院」	gei6	1
 2602	寄	寄	gi3	gi3	gei3	1
 2603	己	己	gi2; (白)gi1「自己」	gi2	gei2	1
 2604	忌	忌	gi6「妒忌」; (語)ge6「怕」,(語)gai6「怕」	gi6「妒忌」; (語)gai6「怕」	gei6	1
@@ -3769,7 +3769,7 @@ ID	TRAD	SIMP	N-JYUTPING	T-JYUTPING	G-JYUTPING|LEVEL
 3768	虛	虚	hyu1	hyu1	heoi1	1
 3769	許	许	hyu2	hyu2; (語)hai3「給，又作與字」	heoi2	1
 3770	酗	酗	hyu3「酗酒」; (又)jyu3	hyu3「酗酒」; (又)jyu3	jyu3,heoi3	1
-3771	噓	嘘	hyu1「吹噓」,syu4「嘆詞，表制止」; (語)soe4「指使狗聲，唆使、挑撥，又作嗾/𡂡字」	hyu1「吹噓」,syu4「嘆詞，表制止」; (語)syu3「指使狗聲，唆使、挑撥，又作嗾/𡂡字，析音作射豬」	1)heoi1:噓寒問暖 2)syu4:嘆詞	2
+3771	噓	嘘	hyu1「吹噓」,syu4「嘆詞，表制止」; (語)soe4「指使狗聲，唆使、挑撥，又作嗾/𡂡字」	hyu1「吹噓」,syu4「嘆詞，表制止」; (語)syu3「指使狗聲，唆使、挑撥，又作嗾/𡂡字，分音作射豬」	1)heoi1:噓寒問暖 2)syu4:嘆詞	2
 3772	栩	栩	hyu2	hyu2	heoi2	2
 3773	煦	煦	hyu2	hyu2	heoi2；(又)jyu3	2
 3774	圩	圩	hyu1「同墟字」,wai4「圩堤」	hyu1「同墟字」,wai4「圩堤」	wai4,heoi1	2
@@ -6492,7 +6492,7 @@ ID	TRAD	SIMP	N-JYUTPING	T-JYUTPING	G-JYUTPING|LEVEL
 6491	娜	娜	naa4「人名」,no4「婀娜」	naa4「人名」,no4「婀娜」	1)no5:婀娜 2)naa4:人名	1
 6492	拿	拿	naa4	naa4	naa4	1
 6493	那	那	naa5	naa6	1)naa5:那裡 2)naa1:姓那	1
-6494	乸	乸	naa2「母，雌」	naa2「母，雌」	naa2	3
+6494	乸	乸	naa2「母、雌，一說本字女，上古魚部」	naa2「母、雌，一說本字女，上古魚部」	naa2	3
 6495	鎿	镎	naa4	naa4	naa4	3
 6496	𦰡	𦰡	naa5	naa6	naa5	3
 6497	拏	拏	naa4	naa4	naa4	4
@@ -7233,7 +7233,7 @@ ID	TRAD	SIMP	N-JYUTPING	T-JYUTPING	G-JYUTPING|LEVEL
 7232	䥕	𬭯	pit3	pit2	pit3	3
 7233	瓢	瓢	piu4「水瓢」; (訓)maai1「光～，禿子，古壯字⿰罢瓜，水瓢」	biu4「水瓢」; (白)beu4,(訓)maai1「～瓜，瓠子，古壯字⿰罢瓜，水瓢」	piu4	1
 7234	剽	剽	piu4	biu4	piu5	2
-7235	嫖	嫖	piu4	biu4	piu4	2
+7235	嫖	嫖	piu4「嫖賭；嫖字分音作皮條」	biu4「嫖賭；嫖字分音作皮條」	piu4	2
 7236	鰾	鳔	piu5「魚鰾，語流中易讀陰去」	biu6	piu5	2
 7237	殍	殍	piu5	biu5	piu5	2
 7238	莩	莩	piu5「同殍字」,fu1「葭莩」	biu5「同殍字」,fu1「葭莩」	piu5,fu1	2
