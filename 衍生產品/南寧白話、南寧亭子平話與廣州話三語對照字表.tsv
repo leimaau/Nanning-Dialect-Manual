@@ -1644,7 +1644,7 @@ ID	TRAD	SIMP	N-JYUTPING	T-JYUTPING	G-JYUTPING|LEVEL
 1643	頔	𬱖	dik6	dik6	dik6	3
 1644	樀	樀	dik1	dik2	dik1	4
 1645	踧	踧	dik6「踧踧」,cuk1「踧踖」	dik6「踧踧」,coek2「踧踖」	dik6,cuk1	4
-1646	扚	扚	dik1「提，與掟對轉」	dik2「提，與掟對轉」	dik1	5
+1646	扚	扚	dik1「提，與掟/碇/矴對轉」	dik2「提，與掟/碇/矴對轉」	dik1	5
 1647	篴	篴	dik6	dik6	dek6	5
 1648	點	点	dim2「～燈，～炮；怎麼，底物的合音」; (白)dem2「蘸，～鹽，～水」	dem2「小數～」; (又)dim2「～數」	dim2	1
 1649	典	典	(習)dim2; (書)din2	(習)dim2; (書)din2	din2	1
@@ -1695,15 +1695,15 @@ ID	TRAD	SIMP	N-JYUTPING	T-JYUTPING	G-JYUTPING|LEVEL
 1694	啶	啶	ding6	ding6	ding6	2
 1695	玎	玎	ding1	ding1	ding1	2
 1696	疔	疔	ding1「疔瘡」; (白)deng1	ding1「疔瘡」	ding1	2
-1697	碇	碇	ding3「錘舟石」; (白)deng3「擲、扔，俗字掟，與扚對轉」	ding3「錘舟石」; (白)diang3「擲、扔，俗字掟，與扚對轉」	ding3	2
+1697	碇	碇	ding3「錘舟石，又作矴字」; (白)deng3「擲、扔，名作動，俗字掟，與扚對轉」	ding3「錘舟石，又作矴字」; (白)diang3「擲、扔，名作動，俗字掟，與扚對轉」	ding3	2
 1698	腚	腚	ding6	ding6	ding6	2
 1699	耵	耵	ding1	ding1	ding1	3
 1700	萣	萣	ding6	ding6	ding6	3
-1701	掟	掟	ding6「天掟」; (語)deng3「擲、扔，本字矴/碇，與扚對轉」	ding6「天掟」; (語)diang3「擲、扔，本字矴/碇，與扚對轉」	deng3	4
+1701	掟	掟	ding6「天掟」; (語)deng3「擲、扔，本字碇/矴，與扚對轉」	ding6「天掟」; (語)diang3「擲、扔，本字碇/矴，與扚對轉」	deng3	4
 1702	靪	靪	ding1	ding1	ding1	4
 1703	飣	饤	ding3	ding3	ding3	4
-1704	矴	矴	ding3「錘舟石」; (白)deng3「擲、扔，俗字掟，與扚對轉」	ding3「錘舟石」; (白)diang3「擲、扔，俗字掟，與扚對轉」	ding3	4
-1705	虰	虰	ding1「虰蛵」,cing1「虰螘」	ding1「虰蛵」,cing1「虰螘」; (語)ziang4「𧋦～，蜻蜓」	cing1,ding1	5
+1704	虰	虰	ding1「虰蛵」,cing1「虰螘」	ding1「虰蛵」,cing1「虰螘」; (語)ziang4「𧋦～，蜻蜓」	cing1,ding1	5
+1705	矴	矴	ding3「錘舟石，又作碇字」; (白)deng3「擲、扔，名作動，俗字掟，與扚對轉」	ding3「錘舟石，又作碇字」; (白)diang3「擲、扔，名作動，俗字掟，與扚對轉」	ding3	5
 1706	聢	聢	ding6	ding6	ding6	5
 1707	疊	叠	dip6	dip6	dip6	1
 1708	碟	碟	dip6	dip6	dip6	1
@@ -5568,7 +5568,7 @@ ID	TRAD	SIMP	N-JYUTPING	T-JYUTPING	G-JYUTPING|LEVEL
 5567	力	力	lik6「力量」; (外)lik1「朱古力，英語chocolate」	lik5; (語)lik3「～落，利落」	lik6	1
 5568	曆	历	lik6「日曆」	lik5「日曆」	lik6	1
 5569	歷	历	lik6「歷史」	lik5「歷史」	lik6	1
-5570	瀝	沥	lik6	lik5	lik6	1
+5570	瀝	沥	lik6「瀝青，瀝血」	lik5「瀝青，瀝血」	lik6	1
 5571	礫	砾	lik6	lik5	lik1	1
 5572	靂	雳	lik6	lik5	lik1；(又)lik6	1
 5573	嚦	呖	lik6	lik5	lik6	2
@@ -6463,7 +6463,7 @@ ID	TRAD	SIMP	N-JYUTPING	T-JYUTPING	G-JYUTPING|LEVEL
 6462	璊	𫞩	mun4	mun4	mun4	3
 6463	朦	朦	mung4	moeng4	mung4	1
 6464	夢	梦	mung6	moeng6	mung6	1
-6465	檬	檬	mung1; (又)mung2	moeng3	mung1；本讀mung4	1
+6465	檬	檬	mung2; (白)mung1	moeng3	mung1；本讀mung4	1
 6466	濛	蒙	mung4「細雨貌」	moeng4「細雨貌」	mung4	1
 6467	矇	蒙	mung4「目不明」	moeng4「目不明」	mung4	1
 6468	蒙	蒙	mung4「蒙蔽」; (白)mung1「遮蓋」	moeng4「蒙蔽」; (白)moeng1「遮蓋」	mung4	1
@@ -6828,9 +6828,9 @@ ID	TRAD	SIMP	N-JYUTPING	T-JYUTPING	G-JYUTPING|LEVEL
 6827	鉨	鿭	ni5「化學元素」	ni5「化學元素」	nei5	5
 6828	誼	谊	ni4; (又)ni6,(又)ji4,(又)ji6	nji4; (又)nji6	ji4；(又)ji6	1
 6829	匿	匿	nik6	nik5	nik1	1
-6830	溺	溺	nik6	nik6	1)nik6:溺愛 2)niu6:同尿	1
+6830	溺	溺	nik6「溺水，溺愛」	nik5「溺水，溺愛」	1)nik6:溺愛 2)niu6:同尿	1
 6831	逆	逆	nik6「逆風，與迎對轉」; (又)ngik6,(語)ngaak6	nik5「逆風，與迎對轉」; (語)njaak3「不稱心；乾～～，水分少、乾」	jik6	1
-6832	搦	搦	nik1「拿，與擰對轉」	nik2「拿，與擰對轉」	nik1	2
+6832	搦	搦	(習)nik1「拿，與擰對轉，本字瀝，來母讀泥母，與粒演變同」; (書)nok6「握；持」	(習)nik2「拿，與擰對轉，本字瀝，來母讀泥母，與粒演變同」; (書)naak5「握；持」	nik1	2
 6833	昵	昵	nik6	nik5	nik1	2
 6834	鬩	阋	(訓)nik6「訓讀慝」	(訓)nik5「訓讀慝」	jik1	2
 6835	鷊	鹝	nik6	nik5	jik6	3
@@ -6856,11 +6856,11 @@ ID	TRAD	SIMP	N-JYUTPING	T-JYUTPING	G-JYUTPING|LEVEL
 6855	𢆡	𢆡	nin1; (白)nen1	nin1; (白)nen1	nin1	5
 6856	凝	凝	ning4「凝結，凝固」; (語)king4「（豬油等）凝結」,(罕)nging4	ning4「凝結，凝固」; (語)ging4「（豬油等）凝結」	jing4	1
 6857	寧	宁	ning4「安寧；寧可，寧願（口語用能願[jyn35]）」	ning4「安寧；寧可」	ning4	1
-6858	擰	拧	ning1「提，與搦對轉」,ning6「擰轉；倔強」	ning1「提，與搦對轉」,ning6「擰轉；倔強」	ning6；(又)ning4	1
+6858	擰	拧	ning1「提，與搦對轉，本字拎，來母讀泥母，與粒演變同」,ning6「擰轉；倔強」	ning1「提，與搦對轉，本字拎，來母讀泥母，與粒演變同」,ning6「擰轉；倔強」	ning6；(又)ning4	1
 6859	檸	柠	ning4	ning4	ning4	1
 6860	濘	泞	ning6	ning6	ning6	1
 6861	獰	狞	ning4	ning4	ning4	1
-6862	拎	拎	(習)ning1「提，又作擰字」; (書)ling1	(習)ning1「提，又作擰字」; (書)ling1	ling1	1
+6862	拎	拎	(習)ning1「提，俗字擰」; (書)ling1	(習)ning1「提，俗字擰」; (書)ling1	ling1	1
 6863	佞	佞	ning6	ning6	ning6	2
 6864	嚀	咛	ning4「叮嚀」; (語)ning1「細～～，小貌」	ning4「叮嚀」; (語)ning3「細～～，小貌」	ning4	2
 6865	甯	甯	ning6「姓」	ning6「姓」	ning6	3
