@@ -15,7 +15,7 @@ ID	TRAD	SIMP	N-JYUTPING	T-JYUTPING	G-JYUTPING|LEVEL
 14	哎	哎	aai1; (又)ai1,(又)ui2「～唷[ju35]，表驚奇」	aai1; (又)ai1	aai1	1
 15	唉	唉	aai1「表應答或嘆息，唉聲嘆氣」,aai6「表惋惜」,oi1「應聲」; (又)ai1,(又)ai6	aai1「表應答或嘆息，唉聲嘆氣」,aai6「表惋惜」; (又)ai1,(又)ai6	aai1	1
 16	埃	埃	(白)aai1「埃及」; (文)oi1「塵埃」	aai1「埃及；塵埃」	oi1；(又)aai1	1
-17	挨	挨	aai1「挨近」,ngaai4「挨打，同捱字」; (語)e3「擠靠；套近乎；疑本字擠」	aai1「挨近」,ngaai4「挨打，同捱字」	aai1；同捱	1
+17	挨	挨	aai1「挨近」,ngaai4「挨打，同捱字」; (語)e3「擠靠；套近乎」	aai1「挨近」,ngaai4「挨打，同捱字」	aai1；同捱	1
 18	隘	隘	aai3; (又)oi3	aai3	aai3	1
 19	噯	嗳	aai1「同哎字」,oi2「噯氣；嘆詞」	aai1「同哎字」,aai2「噯氣；嘆詞」	oi2	2
 20	嗌	嗌	aai3「罵；喊叫」,jik1「咽喉」	aai3「罵；喊叫」,ik2「咽喉」	aai3,jik1	2
@@ -1601,7 +1601,7 @@ ID	TRAD	SIMP	N-JYUTPING	T-JYUTPING	G-JYUTPING|LEVEL
 1600	豆	豆	dau6	dau6	dau6	1
 1601	逗	逗	dau3「挑逗，又作挑鬥」,dau6「逗號，逗遛」	dau3「挑逗，又作挑鬥」,dau6「逗號，逗遛」	dau6	1
 1602	陡	陡	dau2	dau2	dau2	1
-1603	竇	窦	dau6「情竇；姓」; (語)dau3「窩，本字巢」	dau6「情竇；姓」; (語)dau3「窩，本字巢」	dau6	2
+1603	竇	窦	dau6「情竇；姓」; (語)dau3「窩，一說本字巢」	dau6「情竇；姓」; (語)dau3「窩，一說本字巢」	dau6	2
 1604	赳	赳	(習)dau2「赳赳，俗從斗作﨣」; (書)gau2	(習)dau2「赳赳，俗從斗作﨣」; (書)gau2	gau2；(又)dau2	2
 1605	篼	篼	dau1	dau1	dau1	2
 1606	蔸	蔸	(量)dau1「棵、叢、條」	(量)dau1「棵、叢、條」	dau1	2
@@ -3912,7 +3912,7 @@ ID	TRAD	SIMP	N-JYUTPING	T-JYUTPING	G-JYUTPING|LEVEL
 3911	邑	邑	jap1	jap2	jap1	1
 3912	揖	揖	jap1「作揖」	jap2「作揖；～頭～腦，探頭探腦」	jap1	2
 3913	翕	翕	jap1「翕動，翕然」; (語)jap6「揮動，～手；翅膀搧動聲」	jap2「翕動，翕然」	jap1	2
-3914	悒	悒	jap1「悒鬱」; (語)jaap1「心～，心煩，疑本字㞚」	jap2「悒鬱」; (語)njaap3「心～，心煩，疑本字㞚」	jap1	2
+3914	悒	悒	jap1「悒鬱」; (語)jaap1「心～，心煩」	jap2「悒鬱」; (語)njaap3「心～，心煩」	jap1	2
 3915	挹	挹	jap1	jap2	jap1	2
 3916	浥	浥	jap1「溼潤」; (語)ap1「～汁，陰暗潮溼」	jap2「溼潤」; (語)ap2「掩埋；合在一起漚」	jap1	2
 3917	熠	熠	jap1; (語)jaap6「閃爍」	jap2; (語)jaap6「詞綴，搧～～，來回搧動」,(語)jap3「閃爍；躲～～，躲躲閃閃」	jap1	2
