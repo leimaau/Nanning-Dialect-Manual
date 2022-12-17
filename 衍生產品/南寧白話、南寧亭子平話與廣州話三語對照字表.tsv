@@ -15,7 +15,7 @@ ID	TRAD	SIMP	N-JYUTPING	T-JYUTPING	G-JYUTPING|LEVEL
 14	哎	哎	aai1; (又)ai1,(又)ui2「～唷[ju35]，表驚奇」	aai1; (又)ai1	aai1	1
 15	唉	唉	aai1「表應答或嘆息，唉聲嘆氣」,aai6「表惋惜」,oi1「應聲」; (又)ai1,(又)ai6	aai1「表應答或嘆息，唉聲嘆氣」,aai6「表惋惜」; (又)ai1,(又)ai6	aai1	1
 16	埃	埃	(白)aai1「埃及」; (文)oi1「塵埃」	aai1「埃及；塵埃」	oi1；(又)aai1	1
-17	挨	挨	aai1「挨近」,ngaai4「挨打，同捱字」; (語)e3「擠靠；套近乎」	aai1「挨近」,ngaai4「挨打，同捱字」	aai1；同捱	1
+17	挨	挨	aai1「挨近」,ngaai4「挨打，同捱字」; (語)e3「擠靠；套近乎；疑本字擠」	aai1「挨近」,ngaai4「挨打，同捱字」	aai1；同捱	1
 18	隘	隘	aai3; (又)oi3	aai3	aai3	1
 19	噯	嗳	aai1「同哎字」,oi2「噯氣；嘆詞」	aai1「同哎字」,aai2「噯氣；嘆詞」	oi2	2
 20	嗌	嗌	aai3「罵；喊叫」,jik1「咽喉」	aai3「罵；喊叫」,ik2「咽喉」	aai3,jik1	2
@@ -3279,7 +3279,7 @@ ID	TRAD	SIMP	N-JYUTPING	T-JYUTPING	G-JYUTPING|LEVEL
 3278	篋	箧	haap6「書篋」; (語)gep1「皮夾子；手提箱」	haap6「書篋」; (語)gep2「皮～，皮革手提箱」	haap6	2
 3279	翈	翈	haap6	haap6	haap6	3
 3280	欱	欱	haap3「大口喝，又作呷字」	haap2「大口喝，又作呷字」; (又)hep3「吮吸」	hap6	4
-3281	炠	炠	haap6; (語)jaap3「古壯字，刺癢」	haap6; (語)njaap3「古壯字，刺癢」	haap6	4
+3281	炠	炠	haap6; (語)jaap3「古壯字，刺癢，疑本字插/臿」	haap6; (語)njaap3「古壯字，刺癢，疑本字插/臿」	haap6	4
 3282	陜	陜	haap6	haap6	haap6	5
 3283	瞎	瞎	haat3	jaat2	hat6	1
 3284	校	校	haau6「學校」,gaau3「校對，上校」	gaau3「學校，校對，上校」; (又)kaau3「學校」,(又)haau3「學校」,(又)geu3「校數，隱語，排行最大者」	1)haau6:學校 2)gaau3:校對	1
@@ -3910,9 +3910,9 @@ ID	TRAD	SIMP	N-JYUTPING	T-JYUTPING	G-JYUTPING|LEVEL
 3909	匁	匁	jan6	njan6	jan6	5
 3910	入	入	jap6	jap5; (語)jap2「縮進去」	jap6	1
 3911	邑	邑	jap1	jap2	jap1	1
-3912	揖	揖	jap1	jap2	jap1	2
+3912	揖	揖	jap1「作揖」	jap2「作揖；～頭～腦，探頭探腦」	jap1	2
 3913	翕	翕	jap1「翕動，翕然」; (語)jap6「揮動，～手；翅膀搧動聲」	jap2「翕動，翕然」	jap1	2
-3914	悒	悒	jap1「悒鬱」; (語)jaap1「心～，心煩」	jap2「悒鬱」; (語)njaap3「心～，心煩」	jap1	2
+3914	悒	悒	jap1「悒鬱」; (語)jaap1「心～，心煩，疑本字㞚」	jap2「悒鬱」; (語)njaap3「心～，心煩，疑本字㞚」	jap1	2
 3915	挹	挹	jap1	jap2	jap1	2
 3916	浥	浥	jap1「溼潤」; (語)ap1「～汁，陰暗潮溼」	jap2「溼潤」; (語)ap2「掩埋；合在一起漚」	jap1	2
 3917	熠	熠	jap1; (語)jaap6「閃爍」	jap2; (語)jaap6「詞綴，搧～～，來回搧動」,(語)jap3「閃爍；躲～～，躲躲閃閃」	jap1	2
@@ -4014,7 +4014,7 @@ ID	TRAD	SIMP	N-JYUTPING	T-JYUTPING	G-JYUTPING|LEVEL
 4013	琊	琊	je4	je4	je4	3
 4014	倻	倻	je4	je4	je4	3
 4015	鋣	铘	je4	je4	je4	3
-4016	嘢	嘢	je5「東西，一說本字個，乜嘢即乜嘅（物個）」	nge5「東西，一說本字個，乜嘢即乜嘅（物個）」	je5	4
+4016	嘢	嘢	je5「東西，一說本字個，乜嘢即乜嘅（物個），另一說本字野/惹/如」	nge5「東西，一說本字個，乜嘢即乜嘅（物個），另一說本字野/惹/如」	je5	4
 4017	惹	惹	je5	nje5	je5	1
 4018	偌	偌	je6	nje6; (白)njaa6	je6	2
 4019	贏	赢	(白)jeng4; (文)jing4,(罕)heng4	hing4	jing4；(語)jeng4	1
@@ -4474,8 +4474,8 @@ ID	TRAD	SIMP	N-JYUTPING	T-JYUTPING	G-JYUTPING|LEVEL
 4473	鵒	鹆	juk6	njoek5	juk6	2
 4474	淯	淯	juk6	njoek5	juk6	3
 4475	硲	硲	juk6	njoek5	juk6,jyu6	5
-4476	逳	逳	juk1「行；動，俗字喐」	njoek5「行」; (又)njuk3「動，俗字喐」	juk1	5
-4477	喐	喐	juk1「動，本字逳」	njuk3「動，本字逳」	juk1	4
+4476	逳	逳	juk1「行；〈語〉動，俗字喐，聲母演變與育字同」	njoek5「行」; (語)njuk3「動，俗字喐，聲母演變與育字同」	juk1	5
+4477	喐	喐	juk1「動，本字逳，聲母演變與育字同」	njuk3「動，本字逳，聲母演變與育字同」	juk1	4
 4478	沃	沃	juk1	oek2	juk1	1
 4479	鋈	鋈	juk1	oek2	juk1	2
 4480	佣	佣	jung6; (白)jung2「佣金」	joeng6「佣金」	jung2；(又)jung6；同傭	1
@@ -6715,7 +6715,7 @@ ID	TRAD	SIMP	N-JYUTPING	T-JYUTPING	G-JYUTPING|LEVEL
 6714	𩕟	𩕟	ngap6	ngap6	ngap6	5
 6715	𩪤	𩪤	ngap6	ngap6	ngap6	5
 6716	屹	屹	ngat6「屹立」	ngat6「屹立」	ngat6	1
-6717	疙	疙	ngat6; (語)gat6「疙𤶸，活結，引申爲摳門」	ngat6; (語)gat6「疙𤶸，活結，引申爲摳門」	ngat6,gat6	1
+6717	疙	疙	ngat6; (語)gat6「疙𤶸，活結，引申爲摳門」	ngat6; (語)gat6「疙𤶸，活結，引申爲摳門」,(語)nget3「熮[lɛu55]～～，乾而瘦」	ngat6,gat6	1
 6718	迄	迄	ngat6「迄今」; (又)hat1	ngat6「迄今」; (又)hat2	ngat6	1
 6719	兀	兀	ngat6	ngat6	ngat6	2
 6720	訖	讫	ngat6「收訖」; (又)gat1,(又)hat1	ngat6「收訖」; (又)gat2,(又)hat2	ngat6；(又)gat1	2

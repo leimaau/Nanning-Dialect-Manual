@@ -2575,7 +2575,7 @@ ID	TRAD	SIMP	IPA	JYUTPING	EXPL	NOTE	LEVEL
 2574	欸	欸	∅ɛ55	e1	表驚異	(又)	2
 2575	誒	诶	∅ɛ55	e1	表驚異	(又)	4
 2576	屎	屎	∅ɛ33	e3	弱讀	(又)	1
-2577	挨	挨	∅ɛ33	e3	擠靠；套近乎	(語)	1
+2577	挨	挨	∅ɛ33	e3	擠靠；套近乎；疑本字擠	(語)	1
 2578	嘅	嘅	∅ɛ33	e3	弱讀	(語)	4
 2579	𡲢	𡲢	∅ɛ33	e3	弱讀	(又)	5
 2580	欸	欸	∅ɛ22	e6	嘆詞		2
@@ -5116,10 +5116,10 @@ ID	TRAD	SIMP	IPA	JYUTPING	EXPL	NOTE	LEVEL
 5115	撐	撑	jaŋ33	jaang3	蹬、踹	(白)	1
 5116	𨅝	𨅝	jaŋ33	jaang3	蹬、踹，本字撐		5
 5117	𨆪	𫏕	jaŋ33	jaang3	蹬、踹，本字撐		5
-5118	悒	悒	jap5	jaap1	心～，心煩	(語)	2
+5118	悒	悒	jap5	jaap1	心～，心煩，疑本字㞚	(語)	2
 5119	眨	眨	jap3	jaap3		(白)	1
 5120	擪	擪	jap3	jaap3	～火，按捺着怒火，又作擫字	(語)	4
-5121	炠	炠	jap3	jaap3	古壯字，刺癢	(語)	4
+5121	炠	炠	jap3	jaap3	古壯字，刺癢，疑本字插/臿	(語)	4
 5122	擫	𢬍	jap3	jaap3	同擪字	(語)	5
 5123	熠	熠	jap2	jaap6	閃爍	(語)	2
 5124	抓	抓	jau55	jaau1	搔、撓，俗字撓	(白)	1
@@ -5252,7 +5252,7 @@ ID	TRAD	SIMP	IPA	JYUTPING	EXPL	NOTE	LEVEL
 5251	泣	泣	jɐp5	jap1			1
 5252	眨	眨	jɐp5	jap1		(白)	1
 5253	邑	邑	jɐp5	jap1			1
-5254	揖	揖	jɐp5	jap1			2
+5254	揖	揖	jɐp5	jap1	作揖		2
 5255	翕	翕	jɐp5	jap1	翕動，翕然		2
 5256	悒	悒	jɐp5	jap1	悒鬱		2
 5257	挹	挹	jɐp5	jap1			2
@@ -5378,7 +5378,7 @@ ID	TRAD	SIMP	IPA	JYUTPING	EXPL	NOTE	LEVEL
 5377	若	若	jɛ24	je5	般若		1
 5378	野	野	jɛ24	je5			1
 5379	喏	喏	jɛ24	je5	唱喏		2
-5380	嘢	嘢	jɛ24	je5	東西，一說本字個，乜嘢即乜嘅（物個）		4
+5380	嘢	嘢	jɛ24	je5	東西，一說本字個，乜嘢即乜嘅（物個），另一說本字野/惹/如		4
 5381	夜	夜	jɛ22	je6			1
 5382	射	射	jɛ22	je6	僕射		1
 5383	偌	偌	jɛ22	je6			2
@@ -5938,8 +5938,8 @@ ID	TRAD	SIMP	IPA	JYUTPING	EXPL	NOTE	LEVEL
 5937	薁	薁	jʊk5	juk1			3
 5938	隩	隩	jʊk5	juk1	河岸彎曲處		3
 5939	勗	勗	jʊk5	juk1			4
-5940	喐	喐	jʊk5	juk1	動，本字逳		4
-5941	逳	逳	jʊk5	juk1	行；動，俗字喐		5
+5940	喐	喐	jʊk5	juk1	動，本字逳，聲母演變與育字同		4
+5941	逳	逳	jʊk5	juk1	行；〈語〉動，俗字喐，聲母演變與育字同		5
 5942	慾	欲	jʊk2	juk6	慾望		1
 5943	欲	欲	jʊk2	juk6	意欲		1
 5944	浴	浴	jʊk2	juk6			1
