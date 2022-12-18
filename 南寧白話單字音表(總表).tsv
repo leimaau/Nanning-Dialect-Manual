@@ -28,7 +28,7 @@ ID	TRAD	SIMP	IPA	JYUTPING	EXPL	NOTE	LEVEL
 27	噯	嗳	∅ai55	aai1	同哎字		2
 28	欸	欸	∅ai35	aai2	欸乃		2
 29	隘	隘	∅ai33	aai3			1
-30	嗌	嗌	∅ai33	aai3	罵；喊叫		2
+30	嗌	嗌	∅ai33	aai3	罵，～人，此義常用；喊叫，此義罕用		2
 31	餲	餲	∅ai33	aai3		(又)	4
 32	唉	唉	∅ai22	aai6	表惋惜		1
 33	軛	轭	∅ak3	aak3	牛軛；鐲子，俗字鈪		2
@@ -792,7 +792,7 @@ ID	TRAD	SIMP	IPA	JYUTPING	EXPL	NOTE	LEVEL
 791	偲	偲	tʃʰai55	caai1	多才		3
 792	踩	踩	tʃʰai35	caai2	踩踏，本字跐		1
 793	踹	踹	tʃʰai35	caai2	踩		2
-794	跐	跐	tʃʰai35	caai2	同踩字		2
+794	跐	跐	tʃʰai35	caai2	同踩字	(白)	2
 795	跴	跴	tʃʰai35	caai2	同踩字		4
 796	䐆	䐆	tʃʰai35	caai2	牛～，牛下水	(語)	4
 797	嘬	嘬	tʃʰai33	caai3	咬；吃		2
@@ -1177,7 +1177,7 @@ ID	TRAD	SIMP	IPA	JYUTPING	EXPL	NOTE	LEVEL
 1176	哆	哆	tʃʰi35	ci2	張口		1
 1177	褫	褫	tʃʰi35	ci2			2
 1178	豕	豕	tʃʰi35	ci2			2
-1179	跐	跐	tʃʰi35	ci2	踏；腳下滑動		2
+1179	跐	跐	tʃʰi35	ci2	踏；跐豸		2
 1180	奓	奓	tʃʰi35	ci2	同侈字		3
 1181	泚	泚	tʃʰi35	ci2			3
 1182	玼	玼	tʃʰi35	ci2	鮮明		3
@@ -2194,7 +2194,7 @@ ID	TRAD	SIMP	IPA	JYUTPING	EXPL	NOTE	LEVEL
 2193	𠸂	𠸂	tɛt2	det6	手錶聲，元音象義	(白)	5
 2194	鳥	鸟	tɛu55	deu1	男陰，俗字屌	(白)	1
 2195	屌	屌	tɛu55	deu1	男陰，本字鳥		4
-2196	嫋	袅	tɛu21	deu4	詞綴，軟～～，柔軟貌，與鳥字演變同	(語)	2
+2196	嫋	袅	tɛu21	deu4	詞綴，軟～～，柔軟貌，韻母演變同鳥字	(語)	2
 2197	掉	掉	tɛu22	deu6	丟棄；～動、～轉，同調動、調轉；罕讀	(白)	1
 2198	調	调	tɛu22	deu6	～轉、～動，又作掉轉、掉動，罕讀	(白)	1
 2199	啲	啲	ti55	di1	一～，一點兒；阿～嚕～，這裏那裏；～咑，嗩吶或嗩吶聲		4
@@ -2575,7 +2575,7 @@ ID	TRAD	SIMP	IPA	JYUTPING	EXPL	NOTE	LEVEL
 2574	欸	欸	∅ɛ55	e1	表驚異	(又)	2
 2575	誒	诶	∅ɛ55	e1	表驚異	(又)	4
 2576	屎	屎	∅ɛ33	e3	弱讀	(又)	1
-2577	挨	挨	∅ɛ33	e3	擠靠；套近乎	(語)	1
+2577	挨	挨	∅ɛ33	e3	擠靠、套近乎，本字不明	(語)	1
 2578	嘅	嘅	∅ɛ33	e3	弱讀	(語)	4
 2579	𡲢	𡲢	∅ɛ33	e3	弱讀	(又)	5
 2580	欸	欸	∅ɛ22	e6	嘆詞		2
@@ -4709,7 +4709,7 @@ ID	TRAD	SIMP	IPA	JYUTPING	EXPL	NOTE	LEVEL
 4708	愆	愆	hin55	hin1			2
 4709	搴	搴	hin55	hin1			2
 4710	褰	褰	hin55	hin1			2
-4711	鍁	锨	hin55	hin1			2
+4711	鍁	锨	hin55	hin1	農具名，同杴字		2
 4712	岍	岍	hin55	hin1			3
 4713	汧	汧	hin55	hin1			3
 4714	鶱	𬸣	hin55	hin1			3
@@ -4720,7 +4720,7 @@ ID	TRAD	SIMP	IPA	JYUTPING	EXPL	NOTE	LEVEL
 4719	臤	臤	hin55	hin1		(又)	5
 4720	㩮	㩮	hin55	hin1	同攑字		5
 4721	攑	攑	hin55	hin1			5
-4722	𣔙	𣔙	hin55	hin1			5
+4722	𣔙	𣔙	hin55	hin1	農具名，同杴字		5
 4723	顯	显	hin35	hin2			1
 4724	譴	谴	hin35	hin2			1
 4725	遣	遣	hin35	hin2			1
@@ -5116,7 +5116,7 @@ ID	TRAD	SIMP	IPA	JYUTPING	EXPL	NOTE	LEVEL
 5115	撐	撑	jaŋ33	jaang3	蹬、踹	(白)	1
 5116	𨅝	𨅝	jaŋ33	jaang3	蹬、踹，本字撐		5
 5117	𨆪	𫏕	jaŋ33	jaang3	蹬、踹，本字撐		5
-5118	悒	悒	jap5	jaap1	心～，心煩	(語)	2
+5118	悒	悒	jap5	jaap1	心～，心煩，本字不明	(語)	2
 5119	眨	眨	jap3	jaap3		(白)	1
 5120	擪	擪	jap3	jaap3	～火，按捺着怒火，又作擫字	(語)	4
 5121	炠	炠	jap3	jaap3	古壯字，刺癢，疑本字插/臿	(語)	4
@@ -5938,8 +5938,8 @@ ID	TRAD	SIMP	IPA	JYUTPING	EXPL	NOTE	LEVEL
 5937	薁	薁	jʊk5	juk1			3
 5938	隩	隩	jʊk5	juk1	河岸彎曲處		3
 5939	勗	勗	jʊk5	juk1			4
-5940	喐	喐	jʊk5	juk1	動，本字逳，聲母演變與育字同		4
-5941	逳	逳	jʊk5	juk1	行；〈語〉動，俗字喐，聲母演變與育字同		5
+5940	喐	喐	jʊk5	juk1	動，本字逳，聲母演變同育字		4
+5941	逳	逳	jʊk5	juk1	行；〈語〉動，俗字喐，聲母演變同育字		5
 5942	慾	欲	jʊk2	juk6	慾望		1
 5943	欲	欲	jʊk2	juk6	意欲		1
 5944	浴	浴	jʊk2	juk6			1
@@ -8469,7 +8469,7 @@ ID	TRAD	SIMP	IPA	JYUTPING	EXPL	NOTE	LEVEL
 8468	摸	摸	mɔ55	mo1	撫摸		1
 8469	摹	摹	mɔ55	mo1	摹仿，又作模仿		1
 8470	無	无	mɔ55	mo1	南無（喃嘸）佬，道士和尚	(語)	1
-8471	模	模	mɔ55	mo1			1
+8471	模	模	mɔ55	mo1	模範；模子		1
 8472	魔	魔	mɔ55	mo1			1
 8473	饃	馍	mɔ55	mo1	泡饃，又作饝/𩞁字		1
 8474	嬤	嬷	mɔ55	mo1		(又)	2
@@ -9168,7 +9168,7 @@ ID	TRAD	SIMP	IPA	JYUTPING	EXPL	NOTE	LEVEL
 9167	誼	谊	ni22	ni6		(又)	1
 9168	儗	儗	ni22	ni6	佁儗		4
 9169	眲	眲	ni22	ni6	輕視		5
-9170	搦	搦	nek5	nik1	拿，與擰對轉，本字瀝，來母讀泥母，與粒演變同	(習)	2
+9170	搦	搦	nek5	nik1	拿，與擰對轉，《洪武正韻》女力切	(習)	2
 9171	𪐌	𪐌	nek5	nik1	黏；～住，停滯		4
 9172	匿	匿	nek2	nik6			1
 9173	溺	溺	nek2	nik6	溺水，溺愛		1
@@ -9208,7 +9208,7 @@ ID	TRAD	SIMP	IPA	JYUTPING	EXPL	NOTE	LEVEL
 9207	輾	辗	nin24	nin5		(文)	1
 9208	涊	涊	nin24	nin5			4
 9209	蹨	蹨	nin24	nin5			5
-9210	擰	拧	neŋ55	ning1	提，與搦對轉，本字拎，來母讀泥母，與粒演變同		1
+9210	擰	拧	neŋ55	ning1	提，與搦對轉，本字拎，來母讀泥母，聲母演變同粒字		1
 9211	拎	拎	neŋ55	ning1	提，俗字擰	(習)	1
 9212	嚀	咛	neŋ55	ning1	細～～，小貌	(語)	2
 9213	笭	笭	neŋ35	ning2	魚～	(又)	4
@@ -12359,7 +12359,7 @@ ID	TRAD	SIMP	IPA	JYUTPING	EXPL	NOTE	LEVEL
 12358	寨	寨	tʃai22	zaai6			1
 12359	豸	豸	tʃai22	zaai6		(又)	2
 12360	砦	砦	tʃai22	zaai6			4
-12361	㨁	㨁	tʃai22	zaai6	投擲，俗字㩟	(語)	4
+12361	㨁	㨁	tʃai22	zaai6	投擲，俗字㩟，韻母演變同踩/跐字	(白)	4
 12362	㩟	㩟	tʃai22	zaai6	縫綴；〈語〉投擲，本字㨁		4
 12363	廌	廌	tʃai22	zaai6		(又)	5
 12364	窄	窄	tʃak3	zaak3			1

@@ -15,10 +15,10 @@ ID	TRAD	SIMP	N-JYUTPING	T-JYUTPING	G-JYUTPING|LEVEL
 14	哎	哎	aai1; (又)ai1,(又)ui2「～唷[ju35]，表驚奇」	aai1; (又)ai1	aai1	1
 15	唉	唉	aai1「表應答或嘆息，唉聲嘆氣」,aai6「表惋惜」,oi1「應聲」; (又)ai1,(又)ai6	aai1「表應答或嘆息，唉聲嘆氣」,aai6「表惋惜」; (又)ai1,(又)ai6	aai1	1
 16	埃	埃	(白)aai1「埃及」; (文)oi1「塵埃」	aai1「埃及；塵埃」	oi1；(又)aai1	1
-17	挨	挨	aai1「挨近」,ngaai4「挨打，同捱字」; (語)e3「擠靠；套近乎」	aai1「挨近」,ngaai4「挨打，同捱字」	aai1；同捱	1
+17	挨	挨	aai1「挨近」,ngaai4「挨打，同捱字」; (語)e3「擠靠、套近乎，本字不明」	aai1「挨近」,ngaai4「挨打，同捱字」	aai1；同捱	1
 18	隘	隘	aai3; (又)oi3	aai3	aai3	1
 19	噯	嗳	aai1「同哎字」,oi2「噯氣；嘆詞」	aai1「同哎字」,aai2「噯氣；嘆詞」	oi2	2
-20	嗌	嗌	aai3「罵；喊叫」,jik1「咽喉」	aai3「罵；喊叫」,ik2「咽喉」	aai3,jik1	2
+20	嗌	嗌	aai3「罵，～人，此義常用；喊叫，此義罕用」,jik1「咽喉」	aai3「罵；喊叫」,ik2「咽喉」	aai3,jik1	2
 21	欸	欸	aai2「欸乃」,oi1「歎也」,e6「嘆詞」; (又)ai1「表招呼」,(又)ai2「表詫異」,(又)e1「表驚異」	aai2「欸乃」,aai1「歎也」,e6「嘆詞」; (又)ai1「表招呼」,(又)ai5「表詫異」,(又)e1「表驚異」	aai2,ei3,oi1	2
 22	軛	轭	aak3「牛軛；鐲子，俗字鈪」	iak2「牛軛；鐲子，俗字鈪」	aak1	2
 23	軶	軶	aak3	iak2	aak1	4
@@ -584,294 +584,294 @@ ID	TRAD	SIMP	N-JYUTPING	T-JYUTPING	G-JYUTPING|LEVEL
 583	嘬	嘬	caai3「咬；吃」,zyut3「吮吸」; (又)zoet1,(白)jaai3「嚼」	caai3「咬；吃」,zyut2「吮吸」; (又)zot3,(白)njaai3「嚼」	caai3,zyut3	2
 584	搋	搋	caai1「搓揉，～麪」	caai1「搓揉，～麪」	caai1	2
 585	蠆	虿	caai3	caai3	caai3	2
-586	跐	跐	caai2「同踩字」,ci2「踏；腳下滑動」; (老派)cy2	caai2「同踩字」,ci2「踏；腳下滑動」	caai2,ci2	2
-587	瘥	瘥	caai3「病癒」,co4「病疫」	caai3「病癒」,zo4「病疫」	caai3,co4	3
-588	跴	跴	caai2「同踩字」; (白)jaai2	caai2「同踩字」; (白)njaai2	caai2,jaai2	4
-589	柴	柴	caai4	saai4; (又)zaai4	caai4	1
-590	喍	喍	caai4	saai4; (又)zaai4	caai4	5
-591	豺	豺	caai4; (常)coi4「豺狼」	zaai4	caai4	1
-592	儕	侪	caai4「同儕」	zaai4「同儕」; (語)zai4「儕家、大儕，大家」	caai4	2
-593	冊	册	caak3	ciak2	caak3	1
-594	拆	拆	caak3	ciak2	caak3	1
-595	策	策	caak3	ciak2	caak3	1
-596	吒	咤	caak1「叱吒」	ciak2「叱吒」	caak1:叱吒風雲	2
-597	坼	坼	caak3	ciak2	caak3	2
-598	簎	簎	caak3; (語)jak1「刺；引逗，～鬼崽（小孩）」	ciak2; (語)jak2「刺；引逗，～鬼崽（小孩）」	caak3	4
-599	㿭	㿭	caak3「皴；沙哑」	ciak2「皴；沙哑」	caak3	4
-600	蓛	蓛	caak3; (又)cik1	ciak2; (又)cik2	caak3	5
-601	箣	箣	caak3	ciak2	caak3	5
-602	參	参	caam1「參加」,sam1「人參」,cam1「參差」	caam1「參加」,sam1「人參」,cam1「參差」	1)caam1:參加 2)sam1:參商 3)cam1:參差	1
-603	慘	惨	caam2	caam2	caam2	1
-604	攙	搀	caam1「攙扶」,(白)cem4「刺入，與插對轉，又作鑱/劖字」; (文)caam4	caam1「攙扶」,zaam4「刺入，與插對轉，又作鑱/劖字」	caam1	1
-605	杉	杉	caam3	caam3	caam3；(又)saam1	1
-606	懺	忏	caam3; (又)cim3	caam3; (又)cim3	caam3	2
-607	驂	骖	caam1	caam1	caam1	2
-608	黲	黪	caam2	caam2	caam2	2
-609	儳	儳	caam3「儳言」,caam4「不齊」	caam3「儳言」,zaam4「不齊」	caam3,caam4	3
-610	旵	旵	caam2	caam2	caam2	3
-611	噆	噆	caam2「叼、銜；咬、叮」; (語)cam3「～氣，晦氣，又作譖字」	caam2「叼、銜；咬、叮」	caam2,cam3	4
-612	憯	憯	caam2	caam2	caam2	4
-613	篸	𥮾	caam2「箕，垃圾～」; (白)cem2	caam2「～箕」	caam2,zaam1	4
-614	忏	忏	caam3	caam3	caam3	5
-615	朁	朁	caam2	caam2	caam2	5
-616	慚	惭	caam4	zaam4	caam4	1
-617	饞	馋	caam4「嘴饞」; (白)slaam4「餓～～，餓貌」,(白)slem4「餓～～，餓貌」	zaam4; (又)saam4,(白)slaam4「嘴～」	caam4	1
-618	讒	谗	caam4	zaam4	caam4	2
-619	巉	巉	caam4	zaam4	caam4	2
-620	㔆	㔆	caam5「刺、扎，與插對轉」	zaam5「刺、扎，與插對轉」	caam5	4
-621	蠶	蚕	caam4	zaan4	caam4	1
-622	蚕	蚕	caam4	zaan4	caam4	5
-623	產	产	caan2	caan2	caan2	1
-624	燦	灿	caan3	caan3	caan3	1
-625	餐	餐	caan1	caan1	caan1	1
-626	璨	璨	caan3	caan3	caan3	2
-627	粲	粲	caan3	caan3	caan3	2
-628	羼	羼	caan3	caan3	caan3	2
-629	滻	浐	caan2	caan2	caan2	3
-630	剗	刬	caan2	caan2	caan2	3
-631	湌	湌	caan1	caan1	caan1	4
-632	喰	喰	caan1; (又)sik6	caan1; (又)sik6	caan1,sik6	5
-633	殘	残	caan4	zaan4	caan4	1
-634	橙	橙	caang2	caang2; (又)zang2	caang2；本讀caang4	1
-635	撐	撑	caang1「撐船，支撐」; (又)caang3「撐場」,(白)jaang3「蹬、踹」	ciang1「撐船，支撐」; (又)ciang3「撐場」,(白)jiang3「蹬、踹」	caang1	1
-636	鐺	铛	caang1「平底煎鍋」,dong1「鋃鐺」	ciang1「平底煎鍋」,daang1「鋃鐺」	1)dong1:象聲詞 2)caang1:平底淺鍋	1
-637	瞠	瞠	caang1	ciang1	caang1	2
-638	鋥	锃	caang3「鋥光」; (又)saang3「鋥光；黃～～，黃澄澄」	ciang3「鋥光」; (又)siang3	caang3	2
-639	牚	牚	caang3「椅子牚」	ciang3「椅子牚」	caang1,caang3	3
-640	橕	橕	caang1	ciang1	caang1	4
-641	鎗	鎗	caang1「金鐘之聲」,coeng1「同槍字」	ciang1「金鐘之聲；同槍字」	caang1,coeng1	4
-642	罉	罉	caang1「平底煎鍋，本字鐺」	ciang1「平底煎鍋，本字鐺」	caang1	4
-643	𥋇	𥋇	caang3「粵字，睜、瞪，本字瞠」	ciang3「粵字，睜、瞪，本字瞠」	caang3	5
-644	棖	枨	caang4	ziang4	caang4	2
-645	掁	掁	caang4	ziang4	caang4	5
-646	揨	揨	caang4	ziang4	caang4	5
-647	撜	撜	caang4「同掁字」,zing2「同拯字」	ziang4「同掁字」,zing2「同拯字」	caang4,cing2	5
-648	朾	朾	caang4「朾螘」,ting1「虛朾」	ziang4「朾螘」,ting1「虛朾」	caang4,ting1	5
-649	鍤	锸	caap3	caap2	caap3	2
-650	㮑	㮑	caap3「木折聲」; (語)cap1「脆～～，非常脆」	caap2「木折聲」; (語)cap3「脆～～，非常脆」	caap3	4
-651	臿	臿	caap3	caap2	caap3	5
-652	𠝞	𠝞	caap3「切物聲」; (語)cap1「剪物聲」,(語)cep1「剪物聲」	caap2「切物聲」	caap3	5
-653	刷	刷	(訓)caat3「訓讀擦」	(訓)caat2「訓讀擦」	1)caat3:刷牙 2)saat3:刷白	1
-654	察	察	caat3	caat2	caat3	1
-655	擦	擦	caat3「擦拭；〈語〉～飯，吃的俗稱，又作𩟔字」	caat2「擦拭；〈語〉～飯，吃的俗稱，又作𩟔字」	caat3	1
-656	獺	獭	caat3	caat2	caat3	2
-657	唰	唰	caat3	caat2	caat3,syut3	2
-658	嚓	嚓	caat3	caat2	caat3	2
-659	檫	檫	caat3	caat2	caat3	3
-660	攃	攃	caat3「摩擦」,slaat3「同撒字」	caat2「摩擦」,slaat2「同撒字」	caat3,saat3	5
-661	𩟔	𩟔	caat3「～飯，吃的俗稱，又作擦字」	caat2「～飯，吃的俗稱，又作擦字」	caat3	5
-662	吵	吵	caau2「吵嚷」; (白)ceu2「吵耳」	caau2	caau2	1
-663	鈔	钞	caau1「鈔票；同抄字」	caau1「鈔票；同抄字」	caau1	1
-664	耖	耖	caau3	caau3	caau3	2
-665	巢	巢	caau4; (又)cu4	zaau4	caau4	1
-666	悽	凄	cai1「悽慘」	cai1「悽慘」	cai1	1
-667	淒	凄	cai1「淒涼」	cai1「淒涼」	cai1	1
-668	妻	妻	cai1	cai1	cai1；(古)cai3以女嫁人	1
-669	棲	栖	cai1	cai1	cai1	1
-670	砌	砌	cai3	cai3	cai3	1
-671	萋	萋	cai1	cai1	cai1	2
-672	沏	沏	cai3「沏茶」,cit3「水聲」	cai3「沏茶」,cit2「水聲」	cit3,cai3	2
-673	瘛	瘛	cai3; (又)kai3	cai3; (又)kai3	cai3	2
-674	傺	傺	cai3	cai3	cai3	3
-675	郪	郪	cai1	cai1	cai1	3
-676	凄	凄	cai1	cai1	cai1	5
-677	栖	栖	cai1	cai1	cai1	5
-678	齊	齐	cai4	zai4	1)cai4:整齊 2)zi1:齊衰；(古)通齋	1
-679	薺	荠	cai4「荸薺，薺菜」	zai4「荸薺，薺菜」	cai4,cai5	2
-680	蠐	蛴	cai4	zai4	cai4	2
-681	鱭	鲚	cai4	zai4	cai5	2
-682	測	测	cak1	cak2	cak1；(又)caak1	1
-683	賊	贼	cak6「做賊」; (又)caak6	cak6「做賊」	caak6	1
-684	惻	恻	cak1	cak2	cak1；(又)caak1	2
-685	蠈	蠈	cak6	cak6	caak6	5
-686	侵	侵	cam1	cam1	cam1	1
-687	寢	寝	cam2	cam2	cam2	1
-688	滲	渗	(白)cam3「水滲透」; (文)sam3,(又)cam5,(語)jam3「滲透、滲漏，本字蘸」,(又)jaam3	(白)cam3「水滲透」; (文)sam3,(語)njaam3「滲透、滲漏，本字蘸」,(又)jaam3,(又)jam3	sam3	1
-689	摻	掺	cam1「摻雜，摻水」,caam1「同攙字」,saam1「摻摻」	cam1「摻雜，摻水」,caam1「同攙字」,saam1「摻摻」	caam1,saam1,cam1	1
-690	讖	谶	cam3	cam3	cam3	2
-691	唚	吣	cam3	cam3	cam3	2
-692	磣	碜	cam2	cam2	cam2	2
-693	駸	骎	cam1	cam1	cam1	2
-694	棽	棽	cam1; (又)sam1	cam1; (又)sam1	cam1	3
-695	寑	寑	cam2	cam2	cam2	4
-696	嵾	㟥	cam1	cam1	cam1	5
-697	諃	諃	cam1	cam1	cam1	5
-698	尋	寻	cam4「尋找；～日，昨晚的合音」; (語)slam4「傻；盲～～，盲目亂來」	zam4「尋找」; (語)slam4「傻；動作遲緩」	cam4	1
-699	沉	沉	cam4「沉沒」; (語)zam6「～水，溺水，本字沈」	zam4「沉沒」; (語)zam6「往水裏按，本字沈」	cam4,zam6	1
-700	岑	岑	cam4; (又)kam4	zam4; (又)gam4	sam4	2
-701	撏	挦	cam4「撏扯」,cim4「拔、抽，又作撍字」	zam4「撏扯」,zim4「拔、抽，又作撍字」	cam4,cim4	2
-702	潯	浔	cam4	zam4	cam4	2
-703	涔	涔	cam4; (又)kam4	zam4; (又)gam4	sam4	2
-704	蕁	荨	cam4	zam4	cam4	2
-705	鱘	鲟	cam4	zam4	cam4	2
-706	梣	梣	cam4; (又)kam4	zam4; (又)gam4	sam4	3
-707	燖	𬊈	cam4	zam4	cam4	3
-708	璕	𬍤	cam4	zam4	cam4	3
-709	鄩	𬩽	cam4	zam4	cam4	3
-710	噚	噚	cam4	zam4	cam4	4
-711	親	亲	can3「親家」,can1「親切」	can3「親家」,can1「親切」	1)can1:雙親 2)can3:親家	1
-712	春	春	can1; (老派)cyun1	can1	ceon1	1
-713	蠢	蠢	can2; (老派)cyun2	can2	ceon2	1
-714	襯	衬	can3	can3	can3	1
-715	趁	趁	can3	can3	can3	1
-716	椿	椿	can1; (老派)cyun1	can1	ceon1	1
-717	哂	哂	can2「哂笑」; (語)slaai3「助詞，表完成，一說本字澌/㩄，又作嗮字」,(語)laai3「哂的語流音變」	can2「哂笑」	can2	2
-718	皴	皴	can1; (老派)cyun1	can1	seon1	2
-719	鶉	鹑	can1; (老派)cyun1	can1	ceon1；(又)seon4	2
-720	嗔	嗔	can1「生氣」,tin4「嗔嗔」	can1「生氣」,din4「嗔嗔」	can1,zan1	2
-721	抻	抻	can1「～手，～懶腰，～直，又作伸/胂字」	can1「～手，～懶腰，～直，又作伸/胂字」	can2	2
-722	瞋	瞋	can1	can1	can1	2
-723	逡	逡	can1; (老派)cyun1	can1	ceon1	2
-724	齔	龀	can3	can3	can3	2
-725	吲	吲	can2「同哂字」,jan5「吲哚」	can2「同哂字」,jan5「吲哚」	can2,jan5	2
-726	蝽	蝽	can1; (老派)cyun1	can1	ceon1	2
-727	鰆	䲠	can1; (老派)cyun1	can1	ceon1	3
-728	櫬	榇	can3	can3	can3	3
-729	疢	疢	can3; (又)can2	can3; (又)can2	can3,can2	3
-730	矧	矧	can2	can2	can2	3
-731	鬒	鬒	can2	can2	can2	3
-732	堾	堾	can1; (老派)cyun1	can1	ceon1	3
-733	瑃	瑃	can1; (老派)cyun1	can1	ceon1	3
-734	辴	辴	can2	can2	can2	4
-735	膥	膥	can1「卵」; (老派)cyun1	can1「卵」	ceon1	5
-736	巡	巡	can4; (老派)slyun4,(又)slan4	slan4	ceon4	1
-737	循	循	can4; (老派)slyun4,(又)slan4	slan4	ceon4	1
-738	旬	旬	can4; (老派)slyun4,(又)slan4	slan4	ceon4	1
-739	紃	𬘓	can4; (老派)slyun4,(又)slan4	slan4	ceon4	3
-740	揗	揗	can4「撫摩；順從」; (老派)slyun4,(又)slan4,(語)tan4「發抖，本字忳；來回走動，本字迍」	slan4「撫摩；順從」	tan4	4
-741	塵	尘	can4	zan4	can4	1
-742	疹	疹	can2	zan2	can2	1
-743	秦	秦	can4	zan4	ceon4	1
-744	臣	臣	can4	zan4	san4	1
-745	診	诊	can2	zan2	can2	1
-746	陳	陈	can4	zan4	can4；(古)同陣	1
-747	畛	畛	can2	zan2	can2,zan2	2
-748	縝	缜	can2; (又)zan2	zan2	can2	2
-749	軫	轸	can2	zan2	can2,zan2	2
-750	嗪	嗪	can4	zan4	ceon4	2
-751	稹	稹	can2; (又)zan2	zan2	can2,zan2	3
-752	袗	袗	can2	zan2	can2	3
-753	昣	昣	can2	zan2	can2	3
-754	螓	螓	can4	zan4	ceon4	4
-755	蹭	蹭	cang3	cang3	sang3	1
-756	層	层	cang4	zang4	cang4	1
-757	嶒	嶒	cang4	zang4	cang4	3
-758	鄫	鄫	cang4	zang4	cang4	3
-759	䉕	䉕	cang4; (語)lang1「古壯字，篩，～箕，籮篩，或爲掕變調」	zang4; (語)lang1「古壯字，篩，～箕，籮篩，或爲掕變調」	cang4	4
-760	緝	缉	cap1	cap2	cap1	1
-761	輯	辑	cap1	cap2	cap1	1
-762	戢	戢	cap1	cap2	cap1	2
-763	楫	楫	cap1「舟楫，讀同咠；同輯字，聚集」; (又)zip3「舟楫」	cap2「舟楫，讀同咠；同輯字，聚集」; (又)zip2「舟楫」	zip3	2
-764	葺	葺	cap1	cap2	cap1	2
-765	蕺	蕺	cap1	cap2	cap1	2
-766	咠	咠	cap1	cap2	cap1	5
-767	七	七	cat1	cat2	cat1	1
-768	漆	漆	cat1	cat2	cat1	1
-769	柒	柒	cat1	cat2	cat1	1
-770	桼	桼	cat1	cat2	cat1	4
-771	丑	丑	cau2「子丑」	cau2「子丑」	cau2	1
-772	醜	丑	cau2「醜惡」	cau2「醜惡」	cau2	1
-773	湊	凑	cau3	cau3	cau3	1
-774	嗅	嗅	cau3「嗅覺」; (語)hung3「用鼻聞」	cau3「嗅覺」; (語)hoeng3「用鼻聞」	cau3	1
-775	抽	抽	cau1	cau1	cau1	1
-776	秋	秋	cau1	cau1	cau1	1
-777	臭	臭	cau3	cau3	cau3	1
-778	瞅	瞅	cau2	cau2	cau2	1
-779	鰍	鳅	cau1	cau1	cau1	2
-780	杻	杻	cau2「古刑具，似手銬」,nau2「木名」	cau2「古刑具，似手銬」,nau2「木名」	cau2,nau2	2
-781	楸	楸	cau1	cau1	cau1	2
-782	湫	湫	cau1「水潭」,ziu2「低窪」,zau1「湫水河」	cau1「水潭」,ziu2「低窪」,zau1「湫水河」	cau1,ziu2,zau1	2
-783	溴	溴	cau3	cau3	cau3	2
-784	瘳	瘳	cau1	cau1	cau1	2
-785	糗	糗	cau3	cau3	cau3,jau2	2
-786	腠	腠	cau3	cau3	cau3	2
-787	蔟	蔟	cau3「太蔟」,cuk1「蠶蔟」,coek3「叉取」; (又)zau3「太蔟」	cau3「太蔟」,coek2「蠶蔟」,ciak2「叉取」; (又)zau3「太蔟」	cau3,cuk1,coek3	2
-788	輳	辏	cau3	cau3	cau3	2
-789	鞧	鞧	cau1	cau1	cau1	2
-790	萩	萩	cau1	cau1	cau1	3
-791	鶖	鹙	cau1	cau1	cau1	3
-792	侴	侴	cau2	cau2	cau2	3
-793	鞦	秋	cau1「鞦韆」	cau1「鞦韆」	cau1	4
-794	搊	搊	cau1; (白)jau1「拿、提」	cau1; (白)njau1「拿、提」	cau1	4
-795	殠	殠	cau3	cau3	cau3	4
-796	篘	𥬠	cau1	cau1	cau1	4
-797	齅	齅	cau3「同嗅字」; (語)hung3「用鼻聞」	cau3「同嗅字」; (語)hoeng3「用鼻聞」	cau3	5
-798	仇	仇	cau4「仇敵；姓，舊讀」,kau4「姓，舊讀統讀[tʃʰɐu21]」	sau4「仇敵；姓，舊讀」,gau4「姓，舊讀統讀[ʃɐu21]」	sau4；姓氏又讀kau4或cau4	1
-799	愁	愁	cau4	sau4; (又)zau4	sau4	1
-800	讎	雠	cau4	sau4	cau4	2
-801	囚	囚	cau4	zau4	cau4	1
-802	疇	畴	cau4	zau4	cau4	1
-803	稠	稠	cau4	zau4	cau4	1
-804	籌	筹	cau4	zau4	cau4	1
-805	綢	绸	cau4	zau4	cau4	1
-806	酬	酬	cau4	zau4	cau4	1
-807	儔	俦	cau4	zau4	cau4	2
-808	惆	惆	cau4	zau4	cau4	2
-809	泅	泅	cau4	zau4	cau4；(又)jau4	2
-810	躊	踌	cau4	zau4	cau4	2
-811	酋	酋	cau4	zau4	jau4	2
-812	遒	遒	cau4	zau4	cau4,jau4	2
-813	幬	帱	cau4「床帳；車帷」,du6「覆蓋」	zau4「床帳；車帷」,daau6「覆蓋」	cau4,dou6	3
-814	椆	椆	cau4「椆木，椆水」,zau3「木椆」,diu1「椆苕」	zau4「椆木，椆水」,zau3「木椆」,diu1「椆苕」	cau4,zau3,diu1	3
-815	犨	犨	cau4	zau4	cau4	3
-816	蝤	蝤	cau4「蝤蠐」,zau1「蝤蛑」,jau4「蜉蝤」	zau4「蝤蠐」,zau1「蝤蛑」,jau4「蜉蝤」	cau4,zau1,jau4	3
-817	讐	讐	cau4	zau4	cau4	5
-818	且	且	ce2	ce2	ce2；(古)zeoi1	1
-819	扯	扯	ce2	ce2	ce2	1
-820	斜	斜	ce4; (語)sle4「乜[mɛ21]～，醉態」	ce4; (又)ze4,(語)sle4「乜[me21]～，醉態」	ce4	1
-821	車	车	ce1「車輛」,gyu1「車馬炮」	ce1「車輛」,gyu1「車馬炮」	1)ce1:火車 2)geoi1:象棋棋子一種	1
-822	硨	砗	ce1	ce1	ce1	2
-823	㙦	㙦	ce4	ce4; (又)ze4	ce4	3
-824	撦	撦	ce2	ce2	ce2	4
-825	俥	伡	ce1	ce1	ce1	4
-826	唓	唓	ce1「～咧[lɛ55]，話多、愛表現，本字啁嘐（嘐啁）」	ce3「～咧[le55]，話多、愛表現，本字啁嘐（嘐啁）」	ce1	4
-827	笡	笡	ce3「斜、陡」	ce3「斜、陡」	ce3	4
-828	邪	邪	ce4「邪惡」,je4「莫邪，琅邪；助詞」	sle4「邪惡」,je4「莫邪，琅邪；助詞」	ce4；(古)同耶	1
-829	尺	尺	cek3「尺寸」,ce2「工尺」	cik2「尺寸」,ce2「工尺」	cek3；ce2:樂譜記音符號	1
-830	呎	呎	cek3	cik2	cek3	4
-831	鑱	镵	(白)cem4「刺入，與插對轉，又作攙/劖字」; (文)caam4	zaam4「刺入，與插對轉，又作攙/劖字」	caam4	2
-832	劖	劖	(白)cem4「刺入，與插對轉，又作鑱/攙字」; (文)caam4	zaam4「刺入，與插對轉，又作鑱/攙字」	caam4	4
-833	剷	铲	(白)cen2「剷走，剷除」; (文)caan2	caan2「剷走，剷除」; (白)cen2	caan2	1
-834	鏟	铲	(白)cen2「鑊鏟；鏟走」; (文)caan2「鏟車」	caan2「鑊鏟；鏟走」; (白)cen2	caan2	1
-835	插	插	(白)cep3; (文)caap3	caap2	caap3	1
-836	𠯦	𠯦	cet1「詞綴，短～～」	cet3「詞綴，薄～～」	cet1	4
-837	𢪃	𢪃	cet1「切開」	cet3「切開」	cet1	4
-838	抄	抄	(白)ceu1「抄書」,(白)ceu3「翻找、亂翻」; (文)caau1,(文)caau3	caau1「抄書；亂翻」	caau1	1
-839	炒	炒	(白)ceu2; (文)caau2	caau2	caau2	1
-840	𤙴	𤙴	(白)ceu1「牴」; (文)caau1	caau1「牴」	caau1	4
-841	伺	伺	ci3「伺候，伺機」; (老派)cy3	ci3「伺候，伺機」	zi6	1
-842	侈	侈	ci2	ci2	ci2	1
-843	刺	刺	ci3「魚刺，刺刀」; (老派)cy3,(白)cek3「刺骨，頭刺，肉刺」	ci3「魚刺，刺刀」; (白)cik2「刺骨，頭刺，肉刺」	ci3；行刺又讀cik3	1
-844	廁	厕	ci3「廁所」,cak1「廁足，廁身」; (老派)cy3	ci3「廁所」,cak2「廁足，廁身」	ci3	1
-845	始	始	ci2	ci2	ci2	1
-846	幟	帜	ci3	ci3	ci3	1
-847	次	次	ci3; (老派)cy3	ci3	ci3	1
-848	此	此	ci2; (老派)cy2	ci2	ci2	1
-849	矢	矢	ci2; (又)si2	ci2; (又)si2	ci2；(古)通屎	1
-850	翅	翅	ci3	ci3	ci3	1
-851	恥	耻	ci2	ci2	ci2	1
-852	賜	赐	ci3; (老派)cy3	ci3	ci3	1
-853	雌	雌	ci1; (老派)cy1	ci1	ci1	1
-854	飼	饲	ci6; (老派)cy6	ci6	zi6	1
-855	齒	齿	ci2	ci2	ci2	1
-856	癡	痴	ci1	ci1	ci1	1
-857	啻	啻	ci3	ci3	ci3	2
-858	嗣	嗣	ci6; (老派)cy6	ci6	zi6	2
-859	嗤	嗤	ci1	ci1	ci1	2
-860	熾	炽	ci3	ci3	ci3	2
-861	疵	疵	ci1; (老派)cy1	ci1	ci1	2
-862	笞	笞	ci1	ci1	ci1	2
-863	蚩	蚩	ci1	ci1	ci1	2
-864	褫	褫	ci2	ci2	ci2	2
-865	豕	豕	ci2; (又)si2	ci2; (又)si2	ci2	2
-866	哧	哧	ci1; (又)cik1	ci1; (又)cik2	ci1,cik1	2
-867	嘁	嘁	ci1「嘁嘁喳喳」; (又)cik1,(語)ce1「語氣詞，表輕蔑，又作唓字」	ci1「嘁嘁喳喳」; (又)cik2,(語)ce3「語氣詞，表輕蔑，又作唓字」	ci1,cik1	2
-868	媸	媸	ci1	ci1	ci1	2
-869	汜	汜	ci5; (老派)cy5	ci5; (又)zi5	ci5	2
-870	眙	眙	ci3「直視」,ji4「盱眙」	ci3「直視」,ji4「盱眙」	ci3,ji4	2
-871	眵	眵	ci1	ci1	ci1	2
-872	笥	笥	ci3; (老派)cy3	ci3	zi6	2
-873	螭	螭	ci1	ci1	ci1	2
+586	瘥	瘥	caai3「病癒」,co4「病疫」	caai3「病癒」,zo4「病疫」	caai3,co4	3
+587	跴	跴	caai2「同踩字」; (白)jaai2	caai2「同踩字」; (白)njaai2	caai2,jaai2	4
+588	柴	柴	caai4	saai4; (又)zaai4	caai4	1
+589	喍	喍	caai4	saai4; (又)zaai4	caai4	5
+590	豺	豺	caai4; (常)coi4「豺狼」	zaai4	caai4	1
+591	儕	侪	caai4「同儕」	zaai4「同儕」; (語)zai4「儕家、大儕，大家」	caai4	2
+592	冊	册	caak3	ciak2	caak3	1
+593	拆	拆	caak3	ciak2	caak3	1
+594	策	策	caak3	ciak2	caak3	1
+595	吒	咤	caak1「叱吒」	ciak2「叱吒」	caak1:叱吒風雲	2
+596	坼	坼	caak3	ciak2	caak3	2
+597	簎	簎	caak3; (語)jak1「刺；引逗，～鬼崽（小孩）」	ciak2; (語)jak2「刺；引逗，～鬼崽（小孩）」	caak3	4
+598	㿭	㿭	caak3「皴；沙哑」	ciak2「皴；沙哑」	caak3	4
+599	蓛	蓛	caak3; (又)cik1	ciak2; (又)cik2	caak3	5
+600	箣	箣	caak3	ciak2	caak3	5
+601	參	参	caam1「參加」,sam1「人參」,cam1「參差」	caam1「參加」,sam1「人參」,cam1「參差」	1)caam1:參加 2)sam1:參商 3)cam1:參差	1
+602	慘	惨	caam2	caam2	caam2	1
+603	攙	搀	caam1「攙扶」,(白)cem4「刺入，與插對轉，又作鑱/劖字」; (文)caam4	caam1「攙扶」,zaam4「刺入，與插對轉，又作鑱/劖字」	caam1	1
+604	杉	杉	caam3	caam3	caam3；(又)saam1	1
+605	懺	忏	caam3; (又)cim3	caam3; (又)cim3	caam3	2
+606	驂	骖	caam1	caam1	caam1	2
+607	黲	黪	caam2	caam2	caam2	2
+608	儳	儳	caam3「儳言」,caam4「不齊」	caam3「儳言」,zaam4「不齊」	caam3,caam4	3
+609	旵	旵	caam2	caam2	caam2	3
+610	噆	噆	caam2「叼、銜；咬、叮」; (語)cam3「～氣，晦氣，又作譖字」	caam2「叼、銜；咬、叮」	caam2,cam3	4
+611	憯	憯	caam2	caam2	caam2	4
+612	篸	𥮾	caam2「箕，垃圾～」; (白)cem2	caam2「～箕」	caam2,zaam1	4
+613	忏	忏	caam3	caam3	caam3	5
+614	朁	朁	caam2	caam2	caam2	5
+615	慚	惭	caam4	zaam4	caam4	1
+616	饞	馋	caam4「嘴饞」; (白)slaam4「餓～～，餓貌」,(白)slem4「餓～～，餓貌」	zaam4; (又)saam4,(白)slaam4「嘴～」	caam4	1
+617	讒	谗	caam4	zaam4	caam4	2
+618	巉	巉	caam4	zaam4	caam4	2
+619	㔆	㔆	caam5「刺、扎，與插對轉」	zaam5「刺、扎，與插對轉」	caam5	4
+620	蠶	蚕	caam4	zaan4	caam4	1
+621	蚕	蚕	caam4	zaan4	caam4	5
+622	產	产	caan2	caan2	caan2	1
+623	燦	灿	caan3	caan3	caan3	1
+624	餐	餐	caan1	caan1	caan1	1
+625	璨	璨	caan3	caan3	caan3	2
+626	粲	粲	caan3	caan3	caan3	2
+627	羼	羼	caan3	caan3	caan3	2
+628	滻	浐	caan2	caan2	caan2	3
+629	剗	刬	caan2	caan2	caan2	3
+630	湌	湌	caan1	caan1	caan1	4
+631	喰	喰	caan1; (又)sik6	caan1; (又)sik6	caan1,sik6	5
+632	殘	残	caan4	zaan4	caan4	1
+633	橙	橙	caang2	caang2; (又)zang2	caang2；本讀caang4	1
+634	撐	撑	caang1「撐船，支撐」; (又)caang3「撐場」,(白)jaang3「蹬、踹」	ciang1「撐船，支撐」; (又)ciang3「撐場」,(白)jiang3「蹬、踹」	caang1	1
+635	鐺	铛	caang1「平底煎鍋」,dong1「鋃鐺」	ciang1「平底煎鍋」,daang1「鋃鐺」	1)dong1:象聲詞 2)caang1:平底淺鍋	1
+636	瞠	瞠	caang1	ciang1	caang1	2
+637	鋥	锃	caang3「鋥光」; (又)saang3「鋥光；黃～～，黃澄澄」	ciang3「鋥光」; (又)siang3	caang3	2
+638	牚	牚	caang3「椅子牚」	ciang3「椅子牚」	caang1,caang3	3
+639	橕	橕	caang1	ciang1	caang1	4
+640	鎗	鎗	caang1「金鐘之聲」,coeng1「同槍字」	ciang1「金鐘之聲；同槍字」	caang1,coeng1	4
+641	罉	罉	caang1「平底煎鍋，本字鐺」	ciang1「平底煎鍋，本字鐺」	caang1	4
+642	𥋇	𥋇	caang3「粵字，睜、瞪，本字瞠」	ciang3「粵字，睜、瞪，本字瞠」	caang3	5
+643	棖	枨	caang4	ziang4	caang4	2
+644	掁	掁	caang4	ziang4	caang4	5
+645	揨	揨	caang4	ziang4	caang4	5
+646	撜	撜	caang4「同掁字」,zing2「同拯字」	ziang4「同掁字」,zing2「同拯字」	caang4,cing2	5
+647	朾	朾	caang4「朾螘」,ting1「虛朾」	ziang4「朾螘」,ting1「虛朾」	caang4,ting1	5
+648	鍤	锸	caap3	caap2	caap3	2
+649	㮑	㮑	caap3「木折聲」; (語)cap1「脆～～，非常脆」	caap2「木折聲」; (語)cap3「脆～～，非常脆」	caap3	4
+650	臿	臿	caap3	caap2	caap3	5
+651	𠝞	𠝞	caap3「切物聲」; (語)cap1「剪物聲」,(語)cep1「剪物聲」	caap2「切物聲」	caap3	5
+652	刷	刷	(訓)caat3「訓讀擦」	(訓)caat2「訓讀擦」	1)caat3:刷牙 2)saat3:刷白	1
+653	察	察	caat3	caat2	caat3	1
+654	擦	擦	caat3「擦拭；〈語〉～飯，吃的俗稱，又作𩟔字」	caat2「擦拭；〈語〉～飯，吃的俗稱，又作𩟔字」	caat3	1
+655	獺	獭	caat3	caat2	caat3	2
+656	唰	唰	caat3	caat2	caat3,syut3	2
+657	嚓	嚓	caat3	caat2	caat3	2
+658	檫	檫	caat3	caat2	caat3	3
+659	攃	攃	caat3「摩擦」,slaat3「同撒字」	caat2「摩擦」,slaat2「同撒字」	caat3,saat3	5
+660	𩟔	𩟔	caat3「～飯，吃的俗稱，又作擦字」	caat2「～飯，吃的俗稱，又作擦字」	caat3	5
+661	吵	吵	caau2「吵嚷」; (白)ceu2「吵耳」	caau2	caau2	1
+662	鈔	钞	caau1「鈔票；同抄字」	caau1「鈔票；同抄字」	caau1	1
+663	耖	耖	caau3	caau3	caau3	2
+664	巢	巢	caau4; (又)cu4	zaau4	caau4	1
+665	悽	凄	cai1「悽慘」	cai1「悽慘」	cai1	1
+666	淒	凄	cai1「淒涼」	cai1「淒涼」	cai1	1
+667	妻	妻	cai1	cai1	cai1；(古)cai3以女嫁人	1
+668	棲	栖	cai1	cai1	cai1	1
+669	砌	砌	cai3	cai3	cai3	1
+670	萋	萋	cai1	cai1	cai1	2
+671	沏	沏	cai3「沏茶」,cit3「水聲」	cai3「沏茶」,cit2「水聲」	cit3,cai3	2
+672	瘛	瘛	cai3; (又)kai3	cai3; (又)kai3	cai3	2
+673	傺	傺	cai3	cai3	cai3	3
+674	郪	郪	cai1	cai1	cai1	3
+675	凄	凄	cai1	cai1	cai1	5
+676	栖	栖	cai1	cai1	cai1	5
+677	齊	齐	cai4	zai4	1)cai4:整齊 2)zi1:齊衰；(古)通齋	1
+678	薺	荠	cai4「荸薺，薺菜」	zai4「荸薺，薺菜」	cai4,cai5	2
+679	蠐	蛴	cai4	zai4	cai4	2
+680	鱭	鲚	cai4	zai4	cai5	2
+681	測	测	cak1	cak2	cak1；(又)caak1	1
+682	賊	贼	cak6「做賊」; (又)caak6	cak6「做賊」	caak6	1
+683	惻	恻	cak1	cak2	cak1；(又)caak1	2
+684	蠈	蠈	cak6	cak6	caak6	5
+685	侵	侵	cam1	cam1	cam1	1
+686	寢	寝	cam2	cam2	cam2	1
+687	滲	渗	(白)cam3「水滲透」; (文)sam3,(又)cam5,(語)jam3「滲透、滲漏，本字蘸」,(又)jaam3	(白)cam3「水滲透」; (文)sam3,(語)njaam3「滲透、滲漏，本字蘸」,(又)jaam3,(又)jam3	sam3	1
+688	摻	掺	cam1「摻雜，摻水」,caam1「同攙字」,saam1「摻摻」	cam1「摻雜，摻水」,caam1「同攙字」,saam1「摻摻」	caam1,saam1,cam1	1
+689	讖	谶	cam3	cam3	cam3	2
+690	唚	吣	cam3	cam3	cam3	2
+691	磣	碜	cam2	cam2	cam2	2
+692	駸	骎	cam1	cam1	cam1	2
+693	棽	棽	cam1; (又)sam1	cam1; (又)sam1	cam1	3
+694	寑	寑	cam2	cam2	cam2	4
+695	嵾	㟥	cam1	cam1	cam1	5
+696	諃	諃	cam1	cam1	cam1	5
+697	尋	寻	cam4「尋找；～日，昨晚的合音」; (語)slam4「傻；盲～～，盲目亂來」	zam4「尋找」; (語)slam4「傻；動作遲緩」	cam4	1
+698	沉	沉	cam4「沉沒」; (語)zam6「～水，溺水，本字沈」	zam4「沉沒」; (語)zam6「往水裏按，本字沈」	cam4,zam6	1
+699	岑	岑	cam4; (又)kam4	zam4; (又)gam4	sam4	2
+700	撏	挦	cam4「撏扯」,cim4「拔、抽，又作撍字」	zam4「撏扯」,zim4「拔、抽，又作撍字」	cam4,cim4	2
+701	潯	浔	cam4	zam4	cam4	2
+702	涔	涔	cam4; (又)kam4	zam4; (又)gam4	sam4	2
+703	蕁	荨	cam4	zam4	cam4	2
+704	鱘	鲟	cam4	zam4	cam4	2
+705	梣	梣	cam4; (又)kam4	zam4; (又)gam4	sam4	3
+706	燖	𬊈	cam4	zam4	cam4	3
+707	璕	𬍤	cam4	zam4	cam4	3
+708	鄩	𬩽	cam4	zam4	cam4	3
+709	噚	噚	cam4	zam4	cam4	4
+710	親	亲	can3「親家」,can1「親切」	can3「親家」,can1「親切」	1)can1:雙親 2)can3:親家	1
+711	春	春	can1; (老派)cyun1	can1	ceon1	1
+712	蠢	蠢	can2; (老派)cyun2	can2	ceon2	1
+713	襯	衬	can3	can3	can3	1
+714	趁	趁	can3	can3	can3	1
+715	椿	椿	can1; (老派)cyun1	can1	ceon1	1
+716	哂	哂	can2「哂笑」; (語)slaai3「助詞，表完成，一說本字澌/㩄，又作嗮字」,(語)laai3「哂的語流音變」	can2「哂笑」	can2	2
+717	皴	皴	can1; (老派)cyun1	can1	seon1	2
+718	鶉	鹑	can1; (老派)cyun1	can1	ceon1；(又)seon4	2
+719	嗔	嗔	can1「生氣」,tin4「嗔嗔」	can1「生氣」,din4「嗔嗔」	can1,zan1	2
+720	抻	抻	can1「～手，～懶腰，～直，又作伸/胂字」	can1「～手，～懶腰，～直，又作伸/胂字」	can2	2
+721	瞋	瞋	can1	can1	can1	2
+722	逡	逡	can1; (老派)cyun1	can1	ceon1	2
+723	齔	龀	can3	can3	can3	2
+724	吲	吲	can2「同哂字」,jan5「吲哚」	can2「同哂字」,jan5「吲哚」	can2,jan5	2
+725	蝽	蝽	can1; (老派)cyun1	can1	ceon1	2
+726	鰆	䲠	can1; (老派)cyun1	can1	ceon1	3
+727	櫬	榇	can3	can3	can3	3
+728	疢	疢	can3; (又)can2	can3; (又)can2	can3,can2	3
+729	矧	矧	can2	can2	can2	3
+730	鬒	鬒	can2	can2	can2	3
+731	堾	堾	can1; (老派)cyun1	can1	ceon1	3
+732	瑃	瑃	can1; (老派)cyun1	can1	ceon1	3
+733	辴	辴	can2	can2	can2	4
+734	膥	膥	can1「卵」; (老派)cyun1	can1「卵」	ceon1	5
+735	巡	巡	can4; (老派)slyun4,(又)slan4	slan4	ceon4	1
+736	循	循	can4; (老派)slyun4,(又)slan4	slan4	ceon4	1
+737	旬	旬	can4; (老派)slyun4,(又)slan4	slan4	ceon4	1
+738	紃	𬘓	can4; (老派)slyun4,(又)slan4	slan4	ceon4	3
+739	揗	揗	can4「撫摩；順從」; (老派)slyun4,(又)slan4,(語)tan4「發抖，本字忳；來回走動，本字迍」	slan4「撫摩；順從」	tan4	4
+740	塵	尘	can4	zan4	can4	1
+741	疹	疹	can2	zan2	can2	1
+742	秦	秦	can4	zan4	ceon4	1
+743	臣	臣	can4	zan4	san4	1
+744	診	诊	can2	zan2	can2	1
+745	陳	陈	can4	zan4	can4；(古)同陣	1
+746	畛	畛	can2	zan2	can2,zan2	2
+747	縝	缜	can2; (又)zan2	zan2	can2	2
+748	軫	轸	can2	zan2	can2,zan2	2
+749	嗪	嗪	can4	zan4	ceon4	2
+750	稹	稹	can2; (又)zan2	zan2	can2,zan2	3
+751	袗	袗	can2	zan2	can2	3
+752	昣	昣	can2	zan2	can2	3
+753	螓	螓	can4	zan4	ceon4	4
+754	蹭	蹭	cang3	cang3	sang3	1
+755	層	层	cang4	zang4	cang4	1
+756	嶒	嶒	cang4	zang4	cang4	3
+757	鄫	鄫	cang4	zang4	cang4	3
+758	䉕	䉕	cang4; (語)lang1「古壯字，篩，～箕，籮篩，或爲掕變調」	zang4; (語)lang1「古壯字，篩，～箕，籮篩，或爲掕變調」	cang4	4
+759	緝	缉	cap1	cap2	cap1	1
+760	輯	辑	cap1	cap2	cap1	1
+761	戢	戢	cap1	cap2	cap1	2
+762	楫	楫	cap1「舟楫，讀同咠；同輯字，聚集」; (又)zip3「舟楫」	cap2「舟楫，讀同咠；同輯字，聚集」; (又)zip2「舟楫」	zip3	2
+763	葺	葺	cap1	cap2	cap1	2
+764	蕺	蕺	cap1	cap2	cap1	2
+765	咠	咠	cap1	cap2	cap1	5
+766	七	七	cat1	cat2	cat1	1
+767	漆	漆	cat1	cat2	cat1	1
+768	柒	柒	cat1	cat2	cat1	1
+769	桼	桼	cat1	cat2	cat1	4
+770	丑	丑	cau2「子丑」	cau2「子丑」	cau2	1
+771	醜	丑	cau2「醜惡」	cau2「醜惡」	cau2	1
+772	湊	凑	cau3	cau3	cau3	1
+773	嗅	嗅	cau3「嗅覺」; (語)hung3「用鼻聞」	cau3「嗅覺」; (語)hoeng3「用鼻聞」	cau3	1
+774	抽	抽	cau1	cau1	cau1	1
+775	秋	秋	cau1	cau1	cau1	1
+776	臭	臭	cau3	cau3	cau3	1
+777	瞅	瞅	cau2	cau2	cau2	1
+778	鰍	鳅	cau1	cau1	cau1	2
+779	杻	杻	cau2「古刑具，似手銬」,nau2「木名」	cau2「古刑具，似手銬」,nau2「木名」	cau2,nau2	2
+780	楸	楸	cau1	cau1	cau1	2
+781	湫	湫	cau1「水潭」,ziu2「低窪」,zau1「湫水河」	cau1「水潭」,ziu2「低窪」,zau1「湫水河」	cau1,ziu2,zau1	2
+782	溴	溴	cau3	cau3	cau3	2
+783	瘳	瘳	cau1	cau1	cau1	2
+784	糗	糗	cau3	cau3	cau3,jau2	2
+785	腠	腠	cau3	cau3	cau3	2
+786	蔟	蔟	cau3「太蔟」,cuk1「蠶蔟」,coek3「叉取」; (又)zau3「太蔟」	cau3「太蔟」,coek2「蠶蔟」,ciak2「叉取」; (又)zau3「太蔟」	cau3,cuk1,coek3	2
+787	輳	辏	cau3	cau3	cau3	2
+788	鞧	鞧	cau1	cau1	cau1	2
+789	萩	萩	cau1	cau1	cau1	3
+790	鶖	鹙	cau1	cau1	cau1	3
+791	侴	侴	cau2	cau2	cau2	3
+792	鞦	秋	cau1「鞦韆」	cau1「鞦韆」	cau1	4
+793	搊	搊	cau1; (白)jau1「拿、提」	cau1; (白)njau1「拿、提」	cau1	4
+794	殠	殠	cau3	cau3	cau3	4
+795	篘	𥬠	cau1	cau1	cau1	4
+796	齅	齅	cau3「同嗅字」; (語)hung3「用鼻聞」	cau3「同嗅字」; (語)hoeng3「用鼻聞」	cau3	5
+797	仇	仇	cau4「仇敵；姓，舊讀」,kau4「姓，舊讀統讀[tʃʰɐu21]」	sau4「仇敵；姓，舊讀」,gau4「姓，舊讀統讀[ʃɐu21]」	sau4；姓氏又讀kau4或cau4	1
+798	愁	愁	cau4	sau4; (又)zau4	sau4	1
+799	讎	雠	cau4	sau4	cau4	2
+800	囚	囚	cau4	zau4	cau4	1
+801	疇	畴	cau4	zau4	cau4	1
+802	稠	稠	cau4	zau4	cau4	1
+803	籌	筹	cau4	zau4	cau4	1
+804	綢	绸	cau4	zau4	cau4	1
+805	酬	酬	cau4	zau4	cau4	1
+806	儔	俦	cau4	zau4	cau4	2
+807	惆	惆	cau4	zau4	cau4	2
+808	泅	泅	cau4	zau4	cau4；(又)jau4	2
+809	躊	踌	cau4	zau4	cau4	2
+810	酋	酋	cau4	zau4	jau4	2
+811	遒	遒	cau4	zau4	cau4,jau4	2
+812	幬	帱	cau4「床帳；車帷」,du6「覆蓋」	zau4「床帳；車帷」,daau6「覆蓋」	cau4,dou6	3
+813	椆	椆	cau4「椆木，椆水」,zau3「木椆」,diu1「椆苕」	zau4「椆木，椆水」,zau3「木椆」,diu1「椆苕」	cau4,zau3,diu1	3
+814	犨	犨	cau4	zau4	cau4	3
+815	蝤	蝤	cau4「蝤蠐」,zau1「蝤蛑」,jau4「蜉蝤」	zau4「蝤蠐」,zau1「蝤蛑」,jau4「蜉蝤」	cau4,zau1,jau4	3
+816	讐	讐	cau4	zau4	cau4	5
+817	且	且	ce2	ce2	ce2；(古)zeoi1	1
+818	扯	扯	ce2	ce2	ce2	1
+819	斜	斜	ce4; (語)sle4「乜[mɛ21]～，醉態」	ce4; (又)ze4,(語)sle4「乜[me21]～，醉態」	ce4	1
+820	車	车	ce1「車輛」,gyu1「車馬炮」	ce1「車輛」,gyu1「車馬炮」	1)ce1:火車 2)geoi1:象棋棋子一種	1
+821	硨	砗	ce1	ce1	ce1	2
+822	㙦	㙦	ce4	ce4; (又)ze4	ce4	3
+823	撦	撦	ce2	ce2	ce2	4
+824	俥	伡	ce1	ce1	ce1	4
+825	唓	唓	ce1「～咧[lɛ55]，話多、愛表現，本字啁嘐（嘐啁）」	ce3「～咧[le55]，話多、愛表現，本字啁嘐（嘐啁）」	ce1	4
+826	笡	笡	ce3「斜、陡」	ce3「斜、陡」	ce3	4
+827	邪	邪	ce4「邪惡」,je4「莫邪，琅邪；助詞」	sle4「邪惡」,je4「莫邪，琅邪；助詞」	ce4；(古)同耶	1
+828	尺	尺	cek3「尺寸」,ce2「工尺」	cik2「尺寸」,ce2「工尺」	cek3；ce2:樂譜記音符號	1
+829	呎	呎	cek3	cik2	cek3	4
+830	鑱	镵	(白)cem4「刺入，與插對轉，又作攙/劖字」; (文)caam4	zaam4「刺入，與插對轉，又作攙/劖字」	caam4	2
+831	劖	劖	(白)cem4「刺入，與插對轉，又作鑱/攙字」; (文)caam4	zaam4「刺入，與插對轉，又作鑱/攙字」	caam4	4
+832	剷	铲	(白)cen2「剷走，剷除」; (文)caan2	caan2「剷走，剷除」; (白)cen2	caan2	1
+833	鏟	铲	(白)cen2「鑊鏟；鏟走」; (文)caan2「鏟車」	caan2「鑊鏟；鏟走」; (白)cen2	caan2	1
+834	插	插	(白)cep3; (文)caap3	caap2	caap3	1
+835	𠯦	𠯦	cet1「詞綴，短～～」	cet3「詞綴，薄～～」	cet1	4
+836	𢪃	𢪃	cet1「切開」	cet3「切開」	cet1	4
+837	抄	抄	(白)ceu1「抄書」,(白)ceu3「翻找、亂翻」; (文)caau1,(文)caau3	caau1「抄書；亂翻」	caau1	1
+838	炒	炒	(白)ceu2; (文)caau2	caau2	caau2	1
+839	𤙴	𤙴	(白)ceu1「牴」; (文)caau1	caau1「牴」	caau1	4
+840	伺	伺	ci3「伺候，伺機」; (老派)cy3	ci3「伺候，伺機」	zi6	1
+841	侈	侈	ci2	ci2	ci2	1
+842	刺	刺	ci3「魚刺，刺刀」; (老派)cy3,(白)cek3「刺骨，頭刺，肉刺」	ci3「魚刺，刺刀」; (白)cik2「刺骨，頭刺，肉刺」	ci3；行刺又讀cik3	1
+843	廁	厕	ci3「廁所」,cak1「廁足，廁身」; (老派)cy3	ci3「廁所」,cak2「廁足，廁身」	ci3	1
+844	始	始	ci2	ci2	ci2	1
+845	幟	帜	ci3	ci3	ci3	1
+846	次	次	ci3; (老派)cy3	ci3	ci3	1
+847	此	此	ci2; (老派)cy2	ci2	ci2	1
+848	矢	矢	ci2; (又)si2	ci2; (又)si2	ci2；(古)通屎	1
+849	翅	翅	ci3	ci3	ci3	1
+850	恥	耻	ci2	ci2	ci2	1
+851	賜	赐	ci3; (老派)cy3	ci3	ci3	1
+852	雌	雌	ci1; (老派)cy1	ci1	ci1	1
+853	飼	饲	ci6; (老派)cy6	ci6	zi6	1
+854	齒	齿	ci2	ci2	ci2	1
+855	癡	痴	ci1	ci1	ci1	1
+856	啻	啻	ci3	ci3	ci3	2
+857	嗣	嗣	ci6; (老派)cy6	ci6	zi6	2
+858	嗤	嗤	ci1	ci1	ci1	2
+859	熾	炽	ci3	ci3	ci3	2
+860	疵	疵	ci1; (老派)cy1	ci1	ci1	2
+861	笞	笞	ci1	ci1	ci1	2
+862	蚩	蚩	ci1	ci1	ci1	2
+863	褫	褫	ci2	ci2	ci2	2
+864	豕	豕	ci2; (又)si2	ci2; (又)si2	ci2	2
+865	哧	哧	ci1; (又)cik1	ci1; (又)cik2	ci1,cik1	2
+866	嘁	嘁	ci1「嘁嘁喳喳」; (又)cik1,(語)ce1「語氣詞，表輕蔑，又作唓字」	ci1「嘁嘁喳喳」; (又)cik2,(語)ce3「語氣詞，表輕蔑，又作唓字」	ci1,cik1	2
+867	媸	媸	ci1	ci1	ci1	2
+868	汜	汜	ci5; (老派)cy5	ci5; (又)zi5	ci5	2
+869	眙	眙	ci3「直視」,ji4「盱眙」	ci3「直視」,ji4「盱眙」	ci3,ji4	2
+870	眵	眵	ci1	ci1	ci1	2
+871	笥	笥	ci3; (老派)cy3	ci3	zi6	2
+872	螭	螭	ci1	ci1	ci1	2
+873	跐	跐	ci2「踏；跐豸」; (老派)cy2,(白)caai2「同踩字」	ci2「踏；跐豸」; (白)caai2「同踩字」	caai2,ci2	2
 874	魑	魑	ci1	ci1	ci1	2
 875	鴟	鸱	ci1	ci1	ci1	2
 876	佽	佽	ci3; (老派)cy3	ci3	ci3	3
@@ -3539,7 +3539,7 @@ ID	TRAD	SIMP	N-JYUTPING	T-JYUTPING	G-JYUTPING|LEVEL
 3538	愆	愆	hin1	hyun1	hin1	2
 3539	搴	搴	hin1; (語)kin2「揭開，俗字㨴，與揭對轉」	hyun1	hin1	2
 3540	褰	褰	hin1; (語)kin1「掀開，又作攐字，或掀字白讀」	hyun1	hin1	2
-3541	鍁	锨	hin1; (又)him1	hyun1; (又)him1	hin1	2
+3541	鍁	锨	hin1「農具名，同杴字」; (又)him1	hyun1「農具名，同杴字」; (又)him1	hin1	2
 3542	岍	岍	hin1	hyun1	hin1	3
 3543	汧	汧	hin1	hyun1	hin1	3
 3544	鶱	𬸣	hin1	hyun1	hin1	3
@@ -3548,7 +3548,7 @@ ID	TRAD	SIMP	N-JYUTPING	T-JYUTPING	G-JYUTPING|LEVEL
 3547	諐	諐	hin1	hyun1	hin1	4
 3548	㩮	㩮	hin1「同攑字」	hyun1「同攑字」	hin1	5
 3549	攑	攑	hin1	hyun1	hin1	5
-3550	𣔙	𣔙	hin1; (又)him1	hyun1; (又)him1	hin1	5
+3550	𣔙	𣔙	hin1「農具名，同杴字」; (又)him1	hyun1「農具名，同杴字」; (又)him1	hin1	5
 3551	興	兴	hing3「高興」,hing1「興旺」	hing3「高興」,hing1「興旺」	1)hing1:興奮 2)hing3:高興	1
 3552	卿	卿	hing1	hing1	hing1	1
 3553	慶	庆	hing3	hing3	hing3	1
@@ -3912,7 +3912,7 @@ ID	TRAD	SIMP	N-JYUTPING	T-JYUTPING	G-JYUTPING|LEVEL
 3911	邑	邑	jap1	jap2	jap1	1
 3912	揖	揖	jap1「作揖」	jap2「作揖；～頭～腦，探頭探腦」	jap1	2
 3913	翕	翕	jap1「翕動，翕然」; (語)jap6「揮動，～手；翅膀搧動聲」	jap2「翕動，翕然」	jap1	2
-3914	悒	悒	jap1「悒鬱」; (語)jaap1「心～，心煩」	jap2「悒鬱」; (語)njaap3「心～，心煩」	jap1	2
+3914	悒	悒	jap1「悒鬱」; (語)jaap1「心～，心煩，本字不明」	jap2「悒鬱」; (語)njaap3「心～，心煩，本字不明」	jap1	2
 3915	挹	挹	jap1	jap2	jap1	2
 3916	浥	浥	jap1「溼潤」; (語)ap1「～汁，陰暗潮溼」	jap2「溼潤」; (語)ap2「掩埋；合在一起漚」	jap1	2
 3917	熠	熠	jap1; (語)jaap6「閃爍」	jap2; (語)jaap6「詞綴，搧～～，來回搧動」,(語)jap3「閃爍；躲～～，躲躲閃閃」	jap1	2
@@ -4474,8 +4474,8 @@ ID	TRAD	SIMP	N-JYUTPING	T-JYUTPING	G-JYUTPING|LEVEL
 4473	鵒	鹆	juk6	njoek5	juk6	2
 4474	淯	淯	juk6	njoek5	juk6	3
 4475	硲	硲	juk6	njoek5	juk6,jyu6	5
-4476	逳	逳	juk1「行；〈語〉動，俗字喐，聲母演變與育字同」	njoek5「行」; (語)njuk3「動，俗字喐，聲母演變與育字同」	juk1	5
-4477	喐	喐	juk1「動，本字逳，聲母演變與育字同」	njuk3「動，本字逳，聲母演變與育字同」	juk1	4
+4476	逳	逳	juk1「行；〈語〉動，俗字喐，聲母演變同育字」	njoek5「行」; (語)njuk3「動，俗字喐，聲母演變同育字」	juk1	5
+4477	喐	喐	juk1「動，本字逳，聲母演變同育字」	njuk3「動，本字逳，聲母演變同育字」	juk1	4
 4478	沃	沃	juk1	oek2	juk1	1
 4479	鋈	鋈	juk1	oek2	juk1	2
 4480	佣	佣	jung6; (白)jung2「佣金」	joeng6「佣金」	jung2；(又)jung6；同傭	1
@@ -6330,7 +6330,7 @@ ID	TRAD	SIMP	N-JYUTPING	T-JYUTPING	G-JYUTPING|LEVEL
 6329	麼	么	mo1「什麼」; (語)mo2「句末疑問詞」	mo1「什麼」; (語)mo5「句末疑問詞」	mo1	1
 6330	摩	摩	mo1	mo1	mo1	1
 6331	摹	摹	mo1「摹仿，又作模仿」,mo4「臨摹，摹本」	mo1「摹仿，又作模仿」,mo4「臨摹，摹本」	mou4	1
-6332	模	模	mo1	mo1; (又)mo4	1)mou4:模型 2)mou2:模子	1
+6332	模	模	mo1「模範；模子」	mo1「模範；模子」	1)mou4:模型 2)mou2:模子	1
 6333	蘑	蘑	mo4	mo4	mo4	1
 6334	魔	魔	mo1	mo1	mo1	1
 6335	饃	馍	mo1「泡饃，又作饝/𩞁字」; (又)mo4	mo1「泡饃，又作饝/𩞁字」; (又)mo4	mo4	1
@@ -6830,7 +6830,7 @@ ID	TRAD	SIMP	N-JYUTPING	T-JYUTPING	G-JYUTPING|LEVEL
 6829	匿	匿	nik6	nik5	nik1	1
 6830	溺	溺	nik6「溺水，溺愛」	nik5「溺水，溺愛」	1)nik6:溺愛 2)niu6:同尿	1
 6831	逆	逆	nik6「逆風，與迎對轉」; (又)ngik6,(語)ngaak6	nik5「逆風，與迎對轉」; (語)njaak3「不稱心；乾～～，水分少、乾」	jik6	1
-6832	搦	搦	(習)nik1「拿，與擰對轉，本字瀝，來母讀泥母，與粒演變同」; (書)nok6「握；持」	(習)nik2「拿，與擰對轉，本字瀝，來母讀泥母，與粒演變同」; (書)naak5「握；持」	nik1	2
+6832	搦	搦	(習)nik1「拿，與擰對轉，《洪武正韻》女力切」; (書)nok6「握；持」	(習)nik2「拿，與擰對轉，《洪武正韻》女力切」; (書)naak5「握；持」	nik1	2
 6833	昵	昵	nik6	nik5	nik1	2
 6834	鬩	阋	(訓)nik6「訓讀慝」	(訓)nik5「訓讀慝」	jik1	2
 6835	鷊	鹝	nik6	nik5	jik6	3
@@ -6856,7 +6856,7 @@ ID	TRAD	SIMP	N-JYUTPING	T-JYUTPING	G-JYUTPING|LEVEL
 6855	𢆡	𢆡	nin1; (白)nen1	nin1; (白)nen1	nin1	5
 6856	凝	凝	ning4「凝結，凝固」; (語)king4「（豬油等）凝結」,(罕)nging4	ning4「凝結，凝固」; (語)ging4「（豬油等）凝結」	jing4	1
 6857	寧	宁	ning4「安寧；寧可，寧願（口語用能願[jyn35]）」	ning4「安寧；寧可」	ning4	1
-6858	擰	拧	ning1「提，與搦對轉，本字拎，來母讀泥母，與粒演變同」,ning6「擰轉；倔強」	ning1「提，與搦對轉，本字拎，來母讀泥母，與粒演變同」,ning6「擰轉；倔強」	ning6；(又)ning4	1
+6858	擰	拧	ning1「提，與搦對轉，本字拎，來母讀泥母，聲母演變同粒字」,ning6「擰轉；倔強」	ning1「提，與搦對轉，本字拎，來母讀泥母，聲母演變同粒字」,ning6「擰轉；倔強」	ning6；(又)ning4	1
 6859	檸	柠	ning4	ning4	ning4	1
 6860	濘	泞	ning6	ning6	ning6	1
 6861	獰	狞	ning4	ning4	ning4	1
@@ -6897,7 +6897,7 @@ ID	TRAD	SIMP	N-JYUTPING	T-JYUTPING	G-JYUTPING|LEVEL
 6896	鳥	鸟	niu5; (白)diu2「性交，俗字屌」,(白)deu1「男陰，俗字屌」	niu5; (白)diu2「性交，俗字屌」,(白)deu3「男陰，俗字屌」	niu5	1
 6897	裊	袅	niu5「裊繞」	niu5「裊繞」	niu5	2
 6898	蔦	茑	niu5	niu5	niu5	2
-6899	嫋	袅	niu5「嫋娜」; (語)neu4「細長柔軟」,(語)deu4「詞綴，軟～～，柔軟貌，與鳥字演變同」	niu5「嫋娜」; (語)neu4「細長柔軟」	niu5	2
+6899	嫋	袅	niu5「嫋娜」; (語)neu4「細長柔軟」,(語)deu4「詞綴，軟～～，柔軟貌，韻母演變同鳥字」	niu5「嫋娜」; (語)neu4「細長柔軟」	niu5	2
 6900	脲	脲	niu6	niu6	niu6	2
 6901	嬝	嬝	niu5	niu5	niu5	4
 6902	褭	褭	niu5	niu5	niu5	4
@@ -9636,7 +9636,7 @@ ID	TRAD	SIMP	N-JYUTPING	T-JYUTPING	G-JYUTPING|LEVEL
 9635	菑	菑	zi1「田一歲」,zoi1「同災字」; (老派)zy1	zi1「田一歲」,zaai1「同災字」	zi1	4
 9636	衹	衹	zi2「同祇字」,ki4「同祇字；衹衼」	zi2「同祇字」,gi4「同祇字；衹衼」	zi2,kei4	4
 9637	阯	阯	zi2	zi2	zi2	4
-9638	㨁	㨁	zi6「投；持」,zik6「拄杖」; (語)zaai6「投擲，俗字㩟」	zi6「投；持」,zik6「拄杖」; (語)zaai1「投擲，俗字㩟」	zi6,zik6	4
+9638	㨁	㨁	zi6「投；持」,zik6「拄杖」; (白)zaai6「投擲，俗字㩟，韻母演變同踩/跐字」	zi6「投；持」,zik6「拄杖」; (白)zaai1「投擲，俗字㩟，韻母演變同踩/跐字」	zi6,zik6	4
 9639	巵	巵	zi1	zi1	zi1	4
 9640	㞢	㞢	zi1「同之字」,jau5「同有字」	zi1「同之字」,jau5「同有字」	zi1,jau5	5
 9641	䊷	䌶	zi1; (老派)zy1	zi1	zi1	5
