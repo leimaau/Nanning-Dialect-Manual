@@ -1023,7 +1023,7 @@ ID	TRAD	SIMP	IPA	JYUTPING	EXPL	NOTE	LEVEL
 1022	杈	杈	tʃʰa53	caa1	枝杈，枒杈		2
 1023	蹅	蹅	tʃʰa53	caa1	踏		3
 1024	扠	扠	tʃʰa53	caa1			4
-1025	鑔	镲	tʃʰa33	caa2	小鈸		2
+1025	鑔	镲	tʃʰa33	caa2	小鈸，也泛指鈸		2
 1026	岔	岔	tʃʰa55	caa3	岔路		1
 1027	詫	诧	tʃʰa55	caa3			2
 1028	奼	姹	tʃʰa55	caa3			2
@@ -1515,7 +1515,7 @@ ID	TRAD	SIMP	IPA	JYUTPING	EXPL	NOTE	LEVEL
 1514	清	清	tʃʰeŋ53	cing1	清理，水清		1
 1515	稱	称	tʃʰeŋ53	cing1	稱呼		1
 1516	蜻	蜻	tʃʰeŋ53	cing1	蜻蜓		1
-1517	青	青	tʃʰeŋ53	cing1	青草，青菜		1
+1517	青	青	tʃʰeŋ53	cing1	青草，青菜（綠葉蔬菜總稱）		1
 1518	圊	圊	tʃʰeŋ53	cing1			2
 1519	檉	柽	tʃʰeŋ53	cing1			2
 1520	氰	氰	tʃʰeŋ53	cing1		(又)	2
@@ -3052,7 +3052,7 @@ ID	TRAD	SIMP	IPA	JYUTPING	EXPL	NOTE	LEVEL
 3051	放	放	foŋ55	fung3			1
 3052	坊	坊	foŋ21	fung4	作坊，油坊，酒坊；同防字		1
 3053	妨	妨	foŋ21	fung4	妨害		1
-3054	房	房	foŋ21	fung4	房屋		1
+3054	房	房	foŋ21	fung4	房間		1
 3055	肪	肪	foŋ21	fung4		(又)	1
 3056	防	防	foŋ21	fung4			1
 3057	魴	鲂	foŋ21	fung4			2
@@ -3746,7 +3746,7 @@ ID	TRAD	SIMP	IPA	JYUTPING	EXPL	NOTE	LEVEL
 3745	鬾	鬾	ki22	gi6	冥衣		5
 3746	格	格	kiɐk3	giak2			1
 3747	胳	胳	kiɐk3	giak2	胳臂，胳膊		1
-3748	腳	脚	kiɐk3	giak2			1
+3748	腳	脚	kiɐk3	giak2	下肢；牀腳，山腳；量詞，踢一腳		1
 3749	蹺	跷	kiɐk3	giak2	高～排/師，高蹺，本字屩/蹻，俗字腳	(語)	1
 3750	隔	隔	kiɐk3	giak2			1
 3751	革	革	kiɐk3	giak2			1
@@ -4003,7 +4003,7 @@ ID	TRAD	SIMP	IPA	JYUTPING	EXPL	NOTE	LEVEL
 4002	嗗	嗗	kot5	got3		(又)	4
 4003	嗗	嗗	kot2	got6		(又)	4
 4004	咕	咕	ku53	gu1	咕嚕，咕嘟，嘀咕		1
-4005	姑	姑	ku53	gu1			1
+4005	姑	姑	ku53	gu1	姑母（父之姐），姑姑（父之妹，又稱阿姑）		1
 4006	孤	孤	ku53	gu1			1
 4007	戈	戈	ku53	gu1			1
 4008	沽	沽	ku53	gu1			1
@@ -5631,7 +5631,7 @@ ID	TRAD	SIMP	IPA	JYUTPING	EXPL	NOTE	LEVEL
 5630	饐	饐	ji55	ji3			4
 5631	台	台	ji21	ji4	我也；同怡字		1
 5632	夷	夷	ji21	ji4			1
-5633	姨	姨	ji21	ji4	姨媽，姨丈，阿姨		1
+5633	姨	姨	ji21	ji4	姨媽（母之姐），姨丈，阿姨		1
 5634	怡	怡	ji21	ji4			1
 5635	移	移	ji21	ji4			1
 5636	而	而	ji21	ji4	而今	(白)	1
@@ -7295,7 +7295,7 @@ ID	TRAD	SIMP	IPA	JYUTPING	EXPL	NOTE	LEVEL
 7294	擽	㧰	liɐk24	liak5	擊也		4
 7295	砳	砳	liɐk24	liak5			5
 7296	靚	靓	liɐŋ55	liang3	漂亮，本字令	(訓)	2
-7297	涼	凉	liɐŋ21	liang4	冰涼		1
+7297	涼	凉	liɐŋ21	liang4	冰涼，涼爽		1
 7298	梁	梁	liɐŋ21	liang4	梁山，梁朝；姓		1
 7299	樑	梁	liɐŋ21	liang4	房樑，脊樑		1
 7300	糧	粮	liɐŋ21	liang4			1
@@ -8039,7 +8039,7 @@ ID	TRAD	SIMP	IPA	JYUTPING	EXPL	NOTE	LEVEL
 8038	孭	孭	me55	me3	動詞，揹，本字不明		4
 8039	彌	弥	me21	me4	～頭，乳房；～水，乳汁；又作瀰字	(白)	1
 8040	瀰	弥	me21	me4	～頭，乳房；～水，乳汁；又作彌字	(白)	1
-8041	乜	乜	me21	me4	～斜[ɬɛ21]，醉態	(語)	2
+8041	乜	乜	me21	me4	～斜[ɬɛ21]，醉態	(白)	2
 8042	靡	靡	me24	me5	否定詞，俗字冇	(白)	1
 8043	嘸	呒	me24	me5	否定詞		2
 8044	冇	冇	me24	me5	不、別、沒，本字靡，本地只表否定不表沒有（不存在義），不單用，必須以詞組（冇有、冇是）成句；用於句末則表疑問，作反覆疑問句		4
@@ -9809,7 +9809,7 @@ ID	TRAD	SIMP	IPA	JYUTPING	EXPL	NOTE	LEVEL
 9808	溲	溲	ʃɐu53	sau1			2
 9809	廋	廋	ʃɐu53	sau1			3
 9810	守	守	ʃɐu33	sau2	守衛；太守，古讀去聲		1
-9811	手	手	ʃɐu33	sau2			1
+9811	手	手	ʃɐu33	sau2	上肢；豬手（豬前腿）；量詞，一手		1
 9812	首	首	ʃɐu33	sau2	首先；自首		1
 9813	艏	艏	ʃɐu33	sau2			3
 9814	獸	兽	ʃɐu55	sau3			1

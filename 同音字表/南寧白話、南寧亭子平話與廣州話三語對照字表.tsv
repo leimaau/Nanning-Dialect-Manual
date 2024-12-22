@@ -571,7 +571,7 @@ ID	TRAD	SIMP	N-JYUTPING	T-JYUTPING	G-JYUTPING	LEVEL
 570	杈	杈	caa1 枝杈，枒杈	caa1 枝杈，枒杈	caa3	2
 571	汊	汊	caa3	caa3	caa3	2
 572	衩	衩	caa3	caa3	caa3	2
-573	鑔	镲	caa2 小鈸 ‖ (語)cem2 ～～，小鈸，本字鍖, (語)cam2 鑔聲，本字鍖	caa2 小鈸	caa2	2
+573	鑔	镲	caa2 小鈸，也泛指鈸 ‖ (語)cem2 ～～，小鈸，本字鍖, (語)cam2 鑔聲，本字鍖	caa2 小鈸，也泛指鈸	caa2	2
 574	侘	侘	caa3	caa3	caa3	3
 575	蹅	蹅	caa1 踏, zaa1 足蹋聲	caa1 踏, zaa1 足蹋聲	caa1	3
 576	扠	扠	caa1	caa1	caa1	4
@@ -1033,7 +1033,7 @@ ID	TRAD	SIMP	N-JYUTPING	T-JYUTPING	G-JYUTPING	LEVEL
 1032	稱	称	cing3 稱心；〈又〉相稱, cing1 稱呼；相稱	cing3 稱心，相稱, cing1 稱呼	1)cing1:稱呼 2)cing3:稱心	1
 1033	蜻	蜻	cing1 蜻蜓	cing1 蜻蜓	cing1	1
 1034	請	请	cing2 請客，邀請，請假 ‖ (白)ceng2 請假	cing2 請客，邀請，請假	cing2	1
-1035	青	青	cing1 青年，青春，青草，多用於年齡或青綠色 ‖ (白)ceng1 青色，面青青，青菜，多用於青白色	cing1 青草，青菜	cing1	1
+1035	青	青	cing1 青年，青春，青草，多用於年齡或青綠色 ‖ (白)ceng1 青色，面青青，青菜（綠葉蔬菜總稱），多用於青白色	cing1 青草，青菜（綠葉蔬菜總稱）	cing1	1
 1036	騁	骋	cing2	cing2	cing2	2
 1037	圊	圊	cing1	cing1	cing1	2
 1038	檉	柽	cing1	cing1	cing1	2
@@ -2122,7 +2122,7 @@ ID	TRAD	SIMP	N-JYUTPING	T-JYUTPING	G-JYUTPING	LEVEL
 2121	坊	坊	fong1 街坊，牌坊；地名，三坊街（龍勝街、尚仁里、南倫街的合稱）, fong4 作坊，油坊，酒坊；同防字	fung1 街坊，牌坊；地名，三坊街（龍勝街、尚仁里、南倫街的合稱）, fung4 作坊，油坊，酒坊；同防字	fong1	1
 2122	妨	妨	fong4 妨害	fung4 妨害	fong4	1
 2123	恍	恍	fong2	fung2	fong2	1
-2124	房	房	fong4 房屋, pong4 阿房宮	fung4 房屋, baang4 阿房宮	fong4	1
+2124	房	房	fong4 房間, pong4 阿房宮	fung4 房間, baang4 阿房宮	fong4	1
 2125	放	放	fong3	fung3	fong3	1
 2126	方	方	fong1	fung1	fong1	1
 2127	紡	纺	fong2	fung2	fong2	1
@@ -2791,7 +2791,7 @@ ID	TRAD	SIMP	N-JYUTPING	T-JYUTPING	G-JYUTPING	LEVEL
 2790	過	过	go3 過逾；過失, go1 古國名；姓	gu3 過逾；過失, gu1 古國名；姓	gwo3	1
 2791	鍋	锅	go1	gu1	wo1	1
 2792	堝	埚	go1	gu1	wo1	2
-2793	腳	脚	goek3	giak2	goek3	1
+2793	腳	脚	goek3 下肢；牀腳，山腳；量詞，兜一～，踢一腳	giak2 下肢；牀腳，山腳；量詞，踢一腳	goek3	1
 2794	屩	𪨗	goek3 草鞋；高～瘸，高蹺，俗字腳	giak2 草鞋；高～排/師，高蹺，俗字腳	goek3	4
 2795	姜	姜	goeng1 姓	giang1 姓	goeng1	1
 2796	薑	姜	goeng1 生薑	giang1 生薑	goeng1	1
@@ -2909,7 +2909,7 @@ ID	TRAD	SIMP	N-JYUTPING	T-JYUTPING	G-JYUTPING	LEVEL
 2908	古	古	gu2 古代，考古；講～，講故事，～崽，小故事 ‖ (外)gu1 朱古力，英語chocolate	gu2 古代，考古；講～，講故事，～崽，小故事	gu2	1
 2909	咕	咕	gu1 咕嚕，咕嘟，嘀咕；花～嘟，花蕾、花骨朵, gu2 雞咕[ku21]～，雞崽，童語 ‖ (語)gu4 雞～咕[ku35]，雞崽，童語	gu1 咕嚕，咕嘟，嘀咕, gu5 咕[ku21]～咕[ku21]，赤子陰, gu2 花～嘟，花蕾、花骨朵 ‖ (語)gu4 死～～，死板；～咕[ku24]～，赤子陰	gu1	1
 2910	固	固	gu3	gu3	gu3	1
-2911	姑	姑	gu1	gu1	gu1	1
+2911	姑	姑	gu1 姑媽（父之姐），姑姑（父之妹，又稱阿姑）	gu1 姑母（父之姐），姑姑（父之妹，又稱阿姑）	gu1	1
 2912	孤	孤	gu1	gu1	gu1	1
 2913	故	故	gu3	gu3	gu3	1
 2914	沽	沽	gu1	gu1	gu1	1
@@ -4041,7 +4041,7 @@ ID	TRAD	SIMP	N-JYUTPING	T-JYUTPING	G-JYUTPING	LEVEL
 4040	倚	倚	ji2 倚靠	ji2 倚靠	ji2	1
 4041	醫	医	ji1	ji1	ji1	1
 4042	夷	夷	ji4	ji4	ji4	1
-4043	姨	姨	ji4 姨媽，姨丈 ‖ (白)ji1 阿姨，大姨，小姨	ji4 姨媽，姨丈，阿姨	ji4	1
+4043	姨	姨	ji4 姨媽（母之姐，又稱姨母），姨丈 ‖ (白)ji1 阿姨（母之妹；泛稱年長女性），大姨（大姨子），姨崽（小姨子）	ji4 姨媽（母之姐），姨丈，阿姨	ji4	1
 4044	已	已	ji5	ji5	ji5	1
 4045	異	异	ji6 差異，異常	ji6 差異，異常	ji6	1
 4046	怡	怡	ji4	ji4	ji4	1
@@ -5781,7 +5781,7 @@ ID	TRAD	SIMP	N-JYUTPING	T-JYUTPING	G-JYUTPING	LEVEL
 5780	兩	两	loeng5 兩個，兩斤；～人好、～兄弟，猜碼口令，數字二, loeng2 斤兩，二兩	liang5 兩個，兩斤；斤兩，二兩；～人好，猜碼口令，數字二	1)loeng5:兩本書 2)loeng2:十兩	1
 5781	亮	亮	loeng6	liang6	loeng6	1
 5782	倆	俩	loeng5	liang5	loeng5	1
-5783	涼	凉	loeng4 冰涼	liang4 冰涼	loeng4	1
+5783	涼	凉	loeng4 冰涼，涼爽	liang4 冰涼，涼爽	loeng4	1
 5784	梁	梁	loeng4 梁山，梁朝；姓	liang4 梁山，梁朝；姓	loeng4	1
 5785	樑	梁	loeng4 房樑，脊樑	liang4 房樑，脊樑	loeng4	1
 5786	糧	粮	loeng4	liang4	loeng4	1
@@ -6217,7 +6217,7 @@ ID	TRAD	SIMP	N-JYUTPING	T-JYUTPING	G-JYUTPING	LEVEL
 6216	芴	芴	mat6 蒠菜；有機化合物	mat5 蒠菜；有機化合物 ‖ (老派)fat5	mat6	3
 6217	沕	沕	mat6 沕穆 ‖ (語)mi3 潷；～水，潛水	mat5 沕穆 ‖ (老派)fat5, (語)mi3 潷, (語)mi6 打～子，潛泳	mat6	4
 6218	蔤	蔤	mat6	mat5	mat6	5
-6219	乜	乜	mat1 什麼，本字物，本地不單用，必須以詞組（乜嘢、乜事）成句, me1 ～斜[tʃʰɛ21]，斜視, me2 歪，借～，讓一讓，本字佊, me6 姓 ‖ (語)me4 ～斜[ɬɛ21]，醉態；～酒，飲酒	me2 ～笡[tʃʰɛ33]，歪斜，本字佊；～屎，感情脆弱、愛哭, me1 ～斜[tʃʰɛ21]，斜視, me6 姓 ‖ (語)me4 ～斜[ɬɛ21]，醉態	mat1, me6, me1	2
+6219	乜	乜	mat1 什麼，本字物，本地不單用，必須以詞組（乜嘢、乜事）成句, me1 ～斜[tʃʰɛ21]，斜視, me2 歪，借～，讓一讓，本字佊, me6 姓 ‖ (白)me4 ～斜[ɬɛ21]，醉態；～酒，飲酒	me2 ～笡[tʃʰɛ33]，歪斜，本字佊；～屎，感情脆弱、愛哭, me1 ～斜[tʃʰɛ21]，斜視, me6 姓 ‖ (白)me4 ～斜[ɬɛ21]，醉態	mat1, me6, me1	2
 6220	畝	亩	mau5	mau5	mau5	1
 6221	某	某	mau5	mau5	mau5	1
 6222	茂	茂	mau6	mau6	mau6	1
@@ -7544,7 +7544,7 @@ ID	TRAD	SIMP	N-JYUTPING	T-JYUTPING	G-JYUTPING	LEVEL
 7543	售	售	sau6	sau6	sau6	1
 7544	守	守	sau2 守衛；太守，古讀去聲	sau2 守衛；太守，古讀去聲	1)sau2:保守 2)sau3:太守	1
 7545	壽	寿	sau6	sau6	sau6	1
-7546	手	手	sau2	sau2	sau2	1
+7546	手	手	sau2 上肢；豬手（豬前腿）；量詞，一手	sau2 上肢；豬手（豬前腿）；量詞，一手	sau2	1
 7547	授	授	sau6	sau6	sau6	1
 7548	收	收	sau1	sau1	sau1	1
 7549	瘦	瘦	sau3	sau3	sau3	1
@@ -7726,7 +7726,7 @@ ID	TRAD	SIMP	N-JYUTPING	T-JYUTPING	G-JYUTPING	LEVEL
 7725	升	升	sing1 升級，上升，一升	sing1 升級，上升，一升	sing1	1
 7726	聖	圣	sing3	sing3	sing3	1
 7727	城	城	sing4 城市，城門 ‖ (白)seng4 出城，入城，省城（省會）	sing4 城市，出城	sing4	1
-7728	成	成	sing4 完成，成功, cing4 成數，幾成 ‖ (白)seng4 ～日，成天，冇～，不成，～班人，一班人	sing4 完成，成功；成數，幾成	sing4	1
+7728	成	成	sing4 完成，成功, cing4 成數，幾成，一說本字程 ‖ (白)seng4 ～日，成天，冇～，不成，～班人，一班人	sing4 完成，成功；成數，幾成	sing4	1
 7729	承	承	sing4	sing4	sing4	1
 7730	盛	盛	sing6 旺盛；姓, sing4 盛滿	sing6 旺盛；姓, sing4 盛滿	sing6；盛飯又讀sing4	1
 7731	繩	绳	sing4	sing4	sing4	1
