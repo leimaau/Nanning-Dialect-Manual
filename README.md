@@ -1,8 +1,8 @@
 <div lang="zh-HK">
 
-# Nanning-Dialect-Manual | 南寧話單字讀音快速查詢手冊
+# Nanning-Dialect-Manual | 南寧話單字和詞彙讀音快速查詢手冊
 
-南寧話單字讀音快速查詢手冊
+南寧話單字和詞彙讀音快速查詢手冊
 
 ## 簡介
 
