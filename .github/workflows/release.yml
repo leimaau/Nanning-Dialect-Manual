@@ -10,20 +10,30 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Create release package
         run: |
+          # 显示当前工作目录和文件列表
+          echo "Current working directory:"
+          pwd
+          echo "Directory contents:"
+          ls -la
+          echo "詞彙表 directory contents:"
+          ls -la 詞彙表/
+          echo "同音字表 directory contents:"
+          ls -la 同音字表/
+          
           # 获取当前日期作为版本号 (格式: YYYYMMDD)
           VERSION=$(date +'%Y%m%d')
           # 创建临时目录
           mkdir -p release
           # 复制指定的 PDF 文件到临时目录
-          cp "./詞彙表/南寧白話分類詞表.pdf" release/
-          cp "./詞彙表/現代漢語詞彙南寧白話和亭子平話讀音表.pdf" release/
-          cp "./同音字表/南宁白话入门.pdf" release/
-          cp "./同音字表/南寧白話單字讀音表.pdf" release/
-          cp "./同音字表/南寧亭子平話單字讀音表.pdf" release/
+          cp "詞彙表/南寧白話分類詞表.pdf" release/
+          cp "詞彙表/現代漢語詞彙南寧白話和亭子平話讀音表.pdf" release/
+          cp "同音字表/南宁白话入门.pdf" release/
+          cp "同音字表/南寧白話單字讀音表.pdf" release/
+          cp "同音字表/南寧亭子平話單字讀音表.pdf" release/
           # 创建说明文件
           echo "此處存放自動生成的 PDF 文件，始終爲最新版本。" > release/README.txt
           # 创建 zip 文件，文件名包含版本号
@@ -33,7 +43,7 @@ jobs:
 
       - name: Create Release
         id: create_release
-        uses: softprops/action-gh-release@v1
+        uses: softprops/action-gh-release@v2
         with:
           tag_name: v${{ github.event.repository.default_branch }}-${{ github.sha }}
           name: Release v${{ github.event.repository.default_branch }}-${{ github.sha }}
