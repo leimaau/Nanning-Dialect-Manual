@@ -1,0 +1,54 @@
+name: Release PDFs
+
+on:
+  push:
+    branches:
+      - main  # 或者你的主分支名称
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Create release package
+        run: |
+          # 获取当前日期作为版本号 (格式: YYYYMMDD)
+          VERSION=$(date +'%Y%m%d')
+          # 创建临时目录
+          mkdir -p release
+          # 复制指定的 PDF 文件到临时目录
+          cp "詞彙表/南寧白話分類詞表.pdf" release/
+          cp "詞彙表/現代漢語詞彙南寧白話和亭子平話讀音表.pdf" release/
+          cp "同音字表/南宁白话入门.pdf" release/
+          cp "同音字表/南寧白話單字讀音表.pdf" release/
+          cp "同音字表/南寧亭子平話單字讀音表.pdf" release/
+          # 创建说明文件
+          echo "此處存放自動生成的 PDF 文件，始終爲最新版本。" > release/README.txt
+          # 创建 zip 文件，文件名包含版本号
+          cd release
+          zip -r "../nanning-dialect-manual_v${VERSION}.zip" .
+          cd ..
+
+      - name: Create Release
+        id: create_release
+        uses: softprops/action-gh-release@v1
+        with:
+          tag_name: v${{ github.event.repository.default_branch }}-${{ github.sha }}
+          name: Release v${{ github.event.repository.default_branch }}-${{ github.sha }}
+          body: |
+            此處存放自動生成的 PDF 文件，始終爲最新版本。
+            
+            包含以下文件：
+            - 南寧白話分類詞表.pdf
+            - 現代漢語詞彙南寧白話和亭子平話讀音表.pdf
+            - 南宁白话入门.pdf
+            - 南寧白話單字讀音表.pdf
+            - 南寧亭子平話單字讀音表.pdf
+          files: nanning-dialect-manual_v${{ github.event.repository.default_branch }}-${{ github.sha }}.zip
+          generate_release_notes: true
+          draft: false
+          prerelease: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} 
