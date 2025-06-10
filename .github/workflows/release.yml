@@ -31,10 +31,10 @@ jobs:
           # 复制指定的 tsv 文件到临时目录
           cp "詞彙表/南寧白話分類詞表.tsv" release/
           cp "詞彙表/現代漢語詞彙南寧白話和南寧亭子平話讀音表.tsv" release/
-          cp "同音字表/南寧白話單字讀音表.tsv" release/
-          cp "同音字表/南寧白話同音字表.tsv" release/
-          cp "同音字表/南寧亭子平話單字讀音表.tsv" release/
-          cp "同音字表/南寧亭子平話同音字表.tsv" release/
+          cp "南寧白話單字讀音表(總表).tsv" release/
+          cp "同音字表/南寧白話同音字表(總表).tsv" release/
+          cp "南寧亭子平話單字讀音表(總表).tsv" release/
+          cp "同音字表/南寧亭子平話同音字表(總表).tsv" release/
           # 创建 zip 文件，文件名包含版本号
           cd release
           zip -r "../TSV版-${VERSION}.zip" .

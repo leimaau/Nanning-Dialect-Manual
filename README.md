@@ -34,13 +34,9 @@ ID|TRAD|SIMP|N-JYUTPING|N-IPA|T-JYUTPING|T-IPA|EXPL
 
 爲防止倉庫過大，PDF 版放在[Releases](https://github.com/leimaau/Nanning-Dialect-Manual/releases)中，需要者可自取。
 
-## 拼音方案
+## 拼音方案及輸入法
 
-[南寧白話拼音方案](https://leimaau.github.io/book/PHONETICIZE.html) | [南寧（亭子）平話拼音方案](https://leimaau.github.io/book/PHONETICIZE_bingwaa.html)
-
-## 輸入法
-
-[南寧話輸入方案](https://github.com/leimaau/naamning_jyutping)
+[南寧白話拼音方案](https://leimaau.github.io/book/PHONETICIZE.html) | [南寧（亭子）平話拼音方案](https://leimaau.github.io/book/PHONETICIZE_bingwaa.html) | [南寧話輸入方案](https://github.com/leimaau/naamning_jyutping)
 
 ## 參攷文獻及數據來源
 
