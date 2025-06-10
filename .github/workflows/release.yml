@@ -1,4 +1,4 @@
-name: Release PDFs
+name: Create Release
 
 on:
   push:
@@ -12,51 +12,15 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
 
-      - name: Create release package
-        run: |
-          # 显示当前工作目录和文件列表
-          echo "Current working directory:"
-          pwd
-          echo "Directory contents:"
-          ls -la
-          echo "詞彙表 directory contents:"
-          ls -la 詞彙表/
-          echo "同音字表 directory contents:"
-          ls -la 同音字表/
-          
-          # 获取当前日期作为版本号 (格式: YYYYMMDD)
-          VERSION=$(date +'%Y%m%d')
-          # 创建临时目录
-          mkdir -p release
-          # 复制指定的 tsv 文件到临时目录
-          cp "詞彙表/南寧白話分類詞表.tsv" release/
-          cp "詞彙表/現代漢語詞彙南寧白話和南寧亭子平話讀音表.tsv" release/
-          cp "南寧白話單字讀音表(總表).tsv" release/
-          cp "同音字表/南寧白話同音字表(總表).tsv" release/
-          cp "南寧亭子平話單字讀音表(總表).tsv" release/
-          cp "同音字表/南寧亭子平話同音字表(總表).tsv" release/
-          # 创建 zip 文件，文件名包含版本号
-          cd release
-          zip -r "../TSV版-${VERSION}.zip" .
-          cd ..
-
       - name: Create Release
         id: create_release
         uses: softprops/action-gh-release@v2
         with:
-          tag_name: v${{ github.event.repository.default_branch }}-${{ github.sha }}
-          name: Release v${{ github.event.repository.default_branch }}-${{ github.sha }}
+          tag_name: latest
+          name: Release latest
           body: |
-            此處存放自動壓縮的 TSV 文件和手工上傳的 PDF 文件，始終爲最新版本。
+            此處存放手工上傳的 PDF 文件，始終爲最新版本。
             
-            TSV 壓縮包包含以下文件：
-            - 南寧白話分類詞表.tsv
-            - 現代漢語詞彙南寧白話和南寧亭子平話讀音表.tsv
-            - 南寧白話單字讀音表.tsv
-            - 南寧白話同音字表.tsv
-            - 南寧亭子平話單字讀音表.tsv
-            - 南寧亭子平話同音字表.tsv
-
             PDF 壓縮包包含以下文件：
             - 南寧白話分類詞表.pdf
             - 實用南寧白話分類詞表.pdf
@@ -70,7 +34,6 @@ jobs:
 
             更新內容：1.增加詞彙表；2.修訂字音表和分類詞表；3.完善pdf顯示。
             待解決問題：部分生僻字在pdf顯示有問題，有待解決。
-          files: nanning-dialect-manual_v${{ github.event.repository.default_branch }}-${{ github.sha }}.zip
           generate_release_notes: true
           draft: false
           prerelease: false
