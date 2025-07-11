@@ -1354,7 +1354,7 @@ ID	TRAD	SIMP	N-JYUTPING	T-JYUTPING	G-JYUTPING
 1353	咑	咑	daak1 象聲詞；俗字，嘞[lak5]～，不整潔，本字肋脦,daa1 叱驢馬聲,(語)daa3 啲～，嗩吶或嗩吶聲	daak3 象聲詞；俗字，嘞[lak5]～，不整潔，本字肋脦,daa1 叱驢馬聲,(語)daa3 象聲詞，嘟[tu55]嚕[lu55]～喇[la55]，東西掉落聲	daa1,daak1
 1354	擔	担	(名)daam3 擔子，扁擔（口語稱擔潤/竿）；～箕，有梁的簸箕,(動)daam1 擔任，承擔，擔心	(名)daam3 擔子，扁擔（口語稱擔竿）,(動)daam1 擔任，承擔，擔心	1)daam1:擔水 2)daam3:重擔
 1355	氮	氮	daam6	daam5	daam6
-1356	耽	耽	daam1 耽誤，耽湎	daam1 耽誤，耽湎,(白)dam1 ～頹，遲鈍、傻	daam1
+1356	耽	耽	daam1 耽誤，耽湎,(白)nam1 傻、土氣，端組旁轉，由遲延義引申爲遲鈍，進而引申爲土氣，俗字恁	daam1 耽誤，耽湎,(白)dam1 ～頹，遲鈍、傻，由遲延義引申爲遲鈍,(白)nam1 傻、土氣，端組旁轉，由遲延義引申爲遲鈍，進而引申爲土氣，俗字恁	daam1
 1357	膽	胆	daam2	daam2	daam2
 1358	啖	啖	daam6 吃；姓；〈量〉口	daam6 吃；姓；〈量〉口	daam6
 1359	澹	澹	daam6 澹泊，恬澹；澹定，俗作淡定,taam4 澹臺（複姓）	daam6 澹泊，恬澹；澹定，俗作淡定,daam4 澹臺（複姓）	daam6；(複姓,湖名)taam4澹臺
@@ -1368,7 +1368,7 @@ ID	TRAD	SIMP	N-JYUTPING	T-JYUTPING	G-JYUTPING
 1367	啗	啗	daam6	daam6	daam6
 1368	窞	窞	daam6 深坎,(白)tam5 小水坑，俗字氹/凼	daam6 深坎,(白)dam5 小水坑，俗字氹/凼,(白)maam2 口～，老人牙掉後口腔四周肌肉內陷，端組、泥明母旁轉，俗字凹	daam6,tam5
 1369	髧	髧	daam6 髮垂,(語)dam3 垂下，與耷/塌對轉	daam6 髮垂,(語)dam3 垂下，與耷/塌對轉	dam3,daam6
-1370	黮	黮	daam6 黑色,taam3 黮闇,sam6 通葚字,(白)nam1 土氣，端組旁轉，俗字恁	daam6 黑色,taam3 黮闇,sam6 通葚字,(白)nam1 土氣，端組旁轉，俗字恁	daam6,taam3,sam6
+1370	黮	黮	daam6 黑色,taam3 黮闇,sam6 通葚字	daam6 黑色,taam3 黮闇,sam6 通葚字	daam6,taam3,sam6
 1371	躭	躭	daam1	daam1	daam1
 1372	丹	丹	daan1	daan1	daan1
 1373	但	但	daan6	daan6	daan6
@@ -1486,7 +1486,7 @@ ID	TRAD	SIMP	N-JYUTPING	T-JYUTPING	G-JYUTPING
 1485	𣎴	𣎴	dan2	dan2	dan2
 1486	凳	凳	dang3	dang3	dang3
 1487	燈	灯	dang1	dang1	dang1
-1488	登	登	dang1	dang1	dang1
+1488	登	登	dang1 攀登，登山,(白)nang1 呢[ni55]呢[ni55]～～，各種事物，即啲[ti55]啲[ti55]登[tɐŋ55]登[tɐŋ55]的旁轉，登登，衆多貌	dang1 攀登，登山	dang1
 1489	瞪	瞪	dang1 瞪眼	dang1 瞪眼,(又)dang6	dang1
 1490	等	等	dang2 相等，等候；用容器去接，～水，接水	dang2 相等，等候；用容器去接，～水，接水	dang2
 1491	蹬	蹬	dang6 蹭蹬,dang1 腳向下用力,(白)nang6 蹭[ɐŋ33]～，不得志、不中用，端組旁轉,(白)ngang6 徛～～，直直地站着	dang6 蹭蹬,dang1 腳向下用力,(白)nang6 蹭[ɐŋ55]～，頹笨、不開竅，端組旁轉	dang6,dang1
@@ -3405,7 +3405,7 @@ ID	TRAD	SIMP	N-JYUTPING	T-JYUTPING	G-JYUTPING
 3404	鴞	鸮	hiu1	hiu1	hiu1
 3405	噷	噷	hm1	hm1	hm1
 3406	何	何	ho4	ho4	ho4
-3407	呵	呵	ho1 呵欠，呵斥；地名，呵叻（在泰國）,(語)ho2 句末語氣詞，表徵詢,(語)hu3 哦～，表無奈或嘲諷，源自嗚呼	ho1 呵欠，呵斥；地名，呵叻（在泰國）,(語)ho5 吆喝牛的用語,(語)ho2 哦～兵，戲曲中跑龍套的兵卒，又作嗬字	ho1
+3407	呵	呵	ho1 呵欠，呵斥；地名，呵叻（在泰國）,(語)ho2 句末語氣詞，表輕微徵詢以求確認，係麼的合音，用於明知某事仍需當面確認的情況，今晚你主持，～？工資又低，～？好似你有隻女，～？,(語)hu3 哦～，表無奈或嘲諷，源自嗚呼	ho1 呵欠，呵斥；地名，呵叻（在泰國）,(語)ho5 吆喝牛的用語,(語)ho2 哦～兵，戲曲中跑龍套的兵卒，又作嗬字	ho1
 3408	河	河	ho4	ho4	ho4
 3409	荷	荷	ho4 荷花；薄荷，又作蔢𦽅,ho6 荷載，負荷	ho4 荷花；薄荷，又作蔢𦽅,ho6 荷載，負荷	1)ho4:荷花 2)ho6:負荷
 3410	賀	贺	ho6	ho6	ho6
@@ -3816,7 +3816,7 @@ ID	TRAD	SIMP	N-JYUTPING	T-JYUTPING	G-JYUTPING
 3815	琊	琊	je4	je4	je4
 3816	倻	倻	je4	je4	je4
 3817	鋣	铘	je4	je4	je4
-3818	嘢	嘢	je5 俗字，東西，本字兒，乜嘢即（是何）物兒，本爲物的兒化；按，元·丁復《題畫馬爲方遠上人賦》唐人爲馬置馬監，奚官果是何物兒？《紅樓夢》第四三回，你這麽個阿物兒，也忒行了大運了！,(語)e5 連讀音變，乜嘢口語作[mɐt5jɛ24]➔[mɛ55ɛ24]，也作咩嘢	nge5 俗字，東西，買～，買東西，本字兒，即（物）兒，本爲物的兒化；按，元·丁復《題畫馬爲方遠上人賦》唐人爲馬置馬監，奚官果是何物兒？《紅樓夢》第四三回，你這麽個阿物兒，也忒行了大運了！	je5
+3818	嘢	嘢	je5 俗字，東西，本字兒，即（物）兒，乜嘢即（是何）物兒，本爲物的兒尾小稱，演變構擬[*miut.*ȵie]➔[*mət.*ȵe]➔[mɐt.jɛ]；按，元·丁復《題畫馬爲方遠上人賦》唐人爲馬置馬監，奚官果是何物兒？《紅樓夢》第四三回，你這麽個阿物兒，也忒行了大運了！,(語)e5 連讀音變，乜嘢口語作[mɐt5jɛ24]➔[mɛ55ɛ24]，也作咩嘢	nge5 俗字，東西，買～，買東西，本字兒，即（物）兒，本爲物的兒尾小稱，演變構擬[*ȵie]➔[*ȵe]➔[ŋe]；按，元·丁復《題畫馬爲方遠上人賦》唐人爲馬置馬監，奚官果是何物兒？《紅樓夢》第四三回，你這麽個阿物兒，也忒行了大運了！	je5
 3819	惹	惹	je5 惹事，招惹；傳染，～着肝炎	nje5 惹事，招惹	je5
 3820	贏	赢	(白)jeng4 輸贏,(文)jing4,(罕)heng4	hing4 輸贏	jing4；(語)jeng4
 3821	擪	擪	(白)jep3 指按也；捲起，～衫袖/褲腳，捲起衣袖/褲腿,(文)jip3	jip2 指按也	jip3
@@ -4712,7 +4712,7 @@ ID	TRAD	SIMP	N-JYUTPING	T-JYUTPING	G-JYUTPING
 4711	掮	掮	kin4 掮客；肩扛，本字𠢅/𠢍	gyun4 掮客；肩扛，本字𠢅/𠢍,(白)gon4 扛，～上膊頭去、要膊頭～取，又作揵字	kin4
 4712	墘	墘	kin4	gyun4	kin4
 4713	揵	揵	kin4 舉也,gin6 通楗字	gyun4 舉也,gin6 通楗字,(白)gon4 扛，～上膊頭去、要膊頭～取，又作掮字	gin6,kin4
-4714	擎	擎	king4 引擎，擎天柱,(白)keng4 靈[lɛŋ21]～，靈驗，實爲靈的分音	ging4 引擎，擎天柱	king4
+4714	擎	擎	king4 引擎，擎天柱,(白)keng4 靈[lɛŋ21]～，靈驗，實爲靈的分音，本字靈奇，奇受前字同化爲擎	ging4 引擎，擎天柱	king4
 4715	瓊	琼	king4	ging4	king4
 4716	鯨	鲸	king4	ging4	king4
 4717	檠	檠	king4	ging4	king4
@@ -5366,7 +5366,7 @@ ID	TRAD	SIMP	N-JYUTPING	T-JYUTPING	G-JYUTPING
 5365	伶	伶	ling4 名伶，伶俐,(白)ling1 孤伶伶、孤伶清，又作孤零零、孤零清	ling4 名伶，伶俐，孤伶伶	ling4
 5366	凌	凌	ling4 冰凌，凌厲	ling4 冰凌，凌厲	ling4
 5367	另	另	ling6 另類，另外（口語用另開）	ling6 另類，另外	ling6
-5368	靈	灵	ling4 靈活，神靈,(白)leng4 靈驗、見效；～擎[kʰɛŋ21]，靈驗，實爲靈的分音,(白)leng1 精[tʃɛŋ55]～，機靈，實爲精的分音,(白)ling1 又音，精[tʃeŋ55]～，機靈	ling4 靈活，神靈,(白)ling1 精～，機靈，實爲精的分音	ling4
+5368	靈	灵	ling4 靈活，神靈,(白)leng4 靈驗、見效；～擎[kʰɛŋ21]，靈驗，實爲靈的分音，本字靈奇，奇受前字同化爲擎,(白)leng1 精[tʃɛŋ55]～，機靈，實爲精的分音,(白)ling1 又音，精[tʃeŋ55]～，機靈	ling4 靈活，神靈,(白)ling1 精～，機靈，實爲精的分音	ling4
 5369	玲	玲	ling4	ling4	ling4
 5370	羚	羚	ling4	ling4	ling4
 5371	聆	聆	ling4	ling4	ling4
@@ -6738,7 +6738,7 @@ ID	TRAD	SIMP	N-JYUTPING	T-JYUTPING	G-JYUTPING
 6737	颮	飑	paau4 風聲,biu1 同飆字	baau4 風聲,biu1 同飆字	paau4,biu1
 6738	狍	狍	paau4	baau4	paau4
 6739	麅	狍	paau4	baau4	paau4
-6740	泡	泡	paau1 燈泡；量詞；〈語〉虛鬆不實，本字穮，另一說本字泡；〈外〉泡打粉，英語powder，該詞也有讀陰去,paau3 浸泡；〈又〉泡沫,pu5 泡沫，肥皂泡，水泡（指泡沫）,(白)peu1 量詞；〈外〉泡打粉，英語powder，該詞也有讀陰去,(白)peu3 氣泡；水泡（指水皰）,(語)maau1 虛鬆不實，本字䅦，另一說泡的白讀,(語)bok1 泡，豆腐～、魚～；皰，又作𦢊/㿺字	paau1 量詞；〈語〉虛鬆不實，本字穮，另一說本字泡；〈外〉泡打粉，英語powder,paau3 浸泡；氣泡；水泡（指水皰）；〈又〉泡沫,paau5 泡沫，肥皂泡，水泡（指泡沫）,(語)maau1 虛鬆不實，本字䅦，另一說泡的白讀,(語)buk3 泡，豆腐～、魚～；皰，又作𦢊/㿺字	1)paau1:一泡尿，燈泡 2)pou5:泡沫 3)paau3:泡影；泡影又讀pou5
+6740	泡	泡	paau1 燈泡；量詞；〈語〉虛鬆不實，本字穮，另一說本字泡；〈外〉泡打粉，英語powder,paau3 浸泡；〈又〉泡沫,pu5 泡沫，肥皂泡，水泡（指泡沫）,(白)peu1 量詞；〈外〉泡打粉，英語powder,(白)peu3 氣泡；水泡（指水皰）,(語)maau1 虛鬆不實，本字䅦，另一說泡的白讀,(語)bok1 泡，豆腐～、魚～；皰，又作𦢊/㿺字	paau1 量詞；〈語〉虛鬆不實，本字穮，另一說本字泡；〈外〉泡打粉，英語powder,paau3 浸泡；氣泡；水泡（指水皰）；〈又〉泡沫,paau5 泡沫，肥皂泡，水泡（指泡沫）,(語)maau1 虛鬆不實，本字䅦，另一說泡的白讀,(語)buk3 泡，豆腐～、魚～；皰，又作𦢊/㿺字	1)paau1:一泡尿，燈泡 2)pou5:泡沫 3)paau3:泡影；泡影又讀pou5
 6741	穮	穮	paau1 禾虛貌；〈語〉虛鬆不實，一說本字泡,biu1 除草,(白)pau3 鬆	paau1 禾虛貌；〈語〉虛鬆不實，一說本字泡,biu1 除草,(白)pau3 鬆	biu1
 6742	批	批	pai1 批改，批評，批發；抹，～灰，抹灰，～摥，用抹子抹平	pai1 批改，批評，批發；抹，～灰，抹灰，～牆，抹牆	pai1
 6743	睥	睥	pai3 睥睨	pai3 睥睨	pai5；(又)pei5
@@ -7445,7 +7445,7 @@ ID	TRAD	SIMP	N-JYUTPING	T-JYUTPING	G-JYUTPING
 7444	戌	戌	slat1 戊戌，戌時,(老派)slyut1	slat2 戊戌，戌時	seot1
 7445	摔	摔	slat1 摔手，摔打，摔倒，摔跤,(老派)slyut1,(又)soi1 摔倒，摔跤	slat2 摔手，摔打，摔倒，摔跤,(又)sui1 摔倒，摔跤	seot1
 7446	率	率	slat1 率領,lat6 效率,(老派)slyut1 率領,(老派)lyut6 效率	slat2 率領,lat5 效率	1)seot1:率領 2)leot6:效率
-7447	瑟	瑟	slat1 琴瑟，瑟縮；縮[ɬʊk5]～，不利索	slat2 琴瑟，瑟縮	sat1
+7447	瑟	瑟	slat1 琴瑟，瑟縮；縮[ɬʊk5]～，畏縮	slat2 琴瑟，瑟縮	sat1
 7448	膝	膝	slat1 膝蓋，促膝；～頭、～頭哥，膝蓋，易語流音變爲[ɬɐk5]	slat2 膝蓋，促膝；～頭、～頭蓋、～頭尖，膝蓋	sat1
 7449	蟋	蟋	slat1 蟋蟀[tʃɐt5]	slat2 蟋蟀[tʃɐt3]	sik1
 7450	窣	窣	slat1	slat2	seot1
@@ -7640,7 +7640,7 @@ ID	TRAD	SIMP	N-JYUTPING	T-JYUTPING	G-JYUTPING
 7639	嫂	嫂	slu2	slaau2	sou2
 7640	掃	扫	slu3 掃地；掃把	slaau3 掃地；掃把	sou3
 7641	搔	搔	slu1	slaau1	sou1
-7642	騷	骚	slu1 風騷，騷動	slaau1 風騷，騷動	sou1
+7642	騷	骚	slu1 風騷，騷動	slaau1 風騷，騷動；縮～，退縮、打退堂鼓	sou1
 7643	臊	臊	slu1 臊味，腥臊；～蝦崽，小娃娃，已罕用,slu3 害臊	slaau1 臊味，腥臊；～甲，蟑螂，古稱蜚，臭蟲也,slaau3 害臊	sou1,sou3
 7644	繅	缫	slu1	slaau1	sou1
 7645	埽	埽	slu3	slaau3	sou3
@@ -7791,7 +7791,7 @@ ID	TRAD	SIMP	N-JYUTPING	T-JYUTPING	G-JYUTPING
 7790	屬	属	suk6 屬於，家屬,(古)zuk1 屬文，屬望；通囑字	soek6 屬於，家屬,(古)zoek2 屬文，屬望；通囑字	1)suk6:家屬 2)zuk1:屬文
 7791	淑	淑	suk6 賢淑，淑女,(又)suk1	soek6 賢淑，淑女,(又)soek2	suk6
 7792	熟	熟	suk6 煮熟	soek6 煮熟	suk6
-7793	縮	缩	suk1 縮短，退縮,(又)sluk1 讀聲符宿；～瑟，不利索	soek2 縮短，退縮；～騷，打退堂鼓	suk1
+7793	縮	缩	suk1 縮短，退縮,(又)sluk1 讀聲符宿；～瑟，畏縮	soek2 縮短，退縮；～騷，退縮、打退堂鼓	suk1
 7794	蜀	蜀	suk6 蜀國，蜀道,(常)zuk1 俗讀，讀同燭	soek6 蜀國，蜀道,(又)zoek2 讀同燭	suk6
 7795	贖	赎	suk6	soek6	suk6
 7796	倏	倏	suk1	soek2	suk1
@@ -9029,7 +9029,7 @@ ID	TRAD	SIMP	N-JYUTPING	T-JYUTPING	G-JYUTPING
 9028	鍺	锗	ze2	ze2	ze2
 9029	䗪	䗪	ze3	ze3	ze3
 9030	啫	啫	ze1 啫啫煲，啫喱,(又)zoe1 啫啫煲；～～聲，油炸聲,(又)zoe4 ～～聲，鞭炮引線點着聲	ze1 啫啫煲，啫喱	ze1,zek1
-9031	嗻	嗻	ze1 多語之貌,(白)zo1 阿吱阿～，說三道四，俗字咗	ze1 多語之貌	ze1
+9031	嗻	嗻	ze1 多語之貌	ze1 多語之貌	ze1
 9032	塮	塮	ze6	ze6	ze6
 9033	毑	毑	ze2	ze2	ze2
 9034	隻	只	zek3 一隻，隻身,(又)zik3	zik2 一隻，隻身	zek3
@@ -9368,8 +9368,8 @@ ID	TRAD	SIMP	N-JYUTPING	T-JYUTPING	G-JYUTPING
 9367	汋	汋	zoek3 激水聲；通酌字	ziak2 激水聲；通酌字	zoek3
 9368	禚	禚	zoek3	ziak2	zoek3
 9369	斮	斮	zoek3 斬也	ziak2 斬也	zoek3
-9370	卓	卓	zoek3 卓越，卓著,(又)zok3	zuk2 卓越，卓著	coek3
-9371	桌	桌	zoek3 桌面，書桌,(又)zok3	zuk2 桌面，書桌	coek3；(又)zoek3；同棹zaau6
+9370	卓	卓	(舊)zoek3 卓越，卓著,(新)zok3	zuk2 卓越，卓著	coek3
+9371	桌	桌	(舊)zoek3 桌面，書桌,(新)zok3	zuk2 桌面，書桌	coek3；(又)zoek3；同棹zaau6
 9372	倬	倬	zoek3 顯著；大,(又)zok3	zuk2 顯著；大	coek3
 9373	䓬	䓬	zoek3,(又)zok3	zuk2	coek3
 9374	晫	晫	zoek3,(又)zok3	zuk2	zoek3

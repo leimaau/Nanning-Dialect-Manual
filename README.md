@@ -30,6 +30,8 @@ ID|TRAD|SIMP|N-JYUTPING|N-IPA|T-JYUTPING|T-IPA|EXPL
 
 目前有兩份，一份爲分類詞表，收錄整理各文獻中的本地方言詞彙，另一份爲現代漢語詞彙表，以《現代漢語詞典（第7版）》中兩字以上中文詞爲數據基礎擬定書面音，以實現現代化。皆轉爲傳統漢字，基本以OpenCC字形爲準，除了「吃」保留原形，不轉爲「喫」。
 
+一詞多音的情況用英文逗號隔開，以第一份讀音爲推薦讀音，其餘爲又音。
+
 ## PDF 版
 
 爲防止倉庫過大，PDF 版放在[Releases](https://github.com/leimaau/Nanning-Dialect-Manual/releases)中，需要者可自取。

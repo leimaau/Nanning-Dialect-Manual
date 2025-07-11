@@ -33,7 +33,7 @@ jobs:
             - 南宁白话入门.pdf
 
             更新內容：1.增加詞彙表；2.修訂字音表和分類詞表；3.完善pdf顯示。
-            待解決問題：部分生僻字在pdf顯示有問題，有待解決。
+            待解決問題：部分生僻字和下標字符在pdf顯示有問題，有待解決。
           generate_release_notes: true
           draft: false
           prerelease: false
