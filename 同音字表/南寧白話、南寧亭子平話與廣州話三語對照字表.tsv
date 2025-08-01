@@ -416,7 +416,7 @@ ID	TRAD	SIMP	N-JYUTPING	T-JYUTPING	G-JYUTPING
 415	𨨏	𬭛	bo1	bo1	bo1
 416	簸	簸	bo3 〈名〉簸箕；〈動〉簸米，簸穀,(又)po3 動詞，～米，～穀	pu3 〈名〉簸箕；〈動〉簸米,(又)bo2 往地上摔砸，～碗～碟；～三萬，一種遊戲，用一文銅錢向空中拋，猜哪一面向上賭輸贏,(語)bo4 ～梭[ɬo21]邏，樹冠覆蓋面大，遮陽好	bo3
 417	剝	剥	bok3	baak2	mok1
-418	雹	雹	bok6 冰雹，雹災,(訓)paau1 冰雹，訓讀泡	baak6 冰雹，雹災,(訓)paau3 冰雹，訓讀泡	bok6
+418	雹	雹	bok6 冰雹，雹災,(訓)paau1 冰雹，訓讀泡，少數也有讀陰去	baak6 冰雹，雹災,(訓)paau3 冰雹，訓讀泡	bok6
 419	嚗	嚗	bok3 象聲詞；怒聲,(語)bok1 ～佬，土包子，一說本字儤/𢖔/𧟵/𧟱	baak2 象聲詞；怒聲	bok3
 420	㼎	㼎	bok6	baak6	bok6
 421	㩧	㩧	bok1 敲，～一棍，與𢷕旁轉	boek3 敲、砸，要石頭～渠，與𢷕旁轉,baak6 拍（翅膀），蒙鷹～翼	bok1
@@ -574,7 +574,7 @@ ID	TRAD	SIMP	N-JYUTPING	T-JYUTPING	G-JYUTPING
 573	䦟	䦷	caai2	caai2	caai2
 574	柴	柴	caai4 柴火，木柴	saai4 柴火，木柴	caai4
 575	豺	豺	caai4 豺狼,(常)coi4 俗讀，讀同才/材	zaai4 豺狼	caai4
-576	儕	侪	caai4 同儕	zaai4 同儕,(白)zai4 ～家、大～，大家	caai4
+576	儕	侪	caai4 同儕	zaai4 同儕	caai4
 577	冊	册	caak3	ciak2	caak3
 578	拆	拆	caak3 拆開	ciak2 拆開	caak3
 579	策	策	caak3	ciak2	caak3
@@ -655,7 +655,7 @@ ID	TRAD	SIMP	N-JYUTPING	T-JYUTPING	G-JYUTPING
 654	傺	傺	cai3	cai3	cai3
 655	郪	郪	cai1	cai1	cai1
 656	憏	憏	cai3	cai3	cai3
-657	齊	齐	cai4 整齊，齊全；完，食～,(古)zi1 齊衰,(古)zai6 火齊,(老派)zy1 齊衰	zai4 整齊，齊全；完，吃～,(古)zi1 齊衰,(古)zai6 火齊,(語)slai4 眼眯[mɐi55]～～，眼睏、眼皮眯成縫	1)cai4:整齊 2)zi1:齊衰；(古)通齋
+657	齊	齐	cai4 整齊，齊全；完，食～；大～，大家,(古)zi1 齊衰,(古)zai6 火齊,(老派)zy1 齊衰	zai4 整齊，齊全；完，吃～；～家、大～，大家,(古)zi1 齊衰,(古)zai6 火齊,(語)slai4 眼眯[mɐi55]～～，眼睏、眼皮眯成縫	1)cai4:整齊 2)zi1:齊衰；(古)通齋
 658	薺	荠	cai4 荸薺（源自葧臍，口語稱馬蹄）；薺菜，讀同齊	zai4 荸薺（源自葧臍，口語稱馬蹄）；薺菜，讀同齊	cai4,cai5
 659	蠐	蛴	cai4	zai4	cai4
 660	鱭	鲚	cai4	zai4	cai5
@@ -733,253 +733,253 @@ ID	TRAD	SIMP	N-JYUTPING	T-JYUTPING	G-JYUTPING
 732	螓	螓	can4	zan4	ceon4
 733	蹭	蹭	cang3 磨蹭；蹭蹬,(白)ang3 ～蹬[nɐŋ22]，不得志、不中用	cang3 磨蹭；蹭蹬,(白)ang3 ～蹬[nɐŋ22]，頹笨、不開竅	sang3
 734	層	层	cang4 樓層，層次,(白)slang4 詞綴，毛～～，毛茸茸，高～～，高貌，擻～～，抖個不停	zang4 樓層，層次	cang4
-735	嶒	嶒	cang4	zang4	cang4
-736	鄫	鄫	cang4	zang4	cang4
-737	䁬	䁬	cang4,(白)slang4 詞綴，懵～～，糊糊塗塗	zang4,(白)slang4 詞綴，懵～～，糊糊塗塗	cang4
-738	緝	缉	cap1 緝拿，緝鞋口	cap2 緝拿，緝鞋口	cap1
-739	輯	辑	cap1 編輯，輯錄	cap2 編輯，輯錄	cap1
-740	戢	戢	cap1 戢兵，斂戢；姓；〈語〉脆～～，（蘿蔔等）非常脆，本字㮑	cap2 戢兵，斂戢；姓,(語)cap3 脆～～，（蘿蔔等）非常脆，本字㮑	cap1
-741	葺	葺	cap1	cap2	cap1
-742	蕺	蕺	cap1	cap2	cap1
-743	七	七	cat1 第七，七夕；～曹[tʃʰu21]曹[tʃʰu35]（假借字）、～巧[kʰiu35]來、～巧，猜碼口令，數字七	cat2 第七，七夕；～巧[kʰiu33]、～財、～子團圓，猜碼口令，數字七	cat1
-744	漆	漆	cat1	cat2	cat1
-745	柒	柒	cat1 七的大寫	cat2 七的大寫	cat1
-746	桼	桼	cat1	cat2	cat1
-747	丑	丑	cau2 子丑	cau2 子丑	cau2
-748	醜	丑	cau2 醜惡	cau2 醜惡	cau2
-749	湊	凑	cau3 拼湊，湊數	cau3 拼湊，湊數；連詞，和，我～你講一件事；介詞，向，～渠借一本書	cau3
-750	嗅	嗅	cau3 嗅覺；用鼻聞,(又)hung3 用鼻聞	cau3 嗅覺；用鼻聞,(又)hoeng3 用鼻聞	cau3
-751	抽	抽	cau1	cau1	cau1
-752	秋	秋	cau1 秋天	cau1 秋天	cau1
-753	臭	臭	cau3 臭味	cau3 臭味	cau3
-754	瞅	瞅	cau2	cau2	cau2
-755	鰍	鳅	cau1	cau1	cau1
-756	杻	杻	cau2 古刑具，似手銬,nau2 木名	cau2 古刑具，似手銬,nau2 木名	cau2,nau2
-757	楸	楸	cau1	cau1	cau1
-758	湫	湫	cau1 水潭,ziu2 低窪,zau1 湫水河	cau1 水潭,ziu2 低窪,zau1 湫水河	cau1,ziu2,zau1
-759	溴	溴	cau3	cau3	cau3
-760	瘳	瘳	cau1	cau1	cau1
-761	糗	糗	cau3 乾糧	cau3 乾糧	cau3,jau2
-762	腠	腠	cau3	cau3	cau3
-763	蔟	蔟	cau3 太蔟,cuk1 蠶蔟	cau3 太蔟,coek2 蠶蔟	cau3,cuk1
-764	輳	辏	cau3	cau3	cau3
-765	鞧	鞧	cau1	cau1	cau1
-766	萩	萩	cau1	cau1	cau1
-767	鶖	鹙	cau1	cau1	cau1
-768	侴	侴	cau2	cau2	cau2
-769	鞦	秋	cau1 鞦韆，牛鞦	cau1 鞦韆，牛鞦	cau1
-770	偢	偢	cau2 同瞅字,ciu3 傻偢	cau2 同瞅字,ciu3 傻偢	cau2,ciu2
-771	搊	搊	cau1 搊起來,(白)jau1 拿、提	cau1 搊起來,(白)njau1 拿、提	cau1
-772	殠	殠	cau3	cau3	cau3
-773	篘	𥬠	cau1	cau1	cau1
-774	仇	仇	cau4 仇敵，恩仇,kau4 姓，俗讀仇敵之仇	sau4 仇敵，恩仇,gau4 姓，俗讀仇敵之仇	sau4；姓氏又讀kau4或cau4
-775	愁	愁	cau4	sau4	sau4
-776	囚	囚	cau4	zau4	cau4
-777	疇	畴	cau4	zau4	cau4
-778	稠	稠	cau4	zau4	cau4
-779	籌	筹	cau4	zau4	cau4
-780	綢	绸	cau4 綢緞，絲綢	zau4 綢緞，絲綢	cau4
-781	酬	酬	cau4	zau4	cau4
-782	儔	俦	cau4	zau4	cau4
-783	惆	惆	cau4	zau4	cau4
-784	泅	泅	cau4 泅水，泅渡	zau4 泅水，泅渡	cau4；(又)jau4
-785	躊	踌	cau4	zau4	cau4
-786	酋	酋	cau4	zau4	jau4
-787	遒	遒	cau4	zau4	cau4,jau4
-788	讎	雠	cau4 校讎，讎定	zau4 校讎，讎定	cau4
-789	幬	帱	cau4 床帳；車帷,du6 覆蓋	zau4 床帳；車帷,daau6 覆蓋	cau4,dou6
-790	椆	椆	cau4 椆木，椆水,zau3 木椆,diu1 椆苕	zau4 椆木，椆水,zau3 木椆,diu1 椆苕	cau4,zau3,diu1
-791	犨	犨	cau4	zau4	cau4
-792	蝤	蝤	cau4 蝤蠐,zau1 蝤蛑,jau4 蜉蝤；〈又〉蝤蛑	zau4 蝤蠐,zau1 蝤蛑,jau4 蜉蝤；〈又〉蝤蛑	cau4,zau1,jau4
-793	且	且	ce2	ce2	ce2；(古)zeoi1
-794	扯	扯	ce2 拉扯，扯皮	ce2 拉扯，扯皮；～大炮，吹牛	ce2
-795	車	车	ce1 車輛；〈語〉吹噓，～大炮，吹牛，源自扯/撦,gyu1 車馬炮	ce1 車輛,gyu1 車馬炮	1)ce1:火車 2)geoi1:象棋棋子一種
-796	硨	砗	ce1	ce1	ce1
-797	撦	撦	ce2 同扯字	ce2 同扯字	ce2
-798	奲	𫰂	ce2 寬大也；奲都,do2 同嚲字	ce2 寬大也；奲都,du2 同嚲字	ce2,do2
-799	俥	伡	ce1 船上動力器；掌船動力器者，大俥,gyu1 象棋紅方棋子名	ce1 船上動力器；掌船動力器者，大俥,gyu1 象棋紅方棋子名	ce1
-800	唓	唓	ce1 唓嗻；語氣詞，表輕蔑；～咧[lɛ55]，話多、愛表現，源自啁嘐/嘐啁，語多	ce3 唓嗻；語氣詞，表輕蔑；～咧[le55]，話多、愛表現，源自啁嘐/嘐啁，語多	ce1
-801	笡	笡	ce3 斜、陡	ce3 斜、陡	ce3
-802	邪	邪	ce4 驅邪，邪惡,je4 莫邪，琅邪；古同耶	sle4 驅邪，邪惡,je4 莫邪，琅邪；古同耶	ce4；(古)同耶
-803	斜	斜	ce4 斜坡，傾斜,(白)sle4 乜[mɛ21]～，醉態	ze4 斜坡，傾斜,(白)sle4 乜[me21]～，醉態,(又)ce4	ce4
-804	輋	𪨶	ce4 地名用字	ze4 地名用字	ce4
-805	㙦	㙦	ce4	ze4	ce4
-806	尺	尺	cek3 尺寸,ce2 工尺	cik2 尺寸,ce2 工尺	cek3；ce2:樂譜記音符號
-807	呎	呎	cek3	cik2	cek3
-808	鑱	镵	(白)cem4 長鑱；刺入，與插對轉，又作攙/劖字,(文)caam4	zaam4 長鑱；刺入，與插對轉，又作攙/劖字	caam4
-809	劖	劖	(白)cem4 刺入，與插對轉，又作鑱/攙字,(文)caam4	zaam4 刺入，與插對轉，又作鑱/攙字	caam4
-810	剷	铲	(白)cen2 剷走，剷除,(文)caan2	caan2 剷走，剷除,(白)cen2	caan2
-811	鏟	铲	(白)cen2 鑊鏟；鏟走，鏟除,(文)caan2 鏟車（後起詞）	caan2 鑊鏟；鏟走，鏟除,(白)cen2 鏟兒	caan2
-812	插	插	(白)cep3,(文)caap3	caap2	caap3
-813	抄	抄	(白)ceu1 抄書,(白)ceu3 翻找、亂翻,(文)caau1,(文)caau3	caau1 抄書；翻找、亂翻	caau1
-814	炒	炒	(白)ceu2 炒飯，炒菜,(文)caau2 炒更（兼職）	caau2 炒飯，炒菜	caau2
-815	𤙴	𤙴	(白)ceu1 牴,(文)caau1	caau1 牴	caau1
-816	伺	伺	ci3 伺候，伺機,(老派)cy3	ci3 伺候，伺機	zi6
-817	似	似	ci5,(老派)cy5	ci3	ci5
-818	侈	侈	ci2 奢侈	ci2 奢侈	ci2
-819	刺	刺	ci3 魚刺，刺刀，行刺,(老派)cy3,(白)cek3 刺骨，頭刺（頭痛），肉刺（心痛）	ci3 魚刺，刺刀，行刺,(白)cik2 刺骨，頭刺（頭痛），肉刺（心痛）	ci3；行刺又讀cik3
-820	廁	厕	ci3 廁所,cak1 廁足,(老派)cy3	ci3 廁所,cak2 廁足	ci3
-821	幟	帜	ci3 旗幟,(常)zik1 俗讀，讀同織	ci3 旗幟,(常)zik2 俗讀，讀同織	ci3
-822	次	次	ci3,(老派)cy3	ci3	ci3
-823	此	此	ci2,(老派)cy2	ci2	ci2
-824	翅	翅	ci3	ci3	ci3
-825	恥	耻	ci2	ci2	ci2
-826	賜	赐	ci3,(老派)cy3	ci3	ci3
-827	雌	雌	ci1 雌雄，雌蕊,(老派)cy1	ci1 雌雄，雌蕊	ci1
-828	齒	齿	ci2	ci2	ci2
-829	癡	痴	ci1 癡情，白癡；〈語〉蠢、傻、瘋	ci1 癡情，白癡；〈語〉蠢、傻、瘋	ci1
-830	啻	啻	ci3	ci3	ci3
-831	嗤	嗤	ci1 嗤笑	ci1 嗤笑	ci1
-832	熾	炽	ci3	ci3	ci3
-833	疵	疵	ci1 瑕疵，吹毛求疵,(老派)cy1	ci1 瑕疵，吹毛求疵	ci1
-834	笞	笞	ci1	ci1	ci1
-835	蚩	蚩	ci1	ci1	ci1
-836	褫	褫	ci2	ci2	ci2
-837	哧	哧	ci1 象聲詞	ci1 象聲詞	ci1,cik1
-838	嘁	嘁	ci1 嘁嘁喳喳	ci1 嘁嘁喳喳	ci1,cik1
-839	媸	媸	ci1	ci1	ci1
-840	眙	眙	ci3 直視,ji4 盱眙	ci3 直視,ji4 盱眙	ci3,ji4
-841	眵	眵	ci1 眼眵	ci1 眼眵	ci1
-842	笥	笥	ci3,(老派)cy3	ci3	zi6
-843	螭	螭	ci1	ci1	ci1
-844	跐	跐	ci2 踏；跐豸,(老派)cy2,(白)caai2 俗字踩	ci2 踏；跐豸,(白)caai2 俗字踩	caai2,ci2
-845	魑	魑	ci1	ci1	ci1
-846	鴟	鸱	ci1	ci1	ci1
-847	佽	佽	ci3,(老派)cy3	ci3	ci3
-848	摛	摛	ci1	ci1	ci1
-849	泚	泚	ci2,(老派)cy2	ci2	ci2
-850	玼	玼	ci2 鮮明,ci1 玉的疵點,(老派)cy1,(老派)cy2	ci2 鮮明,ci1 玉的疵點	ci2,ci1
-851	瓻	瓻	ci1	ci1	ci1
-852	胣	胣	ci2	ci2	ci2
-853	莿	莿	ci3,(老派)cy3	ci3	ci3
-854	絺	𫄨	ci1,(又)hi1	ci1,(又)hi1	ci1
-855	鮆	𫚖	ci2 魚名,cai4 刀魚，又作鱭字,(老派)cy2	ci2 魚名,zai4 刀魚，又作鱭字	zai1,ci2
-856	痓	痓	ci3	ci3	ci3
-857	痴	痴	ci1 同癡字	ci1 同癡字	ci1
-858	胵	胵	ci1 膍胵	ci1 膍胵,(語)ci3 腑[fu21]胵，家禽內臟，炒腑～、腑～湯，俗作扶翅/芙翅	ci1,ci3
-859	黐	黐	ci1 黏、粘	ci1 黏、粘	ci1
-860	覗	𬢊	ci3,(老派)cy3	ci3	zi6
-861	佀	佀	ci5,(老派)cy5	ci3	ci5
-862	始	始	ci2 開始，始終	si2 開始，始終	ci2
-863	恃	恃	ci5 仗恃，有恃無恐,(老派)cy5	si6 恃才傲物，有恃無恐,(語)ci5 仗恃，～住官大；仗勢欺人的，～一世	ci5
-864	矢	矢	ci2 飛矢，矢志,(古)si2 通屎字	si2 飛矢，矢志；通屎字	ci2；(古)通屎
-865	豕	豕	ci2 豬也,(又)si2	si2 豬也	ci2
-866	臍	脐	ci4 肚臍，臍帶，古讀同齊	zai4 肚臍，臍帶	ci4
-867	匙	匙	ci4 匙羹，湯匙,si4 鎖匙，鑰匙；飯～骨，肩胛骨	zi4 匙羹，湯匙,si4 鎖匙，鑰匙；飯～骨，肩胛骨	1)ci4:湯匙 2)si4:鑰匙
-868	寺	寺	ci6 寺廟，清真寺,(老派)cy6,(老派)zy6,(又)zi6	zi6 寺廟，清真寺	zi6；(語)zi2
-869	弛	弛	ci4	zi4	ci4
-870	慈	慈	ci4,(老派)cy4	zi4	ci4
-871	持	持	ci4	zi4	ci4
-872	池	池	ci4	zi4	ci4
-873	瓷	瓷	ci4 瓷器,(老派)cy4	zi4 瓷器	ci4
-874	磁	磁	ci4 磁石,(老派)cy4	zi4 磁石	ci4
-875	祠	祠	ci4 祠堂，宗祠,(老派)cy4	zi4 祠堂，宗祠	ci4
-876	詞	词	ci4,(老派)cy4	zi4	ci4
-877	辭	辞	ci4,(老派)cy4	zi4	ci4
-878	遲	迟	ci4	zi4	ci4
-879	飼	饲	ci6 飼料，飼養,(老派)cy6,(常)ci4 俗讀，讀同詞,(老派)cy4 俗讀，讀同詞	zi6 飼料，飼養	zi6
-880	馳	驰	ci4	zi4	ci4
-881	嗣	嗣	ci6 子嗣，嗣位,(老派)cy6,(常)ci3 俗讀，讀同伺,(老派)cy3 俗讀，讀同伺	zi6 子嗣，嗣位	zi6
-882	墀	墀	ci4	zi4	ci4
-883	姒	姒	ci5,(老派)cy5	zi6	ci5
-884	踟	踟	ci4	zi4	ci4
-885	汜	汜	ci5,(老派)cy5	zi6	ci5
-886	篪	篪	ci4	zi4	ci4
-887	餈	糍	ci4 餈粑,(老派)cy4	zi4 餈粑	ci4
-888	茌	茌	ci4,(老派)cy4	zi4	ci4
-889	茨	茨	ci4,(老派)cy4	zi4	ci4
-890	鶿	鹚	ci4,(老派)cy4	zi4	ci4
-891	泜	泜	ci4 水名，在河北,zi1 泜河,zi6 水名，在河南	zi4 水名，在河北,zi1 泜河,zi6 水名，在河南	ci4,zi1,zi6
-892	薋	薋	ci4,(老派)cy4	zi4	ci4
-893	糍	糍	ci4 同餈字,(老派)cy4	zi4 同餈字	ci4
-894	鷀	鹚	ci4,(老派)cy4	zi4	ci4
-895	慼	戚	cik1 悲慼	cik2 悲慼	cik1
-896	戚	戚	cik1 親戚；姓	cik2 親戚；姓	cik1
-897	斥	斥	cik1	cik2	cik1
-898	赤	赤	cik1 赤色，赤子，赤口日,(語)ci3 打～肋，赤膊，打～腳，赤腳，語流音變	cik2 赤色，赤子，赤口日；打～膊，赤膊，打～腳，赤腳	cek3；(又)cik3
-899	叱	叱	cik1 叱吒，呵叱	cik2 叱吒，呵叱	cik1
-900	飭	饬	cik1	cik2	cik1
-901	敕	敕	cik1 宣敕，敕命；得～，得意	cik2 宣敕，敕命	cik1
-902	槭	槭	cik1 槭樹,saak3 葉落貌	cik2 槭樹,siak2 葉落貌	cik1,saak3
-903	彳	彳	cik1	cik2	cik1
-904	抶	抶	cik1	cik2	cik1
-905	鶒	𫛶	cik1	cik2	cik1
-906	慽	戚	cik1	cik2	cik1
-907	殲	歼	cim1 殲滅	cim1 殲滅	cim1
-908	簽	签	cim1 簽字，簽收	cim1 簽字，簽收	cim1
-909	籤	签	cim1 抽籤，牙籤	cim1 抽籤，牙籤	cim1
-910	纖	纤	cim1 纖細	cim1 纖細	cim1
-911	遷	迁	(習)cim1 遷移，遷徙,(書)cin1	(習)cim1 遷移，遷徙,(書)cin1	cin1
-912	僭	僭	cim3	cim3	cim3
-913	塹	堑	cim3	cim3	cim3
-914	暹	暹	cim3 暹羅	cim3 暹羅	cim3；(又)cim1
-915	箋	笺	(習)cim1 便箋，信箋，讀同籤,(書)zin1 本讀	(習)cim1 便箋，信箋，讀同籤,(書)zin1 本讀	zin1
-916	諂	谄	cim2	cim2	cim2
-917	僉	佥	cim1	cim1	cim1
-918	槧	椠	cim3	cim3	cim3
-919	釺	钎	(習)cim1 禾～，兩頭尖的扁擔，挑稻草、茅草用,(書)cin1	(習)cim1 禾～擔竿，兩頭尖的扁擔，挑稻草、茅草用,(書)cin1	cin1
-920	孅	孅	cim1	cim1	cim1
-921	籛	篯	cim1 馬具；姓,(又)cin1	cim1 馬具；姓,(又)cin1	zin1
-922	襜	襜	cim1,(又)zim1	cim1,(又)zim1	cim1,zim1
-923	鋟	锓	cim1	cim1	cim1
-924	韂	韂	cim3	cim3	cim3
-925	櫼	櫼	cim1,(又)zim1	cim1,(又)zim1	cim1,zim1
-926	銛	铦	cim1	cim1	cim1
-927	憸	𪫺	cim1 憸佞，憸邪,(語)zim1 㤿～，愛挑剔	cim1 憸佞，憸邪,(語)zim1 㤿～，愛挑剔	cim1
-928	嬐	𫰰	cim1	cim1	cim1
-929	䙴	䙴	cim1 同遷字,slin1 升高也；（稱物時）秤尾高，～啲，升高點，俗字先,(又)cin1	cim1 同遷字,slin1 升高也；（稱物時）秤尾高，～啲，升高點，俗字先,(又)cin1	cin1
-930	潛	潜	cim4 潛水，潛伏,(又)cam4	zim4 潛水，潛伏,(又)zam4	cim4
-931	灊	灊	cim4	zim4	cim4
-932	千	千	cin1 萬千，千金	cin1 萬千，千金	cin1
-933	淺	浅	cin2	cin2	cin2
-934	闡	阐	cin2 闡述，闡明,(又)sim4 讀同禪	cin2 闡述，闡明	zin2；(又)sin6,cin2
-935	仟	仟	cin1 千人之長；千的大寫	cin1 千人之長；千的大寫	cin1
-936	阡	阡	cin1 阡陌	cin1 阡陌	cin1
-937	扦	扦	cin1 扦子，扦插	cin1 扦子，扦插	cin1
-938	芊	芊	cin1 芊綿，芊芊	cin1 芊綿，芊芊	cin1
-939	躚	跹	cin1 蹁躚，讀同千,(又)slin1 本讀	cin1 蹁躚，讀同千,(又)slin1 本讀	cin1,sin1
-940	囅	冁	cin2,(又)zin2	cin2,(又)zyun2	cin2,zin2
-941	梴	梴	cin1 木長貌	cin1 木長貌	cin1
-942	蕆	蒇	cin2	cin2	cin2
-943	燀	𬊤	cin2 炊,daan6 熱甚；過度	cin2 炊,daan6 熱甚；過度	cin2,daan6
-944	圲	圲	cin1	cin1	cin1
-945	杄	杄	cin1	cin1	cin1
-946	韆	千	cin1 鞦韆	cin1 鞦韆	cin1
-947	瓩	瓩	cin1 ngaa5	cin1 waa5	cin1 ngaa5
-948	前	前	cin4	zin4	cin4
-949	纏	缠	cin4 纏繞；糾纏,(又)zin6	zin4 纏繞；糾纏	cin4
-950	錢	钱	cin4	zin4	cin4；(古)zin2田器
-951	廛	廛	cin4	zin4	cin4
-952	瀍	瀍	cin4	zin4	cin4
-953	躔	躔	cin4	zin4	cin4
-954	辿	辿	cin4,(又)caam1	zin4,(又)caam1	cin4
-955	清	清	cing1 清理，清楚,(白)ceng1 水清	cing1 清理，水清	cing1
-956	秤	秤	cing3 桿秤，秤砣	cing3 桿秤，秤砣	cing3
-957	稱	称	cing3 稱心；〈又〉相稱,cing1 稱呼；相稱	cing3 稱心，相稱,cing1 稱呼	1)cing1:稱呼 2)cing3:稱心
-958	蜻	蜻	cing1 蜻蜓	cing1 蜻蜓	cing1
-959	請	请	cing2 請客，邀請，請假,(白)ceng2 請假	cing2 請客，邀請，請假	cing2
-960	青	青	cing1 青年，青春，青草，多用於年齡或青綠色,(白)ceng1 青色，面青青，青菜（綠葉蔬菜總稱），多用於青白色	cing1 青草，青菜（綠葉蔬菜總稱）	cing1
-961	騁	骋	cing2	cing2	cing2
-962	圊	圊	cing1	cing1	cing1
-963	檉	柽	cing1	cing1	cing1
-964	蟶	蛏	cing1 蟶子,(常)sing3 讀同聖	cing1 蟶子,(常)sing3 讀同聖	cing1
-965	偁	偁	cing1 同稱字	cing1 同稱字	cing1
-966	庱	庱	cing2	cing2	cing2
-967	碃	碃	cing3	cing3	cing3
-968	赬	赪	cing1	cing1	cing1
-969	鯖	鲭	cing1 魚名,zing1 魚肉雜燴	cing1 魚名,zing1 魚肉雜燴	cing1,zing1
-970	掅	掅	cing3 揪住	cing3 揪住	cing3
-971	僜	僜	cing1 醉行貌,dang1 同登字；僜人,dang6 倰僜	cing1 醉行貌,dang1 同登字；僜人,dang6 倰僜	cing1,dang1,dang6
-972	呈	呈	cing4	zing4	cing4
-973	情	情	cing4	zing4	cing4
-974	懲	惩	cing4	zing4	cing4
-975	晴	晴	cing4	zing4	cing4
-976	澄	澄	cing4 澄清,dang6 水渾，澄一澄,(語)king4 澄清（水、液體）	zing4 澄清,dang6 水渾，澄一澄,(語)ging4 澄清（水、液體）	cing4
-977	程	程	cing4	zing4	cing4
-978	逞	逞	cing4 逞強，得逞，讀同呈	zing4 逞強，得逞，讀同呈	cing2
-979	埕	埕	cing4 罈子，～～䍇䍇，罈罈罐罐，酒～，酒罈子，金～，骨灰（或骨殖）罈子	zing4 罈子，～～䍇䍇，罈罈罐罐，酒～，酒罈子	cing4
-980	氰	氰	cing4 碳氮化合物,(又)cing1 讀同青	zing4 碳氮化合物,(又)cing1 讀同青	cing4,cing1
-981	裎	裎	cing4	zing4	cing4
+735	鄫	鄫	cang4	zang4	cang4
+736	䁬	䁬	cang4,(白)slang4 詞綴，懵～～，糊糊塗塗	zang4,(白)slang4 詞綴，懵～～，糊糊塗塗	cang4
+737	緝	缉	cap1 緝拿，緝鞋口	cap2 緝拿，緝鞋口	cap1
+738	輯	辑	cap1 編輯，輯錄	cap2 編輯，輯錄	cap1
+739	戢	戢	cap1 戢兵，斂戢；姓；〈語〉脆～～，（蘿蔔等）非常脆，本字㮑	cap2 戢兵，斂戢；姓,(語)cap3 脆～～，（蘿蔔等）非常脆，本字㮑	cap1
+740	葺	葺	cap1	cap2	cap1
+741	蕺	蕺	cap1	cap2	cap1
+742	七	七	cat1 第七，七夕；～曹[tʃʰu21]曹[tʃʰu35]（假借字）、～巧[kʰiu35]來、～巧，猜碼口令，數字七	cat2 第七，七夕；～巧[kʰiu33]、～財、～子團圓，猜碼口令，數字七	cat1
+743	漆	漆	cat1	cat2	cat1
+744	柒	柒	cat1 七的大寫	cat2 七的大寫	cat1
+745	桼	桼	cat1	cat2	cat1
+746	丑	丑	cau2 子丑	cau2 子丑	cau2
+747	醜	丑	cau2 醜惡	cau2 醜惡	cau2
+748	湊	凑	cau3 拼湊，湊數	cau3 拼湊，湊數；連詞，和，我～你講一件事；介詞，向，～渠借一本書	cau3
+749	嗅	嗅	cau3 嗅覺；用鼻聞,(又)hung3 用鼻聞	cau3 嗅覺；用鼻聞,(又)hoeng3 用鼻聞	cau3
+750	抽	抽	cau1	cau1	cau1
+751	秋	秋	cau1 秋天	cau1 秋天	cau1
+752	臭	臭	cau3 臭味	cau3 臭味	cau3
+753	瞅	瞅	cau2	cau2	cau2
+754	鰍	鳅	cau1	cau1	cau1
+755	杻	杻	cau2 古刑具，似手銬,nau2 木名	cau2 古刑具，似手銬,nau2 木名	cau2,nau2
+756	楸	楸	cau1	cau1	cau1
+757	湫	湫	cau1 水潭,ziu2 低窪,zau1 湫水河	cau1 水潭,ziu2 低窪,zau1 湫水河	cau1,ziu2,zau1
+758	溴	溴	cau3	cau3	cau3
+759	瘳	瘳	cau1	cau1	cau1
+760	糗	糗	cau3 乾糧	cau3 乾糧	cau3,jau2
+761	腠	腠	cau3	cau3	cau3
+762	蔟	蔟	cau3 太蔟,cuk1 蠶蔟	cau3 太蔟,coek2 蠶蔟	cau3,cuk1
+763	輳	辏	cau3	cau3	cau3
+764	鞧	鞧	cau1	cau1	cau1
+765	萩	萩	cau1	cau1	cau1
+766	鶖	鹙	cau1	cau1	cau1
+767	侴	侴	cau2	cau2	cau2
+768	鞦	秋	cau1 鞦韆，牛鞦	cau1 鞦韆，牛鞦	cau1
+769	偢	偢	cau2 同瞅字,ciu3 傻偢	cau2 同瞅字,ciu3 傻偢	cau2,ciu2
+770	搊	搊	cau1 搊起來,(白)jau1 拿、提	cau1 搊起來,(白)njau1 拿、提	cau1
+771	殠	殠	cau3	cau3	cau3
+772	篘	𥬠	cau1	cau1	cau1
+773	仇	仇	cau4 仇敵，恩仇,kau4 姓，俗讀仇敵之仇	sau4 仇敵，恩仇,gau4 姓，俗讀仇敵之仇	sau4；姓氏又讀kau4或cau4
+774	愁	愁	cau4	sau4	sau4
+775	囚	囚	cau4	zau4	cau4
+776	疇	畴	cau4	zau4	cau4
+777	稠	稠	cau4	zau4	cau4
+778	籌	筹	cau4	zau4	cau4
+779	綢	绸	cau4 綢緞，絲綢	zau4 綢緞，絲綢	cau4
+780	酬	酬	cau4	zau4	cau4
+781	儔	俦	cau4	zau4	cau4
+782	惆	惆	cau4	zau4	cau4
+783	泅	泅	cau4 泅水，泅渡	zau4 泅水，泅渡	cau4；(又)jau4
+784	躊	踌	cau4	zau4	cau4
+785	酋	酋	cau4	zau4	jau4
+786	遒	遒	cau4	zau4	cau4,jau4
+787	讎	雠	cau4 校讎，讎定	zau4 校讎，讎定	cau4
+788	幬	帱	cau4 牀帳；車帷,du6 覆蓋	zau4 牀帳；車帷,daau6 覆蓋	cau4,dou6
+789	椆	椆	cau4 椆木，椆水,zau3 木椆,diu1 椆苕	zau4 椆木，椆水,zau3 木椆,diu1 椆苕	cau4,zau3,diu1
+790	犨	犨	cau4	zau4	cau4
+791	蝤	蝤	cau4 蝤蠐,zau1 蝤蛑,jau4 蜉蝤；〈又〉蝤蛑	zau4 蝤蠐,zau1 蝤蛑,jau4 蜉蝤；〈又〉蝤蛑	cau4,zau1,jau4
+792	且	且	ce2	ce2	ce2；(古)zeoi1
+793	扯	扯	ce2 拉扯，扯皮	ce2 拉扯，扯皮；～大炮，吹牛	ce2
+794	車	车	ce1 車輛；〈語〉吹噓，～大炮，吹牛，源自扯/撦,gyu1 車馬炮	ce1 車輛,gyu1 車馬炮	1)ce1:火車 2)geoi1:象棋棋子一種
+795	硨	砗	ce1	ce1	ce1
+796	撦	撦	ce2 同扯字	ce2 同扯字	ce2
+797	奲	𫰂	ce2 寬大也；奲都,do2 同嚲字	ce2 寬大也；奲都,du2 同嚲字	ce2,do2
+798	俥	伡	ce1 船上動力器；掌船動力器者，大俥,gyu1 象棋紅方棋子名	ce1 船上動力器；掌船動力器者，大俥,gyu1 象棋紅方棋子名	ce1
+799	唓	唓	ce1 唓嗻；語氣詞，表輕蔑；～咧[lɛ55]，話多、愛表現，源自啁嘐/嘐啁，語多	ce3 唓嗻；語氣詞，表輕蔑；～咧[le55]，話多、愛表現，源自啁嘐/嘐啁，語多	ce1
+800	笡	笡	ce3 斜、陡	ce3 斜、陡	ce3
+801	邪	邪	ce4 驅邪，邪惡,je4 莫邪，琅邪；古同耶	sle4 驅邪，邪惡,je4 莫邪，琅邪；古同耶	ce4；(古)同耶
+802	斜	斜	ce4 斜坡，傾斜,(白)sle4 乜[mɛ21]～，醉態	ze4 斜坡，傾斜,(白)sle4 乜[me21]～，醉態,(又)ce4	ce4
+803	輋	𪨶	ce4 地名用字	ze4 地名用字	ce4
+804	㙦	㙦	ce4	ze4	ce4
+805	尺	尺	cek3 尺寸,ce2 工尺	cik2 尺寸,ce2 工尺	cek3；ce2:樂譜記音符號
+806	呎	呎	cek3	cik2	cek3
+807	鑱	镵	(白)cem4 長鑱；刺入，與插對轉，又作攙/劖字,(文)caam4	zaam4 長鑱；刺入，與插對轉，又作攙/劖字	caam4
+808	劖	劖	(白)cem4 刺入，與插對轉，又作鑱/攙字,(文)caam4	zaam4 刺入，與插對轉，又作鑱/攙字	caam4
+809	剷	铲	(白)cen2 剷走，剷除,(文)caan2	caan2 剷走，剷除,(白)cen2	caan2
+810	鏟	铲	(白)cen2 鑊鏟；鏟走，鏟除,(文)caan2 鏟車（後起詞）	caan2 鑊鏟；鏟走，鏟除,(白)cen2 鏟兒	caan2
+811	插	插	(白)cep3,(文)caap3	caap2	caap3
+812	抄	抄	(白)ceu1 抄書,(白)ceu3 翻找、亂翻,(文)caau1,(文)caau3	caau1 抄書；翻找、亂翻	caau1
+813	炒	炒	(白)ceu2 炒飯，炒菜,(文)caau2 炒更（兼職）	caau2 炒飯，炒菜	caau2
+814	𤙴	𤙴	(白)ceu1 牴,(文)caau1	caau1 牴	caau1
+815	伺	伺	ci3 伺候，伺機,(老派)cy3	ci3 伺候，伺機	zi6
+816	似	似	ci5,(老派)cy5	ci3	ci5
+817	侈	侈	ci2 奢侈	ci2 奢侈	ci2
+818	刺	刺	ci3 魚刺，刺刀，行刺,(老派)cy3,(白)cek3 刺骨，頭刺（頭痛），肉刺（心痛）	ci3 魚刺，刺刀，行刺,(白)cik2 刺骨，頭刺（頭痛），肉刺（心痛）	ci3；行刺又讀cik3
+819	廁	厕	ci3 廁所,cak1 廁足,(老派)cy3	ci3 廁所,cak2 廁足	ci3
+820	幟	帜	ci3 旗幟,(常)zik1 俗讀，讀同織	ci3 旗幟,(常)zik2 俗讀，讀同織	ci3
+821	次	次	ci3,(老派)cy3	ci3	ci3
+822	此	此	ci2,(老派)cy2	ci2	ci2
+823	翅	翅	ci3	ci3	ci3
+824	恥	耻	ci2	ci2	ci2
+825	賜	赐	ci3,(老派)cy3	ci3	ci3
+826	雌	雌	ci1 雌雄，雌蕊,(老派)cy1	ci1 雌雄，雌蕊	ci1
+827	齒	齿	ci2	ci2	ci2
+828	癡	痴	ci1 癡情，白癡；〈語〉蠢、傻、瘋	ci1 癡情，白癡；〈語〉蠢、傻、瘋	ci1
+829	啻	啻	ci3	ci3	ci3
+830	嗤	嗤	ci1 嗤笑	ci1 嗤笑	ci1
+831	熾	炽	ci3	ci3	ci3
+832	疵	疵	ci1 瑕疵，吹毛求疵,(老派)cy1	ci1 瑕疵，吹毛求疵	ci1
+833	笞	笞	ci1	ci1	ci1
+834	蚩	蚩	ci1	ci1	ci1
+835	褫	褫	ci2	ci2	ci2
+836	哧	哧	ci1 象聲詞	ci1 象聲詞	ci1,cik1
+837	嘁	嘁	ci1 嘁嘁喳喳	ci1 嘁嘁喳喳	ci1,cik1
+838	媸	媸	ci1	ci1	ci1
+839	眙	眙	ci3 直視,ji4 盱眙	ci3 直視,ji4 盱眙	ci3,ji4
+840	眵	眵	ci1 眼眵	ci1 眼眵	ci1
+841	笥	笥	ci3,(老派)cy3	ci3	zi6
+842	螭	螭	ci1	ci1	ci1
+843	跐	跐	ci2 踏；跐豸,(老派)cy2,(白)caai2 俗字踩	ci2 踏；跐豸,(白)caai2 俗字踩	caai2,ci2
+844	魑	魑	ci1	ci1	ci1
+845	鴟	鸱	ci1	ci1	ci1
+846	佽	佽	ci3,(老派)cy3	ci3	ci3
+847	摛	摛	ci1	ci1	ci1
+848	泚	泚	ci2,(老派)cy2	ci2	ci2
+849	玼	玼	ci2 鮮明,ci1 玉的疵點,(老派)cy1,(老派)cy2	ci2 鮮明,ci1 玉的疵點	ci2,ci1
+850	瓻	瓻	ci1	ci1	ci1
+851	胣	胣	ci2	ci2	ci2
+852	莿	莿	ci3,(老派)cy3	ci3	ci3
+853	絺	𫄨	ci1,(又)hi1	ci1,(又)hi1	ci1
+854	鮆	𫚖	ci2 魚名,cai4 刀魚，又作鱭字,(老派)cy2	ci2 魚名,zai4 刀魚，又作鱭字	zai1,ci2
+855	痓	痓	ci3	ci3	ci3
+856	痴	痴	ci1 同癡字	ci1 同癡字	ci1
+857	胵	胵	ci1 膍胵	ci1 膍胵,(語)ci3 腑[fu21]胵，家禽內臟，炒腑～、腑～湯，俗作扶翅/芙翅	ci1,ci3
+858	黐	黐	ci1 黏、粘	ci1 黏、粘	ci1
+859	覗	𬢊	ci3,(老派)cy3	ci3	zi6
+860	佀	佀	ci5,(老派)cy5	ci3	ci5
+861	始	始	ci2 開始，始終	si2 開始，始終	ci2
+862	恃	恃	ci5 仗恃，有恃無恐,(老派)cy5	si6 恃才傲物，有恃無恐,(語)ci5 仗恃，～住官大；仗勢欺人的，～一世	ci5
+863	矢	矢	ci2 飛矢，矢志,(古)si2 通屎字	si2 飛矢，矢志；通屎字	ci2；(古)通屎
+864	豕	豕	ci2 豬也,(又)si2	si2 豬也	ci2
+865	臍	脐	ci4 肚臍，臍帶，古讀同齊	zai4 肚臍，臍帶	ci4
+866	匙	匙	ci4 匙羹，湯匙,si4 鎖匙，鑰匙；飯～骨，肩胛骨	zi4 匙羹，湯匙,si4 鎖匙，鑰匙；飯～骨，肩胛骨	1)ci4:湯匙 2)si4:鑰匙
+867	寺	寺	ci6 寺廟，清真寺,(老派)cy6,(老派)zy6,(又)zi6	zi6 寺廟，清真寺	zi6；(語)zi2
+868	弛	弛	ci4	zi4	ci4
+869	慈	慈	ci4,(老派)cy4	zi4	ci4
+870	持	持	ci4	zi4	ci4
+871	池	池	ci4	zi4	ci4
+872	瓷	瓷	ci4 瓷器,(老派)cy4	zi4 瓷器	ci4
+873	磁	磁	ci4 磁石,(老派)cy4	zi4 磁石	ci4
+874	祠	祠	ci4 祠堂，宗祠,(老派)cy4	zi4 祠堂，宗祠	ci4
+875	詞	词	ci4,(老派)cy4	zi4	ci4
+876	辭	辞	ci4,(老派)cy4	zi4	ci4
+877	遲	迟	ci4	zi4	ci4
+878	飼	饲	ci6 飼料，飼養,(老派)cy6,(常)ci4 俗讀，讀同詞,(老派)cy4 俗讀，讀同詞	zi6 飼料，飼養	zi6
+879	馳	驰	ci4	zi4	ci4
+880	嗣	嗣	ci6 子嗣，嗣位,(老派)cy6,(常)ci3 俗讀，讀同伺,(老派)cy3 俗讀，讀同伺	zi6 子嗣，嗣位	zi6
+881	墀	墀	ci4	zi4	ci4
+882	姒	姒	ci5,(老派)cy5	zi6	ci5
+883	踟	踟	ci4	zi4	ci4
+884	汜	汜	ci5,(老派)cy5	zi6	ci5
+885	篪	篪	ci4	zi4	ci4
+886	餈	糍	ci4 餈粑,(老派)cy4	zi4 餈粑	ci4
+887	茌	茌	ci4,(老派)cy4	zi4	ci4
+888	茨	茨	ci4,(老派)cy4	zi4	ci4
+889	鶿	鹚	ci4,(老派)cy4	zi4	ci4
+890	泜	泜	ci4 水名，在河北,zi1 泜河,zi6 水名，在河南	zi4 水名，在河北,zi1 泜河,zi6 水名，在河南	ci4,zi1,zi6
+891	薋	薋	ci4,(老派)cy4	zi4	ci4
+892	糍	糍	ci4 同餈字,(老派)cy4	zi4 同餈字	ci4
+893	鷀	鹚	ci4,(老派)cy4	zi4	ci4
+894	慼	戚	cik1 悲慼	cik2 悲慼	cik1
+895	戚	戚	cik1 親戚；姓	cik2 親戚；姓	cik1
+896	斥	斥	cik1	cik2	cik1
+897	赤	赤	cik1 赤色，赤子，赤口日,(語)ci3 打～肋，赤膊，打～腳，赤腳，語流音變	cik2 赤色，赤子，赤口日；打～膊，赤膊，打～腳，赤腳	cek3；(又)cik3
+898	叱	叱	cik1 叱吒，呵叱	cik2 叱吒，呵叱	cik1
+899	飭	饬	cik1	cik2	cik1
+900	敕	敕	cik1 宣敕，敕命；得～，得意	cik2 宣敕，敕命	cik1
+901	槭	槭	cik1 槭樹,saak3 葉落貌	cik2 槭樹,siak2 葉落貌	cik1,saak3
+902	彳	彳	cik1	cik2	cik1
+903	抶	抶	cik1	cik2	cik1
+904	鶒	𫛶	cik1	cik2	cik1
+905	慽	戚	cik1	cik2	cik1
+906	殲	歼	cim1 殲滅	cim1 殲滅	cim1
+907	簽	签	cim1 簽字，簽收	cim1 簽字，簽收	cim1
+908	籤	签	cim1 抽籤，牙籤	cim1 抽籤，牙籤	cim1
+909	纖	纤	cim1 纖細	cim1 纖細	cim1
+910	遷	迁	(習)cim1 遷移，遷徙,(書)cin1	(習)cim1 遷移，遷徙,(書)cin1	cin1
+911	僭	僭	cim3	cim3	cim3
+912	塹	堑	cim3	cim3	cim3
+913	暹	暹	cim3 暹羅	cim3 暹羅	cim3；(又)cim1
+914	箋	笺	(習)cim1 便箋，信箋，讀同籤,(書)zin1 本讀	(習)cim1 便箋，信箋，讀同籤,(書)zin1 本讀	zin1
+915	諂	谄	cim2	cim2	cim2
+916	僉	佥	cim1	cim1	cim1
+917	槧	椠	cim3	cim3	cim3
+918	釺	钎	(習)cim1 禾～，兩頭尖的扁擔，挑稻草、茅草用,(書)cin1	(習)cim1 禾～擔竿，兩頭尖的扁擔，挑稻草、茅草用,(書)cin1	cin1
+919	孅	孅	cim1	cim1	cim1
+920	籛	篯	cim1 馬具；姓,(又)cin1	cim1 馬具；姓,(又)cin1	zin1
+921	襜	襜	cim1,(又)zim1	cim1,(又)zim1	cim1,zim1
+922	鋟	锓	cim1	cim1	cim1
+923	韂	韂	cim3	cim3	cim3
+924	櫼	櫼	cim1,(又)zim1	cim1,(又)zim1	cim1,zim1
+925	銛	铦	cim1	cim1	cim1
+926	憸	𪫺	cim1 憸佞，憸邪,(語)zim1 㤿～，愛挑剔	cim1 憸佞，憸邪,(語)zim1 㤿～，愛挑剔	cim1
+927	嬐	𫰰	cim1	cim1	cim1
+928	䙴	䙴	cim1 同遷字,slin1 升高也；（稱物時）秤尾高，～啲，升高點，俗字先,(又)cin1	cim1 同遷字,slin1 升高也；（稱物時）秤尾高，～啲，升高點，俗字先,(又)cin1	cin1
+929	潛	潜	cim4 潛水，潛伏,(又)cam4	zim4 潛水，潛伏,(又)zam4	cim4
+930	灊	灊	cim4	zim4	cim4
+931	千	千	cin1 萬千，千金	cin1 萬千，千金	cin1
+932	淺	浅	cin2	cin2	cin2
+933	闡	阐	cin2 闡述，闡明,(又)sim4 讀同禪	cin2 闡述，闡明	zin2；(又)sin6,cin2
+934	仟	仟	cin1 千人之長；千的大寫	cin1 千人之長；千的大寫	cin1
+935	阡	阡	cin1 阡陌	cin1 阡陌	cin1
+936	扦	扦	cin1 扦子，扦插	cin1 扦子，扦插	cin1
+937	芊	芊	cin1 芊綿，芊芊	cin1 芊綿，芊芊	cin1
+938	躚	跹	cin1 蹁躚，讀同千,(又)slin1 本讀	cin1 蹁躚，讀同千,(又)slin1 本讀	cin1,sin1
+939	囅	冁	cin2,(又)zin2	cin2,(又)zyun2	cin2,zin2
+940	梴	梴	cin1 木長貌	cin1 木長貌	cin1
+941	蕆	蒇	cin2	cin2	cin2
+942	燀	𬊤	cin2 炊,daan6 熱甚；過度	cin2 炊,daan6 熱甚；過度	cin2,daan6
+943	圲	圲	cin1	cin1	cin1
+944	杄	杄	cin1	cin1	cin1
+945	韆	千	cin1 鞦韆	cin1 鞦韆	cin1
+946	瓩	瓩	cin1 ngaa5	cin1 waa5	cin1 ngaa5
+947	前	前	cin4	zin4	cin4
+948	纏	缠	cin4 纏繞；糾纏,(又)zin6	zin4 纏繞；糾纏	cin4
+949	錢	钱	cin4	zin4	cin4；(古)zin2田器
+950	廛	廛	cin4	zin4	cin4
+951	瀍	瀍	cin4	zin4	cin4
+952	躔	躔	cin4	zin4	cin4
+953	辿	辿	cin4,(又)caam1	zin4,(又)caam1	cin4
+954	清	清	cing1 清理，清楚,(白)ceng1 水清	cing1 清理，水清	cing1
+955	秤	秤	cing3 桿秤，秤砣	cing3 桿秤，秤砣	cing3
+956	稱	称	cing3 稱心；〈又〉相稱,cing1 稱呼；相稱	cing3 稱心，相稱,cing1 稱呼	1)cing1:稱呼 2)cing3:稱心
+957	蜻	蜻	cing1 蜻蜓	cing1 蜻蜓	cing1
+958	請	请	cing2 請客，邀請，請假,(白)ceng2 請假	cing2 請客，邀請，請假	cing2
+959	青	青	cing1 青年，青春，青草，多用於年齡或青綠色,(白)ceng1 青色，面青青，青菜（綠葉蔬菜總稱），多用於青白色	cing1 青草，青菜（綠葉蔬菜總稱）	cing1
+960	騁	骋	cing2	cing2	cing2
+961	圊	圊	cing1	cing1	cing1
+962	檉	柽	cing1	cing1	cing1
+963	蟶	蛏	cing1 蟶子,(常)sing3 讀同聖	cing1 蟶子,(常)sing3 讀同聖	cing1
+964	偁	偁	cing1 同稱字	cing1 同稱字	cing1
+965	庱	庱	cing2	cing2	cing2
+966	碃	碃	cing3	cing3	cing3
+967	赬	赪	cing1	cing1	cing1
+968	鯖	鲭	cing1 魚名,zing1 魚肉雜燴	cing1 魚名,zing1 魚肉雜燴	cing1,zing1
+969	掅	掅	cing3 揪住	cing3 揪住	cing3
+970	僜	僜	cing1 醉行貌,dang1 同登字；僜人,dang6 倰僜	cing1 醉行貌,dang1 同登字；僜人,dang6 倰僜	cing1,dang1,dang6
+971	呈	呈	cing4	zing4	cing4
+972	情	情	cing4	zing4	cing4
+973	懲	惩	cing4	zing4	cing4
+974	晴	晴	cing4	zing4	cing4
+975	澄	澄	cing4 澄清,dang6 水渾，澄一澄,(語)king4 澄清（水、液體）	zing4 澄清,dang6 水渾，澄一澄,(語)ging4 澄清（水、液體）	cing4
+976	程	程	cing4	zing4	cing4
+977	逞	逞	cing4 逞強，得逞，讀同呈	zing4 逞強，得逞，讀同呈	cing2
+978	埕	埕	cing4 罈子，～～䍇䍇，罈罈罐罐，酒～，酒罈子，金～，骨灰（或骨殖）罈子	zing4 罈子，～～䍇䍇，罈罈罐罐，酒～，酒罈子	cing4
+979	氰	氰	cing4 碳氮化合物,(又)cing1 讀同青	zing4 碳氮化合物,(又)cing1 讀同青	cing4,cing1
+980	裎	裎	cing4	zing4	cing4
+981	嶒	嶒	cing4 崚嶒,(又)cang4	zing4 崚嶒,(又)zang4	cang4
 982	澂	澂	cing4 澄的本字	zing4 澄的本字	cing4
 983	珵	珵	cing4	zing4	cing4
 984	酲	酲	cing4	zing4	cing4
@@ -1113,7 +1113,7 @@ ID	TRAD	SIMP	N-JYUTPING	T-JYUTPING	G-JYUTPING
 1112	裁	裁	coi4	zaai4	coi4
 1113	財	财	coi4	zaai4	coi4
 1114	剒	剒	cok3	caak2	cok3
-1115	戳	戳	cok3 戳穿；郵戳,(語)cot6 男陰，戳物的合音，假借字腏；詈語，～頭，既指男陰又指爛人，笨～，笨蛋、膿包；後綴成分，～死，要死，貴～死，貴得要死；程度副詞，噉～屎，這麼差勁，也說噉㞓屎	cuk2 戳穿；郵戳,(語)cot6 男陰，戳物的合音，假借字腏；詈語，～頭，既指男陰又指爛人；後綴成分，～死，要死，貴～死，貴得要死；程度副詞，老～屎，年紀不大卻裝老成、自作聰明	coek3；(又)cok3
+1115	戳	戳	cok3 戳穿；郵戳,(語)cot6 俗字，男陰，戳物的合音，假借字腏；詈語，～頭，既指男陰又指爛人，笨～，笨蛋、膿包；後綴成分，～死，要死，貴～死，貴得要死；程度副詞，噉～屎，這麼差勁，也說噉㞓屎	cuk2 戳穿；郵戳,(語)cot6 俗字，男陰，戳物的合音，假借字腏；詈語，～頭，既指男陰又指爛人；後綴成分，～死，要死，貴～死，貴得要死；程度副詞，老～屎，年紀不大卻裝老成、自作聰明	coek3；(又)cok3
 1116	擉	擉	cok3 剌也；～人，用肘部擊人	cuk2 剌也	cok3
 1117	倉	仓	cong1	caang1	cong1
 1118	創	创	cong3 創造；創傷，古讀平聲	caang3 創造；創傷，古讀平聲	1)cong3:創造 2)cong1:刀創
@@ -1129,7 +1129,7 @@ ID	TRAD	SIMP	N-JYUTPING	T-JYUTPING	G-JYUTPING
 1128	惝	惝	cong2,(又)tong2	caang2,(又)taang2	tong2,cong2
 1129	昶	昶	cong2	caang2	cong2
 1130	氅	氅	cong2	caang2	cong2
-1131	鯧	鲳	(習)cong1 鯧魚，俗字䱽,(書)coeng1	(習)caang1 鯧魚，俗字䱽,(書)ciang1	coeng1
+1131	鯧	鲳	(習)cong1 鯧魚，俗字䱽/倉,(書)coeng1	(習)caang1 鯧魚，俗字䱽/倉,(書)ciang1	coeng1
 1132	鋹	𬬮	cong2	caang2	cong2
 1133	刱	刱	cong3	caang3	cong3
 1134	䱽	䲝	cong1 同鯧字	caang1 同鯧字	cong1
@@ -1421,10 +1421,10 @@ ID	TRAD	SIMP	N-JYUTPING	T-JYUTPING	G-JYUTPING
 1420	底	底	dai2 底部，水底,dik1 同的字,(白)dai1 外～，外面，下～，下面，俗字低	dai2 底部，水底,dik2 同的字	dai2
 1421	弟	弟	dai6 兄弟，徒弟,(語)di2 弟[ti21]～、阿～，小弟	dai6 徒弟，弟子,(白)dai5 兄弟，老弟，阿弟，弟[tɐi21]弟	dai6；(古)同悌tai5
 1422	抵	抵	dai2 抵押，抵抗；～值，划算、值得，～恁，能忍受、吃得虧，搏～，佔便宜	dai2 抵押，抵抗；～值，划算、值得，～恁，能忍受、吃得虧，搏～，佔便宜	dai2
-1423	第	第	dai6	dai6	dai6
+1423	第	第	dai6 及第，第一；～日，次日、改天；別，～個，～啲，～笪定[tɛŋ22],(又)daai6 別，～個，～啲，～笪定[tɛŋ22]	dai6 及第，第一；～二日，次日	dai6
 1424	締	缔	dai3	dai3	dai3；(又)tai3
 1425	蒂	蒂	dai3	dai3	dai3
-1426	遞	递	dai6 傳遞，遞交,(語)doe2 遞，疑本字柱，支也，知組三等讀如端組	dai6 傳遞，遞交,(語)dyu5 遞，疑本字柱，支也，知組三等讀如端組	dai6
+1426	遞	递	dai6 傳遞，遞交,(語)doe2 遞，疑本字柱，支也，知三讀如端	dai6 傳遞，遞交,(語)dyu5 遞，疑本字柱，支也，知三讀如端	dai6
 1427	逮	逮	dai6 逮捕；逮老鼠	dai6 逮捕；逮老鼠	dai6；(又)doi6
 1428	隸	隶	dai6 奴隸，隸書，讀同棣	dai6 奴隸，隸書，讀同棣	dai6；隸書又音lai6
 1429	悌	悌	dai6 孝悌，愷悌	dai6 孝悌，愷悌	1)tai5:愷悌 2)dai6:同弟
@@ -1536,7 +1536,7 @@ ID	TRAD	SIMP	N-JYUTPING	T-JYUTPING	G-JYUTPING
 1535	釘	钉	(白)deng1 鐵釘；釘住,(文)ding1	ding1 鐵釘,ding3 釘住	deng1；(又)ding1
 1536	頂	顶	(白)deng2 名詞，屋頂,(文)ding2 動詞，頂住,(白)neng2 量詞，一～帽，一頂帽，老派用法，端組旁轉，俗字𠽒	ding2 屋頂，頂住	ding2
 1537	地	地	di6 土地，鋤大地；助詞	di6 土地，鋤大地；助詞	dei6
-1538	啲	啲	di1 俗字，一～，一點兒，一說本字稚，知組讀如端組；阿～嚕～，這裏那裏；～咑，嗩吶或嗩吶聲,(又)dit1 表少量，或爲連讀音變，另一說本字尐,(白)ni1 ～～登[nɐŋ55]登[nɐŋ55]，各種事物，端組旁轉，又作呢字	di3 俗字，一～，一點兒，一說本字稚，知組讀如端組；阿～爾[ȵi22]～，這裏那裏，哪～，哪裏,(又)dit3 表少量，或爲連讀音變，另一說本字尐,(語)di4 ～～嗲[te21]嗲[te21]，滴瀝貌；～～突突，說話結巴	dit1,di1
+1538	啲	啲	di1 俗字，一～，一點兒，本字稚，小也，知三讀如端；阿～嚕～，這裏那裏，當源自底，山居也；擬聲，～咑，嗩吶或嗩吶聲,(又)dit1 表少量，或爲連讀音變，另一說本字尐,(白)ni1 ～～登[nɐŋ55]登[nɐŋ55]，各種事物，端組旁轉，又作呢字	di3 俗字，一～，一點兒，本字稚，小也，知三讀如端；阿～爾[ȵi22]～，這裏那裏，哪～，哪裏，當源自底，山居也,(又)dit3 表少量，或爲連讀音變，另一說本字尐,(語)di4 ～～嗲[te21]嗲[te21]，滴瀝貌；～～突突，說話結巴	dit1,di1
 1539	墬	墬	di6	di6	dei6
 1540	哋	哋	di6 俗字，我～，我們，本字等（上古蒸部），與臺（上古之部）字對轉，輩也	di6 俗字，我～，我們，本字等（上古蒸部），與臺（上古之部）字對轉，輩也,(語)di1 矮～～，形容人矮而小	dei6,dei2
 1541	嘀	嘀	dik6 嘀咕,dik1 嘀嗒	dik6 嘀咕,dik3 嘀嗒	dik6；(又)dik1
@@ -1558,7 +1558,7 @@ ID	TRAD	SIMP	N-JYUTPING	T-JYUTPING	G-JYUTPING
 1557	樀	樀	dik1	dik2	dik1
 1558	踧	踧	dik6 踧踧,cuk1 踧踖	dik6 踧踧,coek2 踧踖	dik6,cuk1
 1559	䯼	䯼	dik6	dik6	dik6
-1560	點	点	dim2 點燈，點炮，小數點；〈語〉怎麼，底物的合音,(白)dem2 蘸，～鹽，～水	dem2 點燈，點心，小數點；蘸，～鹽，～水,(又)dim2 點數	dim2
+1560	點	点	dim2 點燈，點炮，小數點；〈語〉怎麼，底物的合音，底物即（何）等物，底乃等的俗字,(白)dem2 蘸，～鹽，～水	dem2 點燈，點心，小數點；蘸，～鹽，～水,(又)dim2 點數	dim2
 1561	典	典	(習)dim2 經典，典型,(書)din2	(習)dim2 經典，典型,(書)din2	din2
 1562	墊	垫	(訓)dim6 坐墊，墊錢，訓讀簟	(訓)dim6 坐墊，墊錢，訓讀簟	din3；(又)din6
 1563	店	店	dim3	dim3	dim3
@@ -1598,7 +1598,7 @@ ID	TRAD	SIMP	N-JYUTPING	T-JYUTPING	G-JYUTPING
 1597	攧	𭣇	din1	din1	din1
 1598	丁	丁	ding1 丙丁，壯丁，肉丁；單～，孤單、單獨，與滴對轉；奀/瘦～～，瘦貌,(古)zaang1 伐木丁丁,(白)deng1 人丁，豆丁（小個子），妹丁（女孩兒）,(白)ning1 細～～，小貌，端組旁轉，俗字擰/嚀	ding1 丙丁，壯丁，肉丁；單～，孤單、單獨，與滴對轉,(古)ziang1 伐木丁丁	ding1；(古)zang1伐木丁丁
 1599	叮	叮	ding1 叮嚀；叮咬,(白)deng1 （蚊子）叮，元音象義,(白)doeng1 （雞）叮，元音象義，又作啄字	ding1 叮嚀；叮咬	ding1
-1600	定	定	ding6 安定，定時；落～，付定金、放定,(白)deng6 地方，～方，地方，陰～，背陰處，俗字埞，另一說地方的合音	ding6 安定，定時；落～、落～錢，付定金、放定	ding6
+1600	定	定	ding6 安定，定時；落～，付定金、放定,(白)deng6 地方，～方、笪～，地方，陰～，背陰處，俗字埞，另一說地方的合音	ding6 安定，定時；落～、落～錢，付定金、放定	ding6
 1601	盯	盯	ding1 盯住，盯梢,caang4 直視，又張梗切,(白)deng1,(白)zang2 䁅[mɐŋ35]～，暴躁、使性子；案，元曲作放懞掙	ding1 盯住，盯梢,ziang4 直視，又張梗切	ding1
 1602	鼎	鼎	ding2	ding2	ding2
 1603	仃	仃	ding1 伶仃	ding1 伶仃	ding1
@@ -1988,7 +1988,7 @@ ID	TRAD	SIMP	N-JYUTPING	T-JYUTPING	G-JYUTPING
 1987	篚	篚	fi2	fi2	fei2
 1988	騑	𬴂	fi1	fi1	fei1
 1989	蜰	蜰	fi4	fi4	fei4
-1990	㹃	㹃	fi3 覆耕,(訓)he3 撬，～開隻櫃，或源自撬/擓,(語)fe2 褦[lɛ24]～，同褦襶	fi3 覆耕,(訓)ke3 撥開東西找，或源自撬/擓,(白)pe3 撥拉，鷄崽～禾稈	he3,fe3
+1990	㹃	㹃	fi3 覆耕,(訓)he3 撬，～開隻櫃，或源自撬/擓,(語)fe2 褦[lɛ24]～，同褦襶	fi3 覆耕,(訓)ke3 撥開東西找，或源自撬/擓,(白)pe3 撥拉，雞崽～禾稈	he3,fe3
 1991	覅	覅	fiu3 吳語字，弗要	fiu3 吳語字，弗要	fiu3
 1992	伙	伙	fo2 伙食，傢伙，包伙	hu2 伙食，傢伙，包伙	fo2
 1993	夥	伙	fo2 夥伴，合夥，小夥子	hu2 夥伴，合夥，小夥子	fo2
@@ -2364,7 +2364,7 @@ ID	TRAD	SIMP	N-JYUTPING	T-JYUTPING	G-JYUTPING
 2363	觔	觔	gan1	gan1	gan1
 2364	歏	歏	gan6	gan6,(語)gaan6 ～硌[kak2]，不順心、不滿足	gan6
 2365	梗	梗	gang2 桔梗，梗阻；〈語〉～係，肯定是，箇肯的合音,(白)kwaang2 菜梗，豆梗,(白)gwaang2 又音	gang2 桔梗，梗阻,(語)giang3 表狀態或程度，這/那樣、這/那麼，箇樣的合音，又作耿/更字,(白)kwaang2 菜梗，豆梗,(白)gwaang2 又音	gang2
-2366	耿	耿	gang2 耿直，耿耿；〈語〉～板、繃[pɐŋ35]～，古板	gang2 耿直，耿耿；〈語〉古～，古板,(語)giang3 表狀態或程度，這/那樣、這/那麼，箇樣的合音，又作梗/更字	gang2
+2366	耿	耿	gang2 耿直，耿耿；〈語〉～板、繃[pɐŋ35]～，古板,(白)ngang2 發愣，愣住	gang2 耿直，耿耿；〈語〉古～，古板,(語)giang3 表狀態或程度，這/那樣、這/那麼，箇樣的合音，又作梗/更字	gang2
 2367	埂	埂	gang2 田埂	gang2 田埂	gang2
 2368	亙	亘	gang2	gang2	gang2
 2369	綆	绠	gang2	gang2	gang2
@@ -2630,7 +2630,7 @@ ID	TRAD	SIMP	N-JYUTPING	T-JYUTPING	G-JYUTPING
 2629	蜾	蜾	go2	go2	gwo2
 2630	𠜴	𠜴	go2	go2,(語)kwaa2 割，～草,(語)gwe2 割，～草	gwo2
 2631	猓	猓	go2	go2	gwo2
-2632	箇	箇	go3 量詞，枚也；代詞，這、那，～便、～幾個、～個月，不分遠近指，僅用於遠近會變且恰處中間的事物，如車子、人、月份等，較少用	go3 量詞，枚也；代詞，這、那，古文用法	go3
+2632	箇	箇	go3 量詞，枚也；代詞，這、那，～啲、～便、～幾個、～個月，不分近指遠指，較少用	go3 量詞，枚也；代詞，這、那，古文用法	go3
 2633	嗰	嗰	go2 粵字，那，本字箇，本地用嚕（遠指），偶爾也用不變調且不分遠近指的箇	go2 粵字，那，本字箇，本地用爾[ȵi22]（遠指）	go2
 2634	菓	菓	go2	go2	gwo2
 2635	鎶	鿔	go1	go1	go1
@@ -2882,7 +2882,7 @@ ID	TRAD	SIMP	N-JYUTPING	T-JYUTPING	G-JYUTPING
 2881	瘝	瘝	gwaan1 病也	gwaan1 病也	gwaan1
 2882	逛	逛	(白)gwaang6 逛街，遊逛,(文)gong6	gwaang6 逛街，遊逛；散步，我哋～一陣子	kwaang3；(又)gwaang6
 2883	俇	俇	gwaang6 俇俇；遠行,kong4 俇攘,(語)gaang6 打露～，裸下身	gwaang6 俇俇；遠行,gwaang4 俇攘,(語)gaang6 打露～，裸下身	gwaang6,hong1
-2884	括	括	gwaat3 包括，括號,(白)gwet3 罕讀,(又)kwaat3	gwaat2 包括，括號	1)kut3:括號 2)gwaat3:搜括
+2884	括	括	gwaat3 包括，括號，蒐括,(白)gwet3 罕讀,(又)kwaat3	gwaat2 包括，括號，蒐括	1)kut3:括號 2)gwaat3:搜括
 2885	聒	聒	gwaat3 聒噪，聒耳	gwaat2 聒噪，聒耳	kut3
 2886	鴰	鸹	gwaat3	gwaat2	kut3
 2887	筈	筈	gwaat3,(又)fut3	gwaat2,(又)hut2	kut3
@@ -3405,7 +3405,7 @@ ID	TRAD	SIMP	N-JYUTPING	T-JYUTPING	G-JYUTPING
 3404	鴞	鸮	hiu1	hiu1	hiu1
 3405	噷	噷	hm1	hm1	hm1
 3406	何	何	ho4	ho4	ho4
-3407	呵	呵	ho1 呵欠，呵斥；地名，呵叻（在泰國）,(語)ho2 句末語氣詞，表輕微徵詢以求確認，係麼的合音，用於明知某事仍需當面確認的情況，今晚你主持，～？工資又低，～？好似你有隻女，～？,(語)hu3 哦～，表無奈或嘲諷，源自嗚呼	ho1 呵欠，呵斥；地名，呵叻（在泰國）,(語)ho5 吆喝牛的用語,(語)ho2 哦～兵，戲曲中跑龍套的兵卒，又作嗬字	ho1
+3407	呵	呵	ho1 呵欠，呵斥；地名，呵叻（在泰國）,(語)ho2 句末語氣詞，表輕微徵詢以求確認，係麼的合音，用於明知某事仍需當面確認的情況，今晚你主持，～？工資又低，～？好似你有隻崽，～？,(語)hu3 哦～，表無奈或嘲諷，源自嗚呼	ho1 呵欠，呵斥；地名，呵叻（在泰國）,(語)ho5 吆喝牛的用語,(語)ho2 哦～兵，戲曲中跑龍套的兵卒，又作嗬字	ho1
 3408	河	河	ho4	ho4	ho4
 3409	荷	荷	ho4 荷花；薄荷，又作蔢𦽅,ho6 荷載，負荷	ho4 荷花；薄荷，又作蔢𦽅,ho6 荷載，負荷	1)ho4:荷花 2)ho6:負荷
 3410	賀	贺	ho6	ho6	ho6
@@ -4937,7 +4937,7 @@ ID	TRAD	SIMP	N-JYUTPING	T-JYUTPING	G-JYUTPING
 4936	䐃	䐃	kwan5 腸中脂,(白)kan5 禽類的胃（百姓以爲禽的腎），俗字肫	gwan5 腸中脂,(白)gan5 禽類的胃（百姓以爲禽的腎），俗字肫	kwan5
 4937	群	群	kwan4 同羣字	gwan4 同羣字	kwan4
 4938	困	困	kwan3 困難，圍困,(白)wan3 囚禁，與屈對轉	kwan3 困難，圍困,(白)wan3 囚禁，與屈對轉	kwan3
-4939	均	均	(白)kwan1 平均，均勻；案，正逐漸變爲舊讀,(文)gwan1	kwan1 平均，均勻	gwan1；通韻
+4939	均	均	(白)kwan1 平均，均勻，舊讀,(文)gwan1 新讀	kwan1 平均，均勻	gwan1；通韻
 4940	坤	坤	kwan1	kwan1	kwan1
 4941	捆	捆	kwan2 捆綁	kwan2 捆綁	kwan2
 4942	綑	捆	kwan2 織也；同捆字	kwan2 織也；同捆字	kwan2
@@ -5022,8 +5022,8 @@ ID	TRAD	SIMP	N-JYUTPING	T-JYUTPING	G-JYUTPING
 5021	譎	谲	kyut3	kyut2	kyut3
 5022	蹶	蹶	kyut3 一蹶不振，尥蹶子,gwai3 動也	kyut2 一蹶不振，尥蹶子,gwai3 動也	kyut3,gwai3
 5023	闋	阕	kyut3	kyut2	kyut3
-5024	噘	噘	kyut3 噘嘴,(訓)doe1 ～嘴，噘嘴，本字豬，知組三等讀如端組；（蚊蟲）叮，（馬蜂）蟄，當源自蛀	kyut2 噘嘴,(訓)dyu1 ～嘴，努嘴，本字豬，知組三等讀如端組	kyut3
-5025	撅	撅	kyut3 翹起；折斷,(訓)goe1 ～屎胐，撅屁股，疑本字居	kyut2 翹起；折斷,(訓)et3 翹，凳～起來喇	kyut3
+5024	噘	噘	kyut3 噘嘴,(訓)doe1 ～嘴，噘嘴，本字豬，知三讀如端；（蚊蟲）叮，（馬蜂）蟄，當源自蛀	kyut2 噘嘴,(訓)dyu1 ～嘴，努嘴，本字豬，知三讀如端	kyut3
+5025	撅	撅	kyut3 翹起；折斷,(訓)goe1 ～屎胐，撅屁股，疑本字踞，蹲也	kyut2 翹起；折斷,(訓)et3 翹，凳～起來喇	kyut3
 5026	橛	橛	kyut3 木橛，又作橜字,gyut6 量詞，截，又作橜字,(白)ket1 量詞，截，斷～，斷成兩截	kyut2 木橛，又作橜字,gyut6 量詞，截，又作橜字,(白)ket3 量詞，截,(白)kat3 量詞，截	kyut3,gyut6
 5027	玦	玦	kyut3	kyut2	kyut3
 5028	闕	阙	kyut3 宮闕；失也	kyut2 宮闕；失也	kyut3
@@ -5143,12 +5143,12 @@ ID	TRAD	SIMP	N-JYUTPING	T-JYUTPING	G-JYUTPING
 5142	霖	霖	lam4	lam4	lam4
 5143	廩	廪	lam2 倉廩，廩食,(語)lam6 摞、碼、堆叠，～磚，俗字㨆，與拉對轉	lam5 倉廩，廩食,(語)lam6 摞、碼、堆叠，～磚，俗字㨆，與拉對轉	lam5
 5144	檁	檩	lam2	lam5	lam5
-5145	啉	啉	lam4 喹啉,lam1 哄，俗字冧	lam4 喹啉,lam1 哄，～鷄捉狗，比喻語無倫次，俗字冧	lam4
+5145	啉	啉	lam4 喹啉,lam1 哄，俗字冧	lam4 喹啉,lam1 哄，～雞捉狗，比喻語無倫次，俗字冧	lam4
 5146	懍	懔	lam2	lam5	lam5
 5147	箖	箖	lam4	lam4	lam4
 5148	壈	𡒄	lam2	lam5	lam5
 5149	㨆	㨆	lam2 殺也打也,(語)lam6 摞、碼、堆叠，～磚，本字廩，與拉對轉	lam5 殺也打也,(語)lam6 摞、碼、堆叠，～磚，本字廩，與拉對轉	lam6
-5150	冧	冧	lam3 垮塌，塌陷，～檔，倒閉，或與陷/窞同源，上古談部，另一說淋的引申,lam1 哄，本字或爲啉，聒也；〈外〉～把，號碼，英語number，後起詞	lam3 垮塌，塌陷，～本，折本，或與陷/窞同源，上古談部，另一說淋的引申,lam1 哄，～鷄捉狗，比喻語無倫次，本字或爲啉，聒也	lam3,lam1
+5150	冧	冧	lam3 俗字，垮塌，塌陷，～檔，倒閉，或與陷/窞同源，上古談部，另一說淋的引申,lam1 俗字，哄，本字或爲啉，聒也；〈外〉～把，號碼，英語number，後起詞	lam3 俗字，垮塌，塌陷，～本，折本，或與陷/窞同源，上古談部，另一說淋的引申,lam1 俗字，哄，～雞捉狗，比喻語無倫次，本字或爲啉，聒也	lam3,lam1
 5151	侖	仑	lan4 加侖,(老派)lyun4	lan4 加侖	leon4
 5152	崙	仑	lan4 崑崙山,(老派)lyun4	lan4 崑崙山	leon4
 5153	倫	伦	lan4,(老派)lyun4	lan4	leon4
@@ -5309,7 +5309,7 @@ ID	TRAD	SIMP	N-JYUTPING	T-JYUTPING	G-JYUTPING
 5308	梩	梩	li4	li4	lei4
 5309	灕	漓	li4 灕江	li4 灕江	lei4
 5310	鬁	鬁	li6 鬎鬁，同瘌痢,(白)li1 鬎鬁，同瘌痢	li6 鬎鬁，同瘌痢	lei1
-5311	脷	脷	li6 舌頭，本字利，避諱舌/折	li6 舌頭，本字利，避諱舌/折	lei6
+5311	脷	脷	li6 俗字，舌頭，本字利，避諱舌/折	li6 俗字，舌頭，本字利，避諱舌/折	lei6
 5312	力	力	lik6 力量，有力,(外)lik1 朱古力，英語chocolate,(語)li1 苦力，與英語coolie同源，俗作咕哩/咕喱	lik5 力量，有力	lik6
 5313	曆	历	lik6 日曆	lik5 日曆	lik6
 5314	歷	历	lik6 歷史，經歷	lik5 歷史，經歷,(白)lik3 ～落[lak5]，利落	lik6
@@ -5382,7 +5382,7 @@ ID	TRAD	SIMP	N-JYUTPING	T-JYUTPING	G-JYUTPING
 5381	苓	苓	ling4	ling4	ling4
 5382	呤	呤	ling4 呤呤；象聲詞，呯[peŋ21]～嘭[paŋ21]啷[laŋ21]，劈哩啪啦,ling6 嘌呤	ling4 呤呤；象聲詞，呯～嘭[pɐŋ21]啷[lɐŋ21]，劈哩啪啦,ling6 嘌呤	ling4
 5383	囹	囹	ling4	ling4	ling4
-5384	崚	崚	ling4	ling4	ling4
+5384	崚	崚	ling4 崚嶒,(又)lang4	ling4 崚嶒,(又)lang4	ling4
 5385	欞	棂	ling4	ling4	ling4
 5386	泠	泠	ling4	ling4	ling4
 5387	瓴	瓴	ling4	ling4	ling4
@@ -5770,7 +5770,7 @@ ID	TRAD	SIMP	N-JYUTPING	T-JYUTPING	G-JYUTPING
 5769	傌	㐷	maa6 漢代刑罰；同罵字,maa5 象棋紅方棋子名	maa6 漢代刑罰；同罵字,maa5 象棋紅方棋子名	maa6
 5770	嚜	嚜	maa1 語氣詞,mak1 同嘜字；〈語〉瘦～喀[kʰɐk5]，很瘦，與蜢對轉,mak6 通默字,(語)mek1 瘦～喀[kʰɛk5]，很瘦，與蜢對轉	maa1 語氣詞,mak3 同嘜字,mak5 通默字,(語)maak3 瘦～喀[kʰak5]，很瘦，與蜢對轉	maa1,mak1,mak6,maak1
 5771	痳	痳	maa4 同痲字,lam4 同淋字，淋症	maa4 同痲字,lam4 同淋字，淋症	maa4,lam4
-5772	嫲	嫲	maa4 粵字，阿～，祖母，一說與嬤同源，本地已罕用，今多稱奶奶	maa4 粵字，祖母，一說與嬤同源，本地稱阿奶或奶奶	maa4
+5772	嫲	嫲	maa4 俗字，阿～，祖母，一說與嬤同源，本地已罕用，今多稱奶奶	maa4 俗字，祖母，一說與嬤同源，本地稱阿奶或奶奶	maa4
 5773	買	买	maai5	maai5	maai5
 5774	賣	卖	maai6 買賣，賣報,(白)maai2 燒賣	maai6 買賣，賣報，燒賣	maai6
 5775	埋	埋	maai4 埋伏，埋怨；～口，傷口癒合	maai4 埋伏，埋怨；～口，傷口癒合	maai4
@@ -6333,7 +6333,7 @@ ID	TRAD	SIMP	N-JYUTPING	T-JYUTPING	G-JYUTPING
 6332	崖	崖	ngaai4 山崖，懸崖,(又)ngaa4 山崖，懸崖；～鷹，老鷹，引申指風箏，俗作牙鷹；～巘[jin55]，危險，俗作牙煙/崖广，另一說危險的音變	ngaai4 山崖，懸崖	ngaai4
 6333	捱	挨	ngaai4 捱打，捱苦；被，～講，被批評	ngaai4 捱打，捱苦；被，～講，被批評	ngaai4
 6334	涯	涯	ngaai4 天涯，生涯,(又)ngaa4	ngaai4 天涯，生涯	ngaai4
-6335	艾	艾	ngaai6 艾草，艾葉，艾滋病,ngai6 自怨自艾，俗讀艾草之艾,(又)ngoi6 艾草，艾葉	ngaai6 艾草，艾葉，艾滋病,ngai6 自怨自艾，俗讀艾草之艾	ngaai6
+6335	艾	艾	(白)ngaai6 艾草，艾葉，艾滋病,ngai6 自怨自艾，俗讀艾草之艾,(文)ngoi6	ngaai6 艾草，艾葉，艾滋病,ngai6 自怨自艾，俗讀艾草之艾	ngaai6
 6336	睚	睚	ngaai4	ngaai4	ngaai4
 6337	砹	砹	ngaai6	ngaai6	ngaai6
 6338	堐	堐	ngaai4	ngaai4	ngaai4
@@ -6405,7 +6405,7 @@ ID	TRAD	SIMP	N-JYUTPING	T-JYUTPING	G-JYUTPING
 6404	齗	龂	ngan4	ngan4	ngan4
 6405	珢	珢	ngan4	ngan4	ngan4
 6406	垽	垽	ngan6	ngan6	ngan6
-6407	奀	奀	ngan1 俗字，瘦小，或爲伢身（小兒身）的合音	ngan1 俗字，瘦小，或爲伢身（小兒身）的合音	ngan1
+6407	奀	奀	ngan1 俗字，瘦小，當爲伢身（小兒身）的合音	ngan1 俗字，瘦小，當爲伢身（小兒身）的合音	ngan1
 6408	䟴	䟴	(習)ngan3 搖晃，與扤對轉,(書)zan3	(習)ngan3 搖晃，與扤對轉,(書)zan3	ngan3
 6409	𩪤	𩪤	ngap6 ～頭，點頭，與顉對轉，又作𩕟字,(又)ngap1	ngap6 ～頭，點頭，與顉對轉，又作𩕟字,(又)ngap3 ～頭，點頭,(又)ngap2 䆟[kʰɐp3]～，（女孩）怕羞	ngap6
 6410	屹	屹	ngat6 屹立,gat6 屹㟷，同圪墶,(又)hat1 屹立，讀同乞	ngat6 屹立,gat6 屹㟷，同圪墶,(又)hat2 屹立，讀同乞	ngat6
@@ -6467,7 +6467,7 @@ ID	TRAD	SIMP	N-JYUTPING	T-JYUTPING	G-JYUTPING
 6466	鸑	𬸚	ngok6	ngiak2,(又)ngaak6	ngok6
 6467	岸	岸	ngon6	ngaan6	ngon6
 6468	昂	昂	ngong4 昂首	ngaang4 昂首	ngong4
-6469	戇	戆	(訓)ngong3 傻、呆，～居，或爲愚戇的合音（愚字古疑母），與愕對轉,zong3 戇直,(語)ngang1 癡～～，瘋癲貌，傻～～，傻乎乎,(語)ngang2 發愣，愣住，或源自蹬/耿	(訓)ngaang3 傻、呆，癡～～，瘋癲貌，或爲愚戇的合音（愚字古疑母），與愕對轉,zaang3 戇直	ngong6
+6469	戇	戆	(訓)ngong3 傻、呆，～居，當爲愚戇的合音（愚字古疑母），與愕對轉,zong3 戇直,(語)ngang1 癡～～，瘋癲貌，傻～～，傻乎乎	(訓)ngaang3 傻、呆，癡～～，瘋癲貌，當爲愚戇的合音（愚字古疑母），與愕對轉,zaang3 戇直	ngong6
 6470	傲	傲	ngu6	ngaau6	ngou6
 6471	熬	熬	ngu4 熬夜,(白)ngaau4 熬肉；〈又〉熬夜	ngaau4 熬夜；熬肉	ngou4
 6472	嗷	嗷	ngu4 嗷嗷待哺,(語)ngaau3 詞綴，煙～～，煙燻火燎，綠～～，綠油油,(語)ngaau4 又音，煙～～，綠～～,(語)aau1 嚎聲	ngaau4 嗷嗷待哺,(語)ngaau3 詞綴，深～～，（眼）凹，韌[ȵɐŋ55]～～，（肉食等）韌,(語)ngeu3 詞綴，哭～～，哭哇哇,(語)aau1 嚎聲	ngou4
@@ -6950,7 +6950,7 @@ ID	TRAD	SIMP	N-JYUTPING	T-JYUTPING	G-JYUTPING
 6949	溥	溥	pu2	pu2	pou2
 6950	氆	氆	pu2	pu2	pou2
 6951	黼	黼	pu2,(又)fu2	pu2,(又)fu2	fu2
-6952	潽	潽	pu2 水名,pu1 液體沸騰溢出，本字𩱚	pu2 水名,pu1 液體沸騰溢出，本字𩱚	pou2,pou1
+6952	潽	潽	pu2 水名,pu1 俗字，液體沸騰溢出，本字𩱚	pu2 水名,pu1 俗字，液體沸騰溢出，本字𩱚	pou2,pou1
 6953	鐠	镨	pu2	pu2	pou2
 6954	倍	倍	pui5	bui5	pui5
 6955	培	培	pui4 培養，培植,bau6 培塿（小土丘）；〈語〉塿[lɐu22]～，不整潔、臃腫，古作培塿/部婁，俗字瘻婄/漏䏽	bui4 培養，培植,bau6 培塿（小土丘）；〈語〉塿[lɐu22]～，不整潔、臃腫，古作培塿/部婁，俗字瘻婄/漏䏽	pui4
@@ -7362,7 +7362,7 @@ ID	TRAD	SIMP	N-JYUTPING	T-JYUTPING	G-JYUTPING
 7361	饊	馓	slaan2 米花糰	slaan2 米花糰	saan2
 7362	潵	潵	slaan3 水散也,slaat3 潵河	slaan3 水散也,slaat2 潵河	saat3
 7363	圾	圾	slaap3 垃圾，本字擸𢶍,(白)slap1 ～碎，瑣碎、零碎，本字𢶍	slaap2 垃圾，本字擸𢶍,(白)slap3 ～碎，瑣碎、零碎，本字𢶍	saap3
-7364	霎	霎	slaap3 霎時，一霎那；～黑，黃昏；～眼，轉眼,(語)saap3 ～氣，傷腦筋，本字霅，散也	slaap2 霎時，一霎那,(語)saap2 ～氣，傷腦筋，本字霅，散也；～眼，超出一般，疑本字㵤，溢也	saap3
+7364	霎	霎	slaap3 霎時，一霎那；～黑，黃昏、傍晚；～眼，轉眼,(語)saap3 ～氣，傷腦筋，本字霅，散也	slaap2 霎時，一霎那,(語)saap2 ～氣，傷腦筋，本字霅，散也；～眼，超出一般，疑本字㵤，溢也	saap3
 7365	颯	飒	slaap3 颯颯，颯爽	slaap2 颯颯，颯爽	saap3
 7366	唼	唼	slaap3 唼喋,cip3 唼佞	slaap2 唼喋,cip2 唼佞	saap3,cip3
 7367	歃	歃	slaap3 歃血	slaap2 歃血	saap3
@@ -8212,7 +8212,7 @@ ID	TRAD	SIMP	N-JYUTPING	T-JYUTPING	G-JYUTPING
 8211	𢬳	𢬳	tuk1	toek2 扽，出力～，～斷	tuk1
 8212	禿	秃	tuk1 禿頂，光禿禿,(語)tyut1 光～～，光禿禿，本字脫	tuk2 禿頂，光禿禿	tuk1
 8213	同	同	tung4 共同，同時；連詞，和；疑問代詞，～點，怎麼	doeng4 共同，同時；疑問代詞，～能[nɐŋ24]，怎麼，能爲哪樣的合音,(語)dang4 又音，疑問代詞，～能[nɐŋ24]，怎麼，能爲哪樣的合音	tung4
-8214	彤	彤	tung4 彤雲，紅彤彤,(白)tung1 紅彤彤，又作紅通通	doeng4 彤雲，紅彤彤,(又)doeng3 紅彤彤	tung4
+8214	彤	彤	tung4 彤雲，紅彤彤,(白)tung1 紅彤彤，又作紅通通	doeng4 彤雲，紅彤彤,(語)doeng3 紅彤彤	tung4
 8215	桐	桐	tung4	doeng4	tung4
 8216	瞳	瞳	tung4	doeng4	tung4
 8217	童	童	tung4	doeng4	tung4
@@ -8305,128 +8305,128 @@ ID	TRAD	SIMP	N-JYUTPING	T-JYUTPING	G-JYUTPING
 8304	槐	槐	waai4	waai4	waai4
 8305	歪	歪	waai1 歪曲，歪斜，本字竵,(訓)me2 斜，本字佊，俗字乜	waai1 歪曲，歪斜，本字竵,(訓)me2 斜，本字佊，俗字乜	waai1
 8306	淮	淮	waai4	waai4	waai4
-8307	溾	溾	waai1 溾浽,(語)wui1 溾浽（污穢、骯髒），又作渨涹	waai1 溾浽,(語)wui1 溾浽（污穢、骯髒），又作渨涹	waai1,wui6
-8308	耲	耲	waai4	waai4	waai4
-8309	惑	惑	waak6	huk6	waak6
-8310	或	或	waak6 或者，或許，弱讀爲[wa22]	huk6 或者，或許	waak6
-8311	劃	划	waak6 計劃，劃分	waak6 計劃，劃分	waak6
-8312	掝	掝	waak6 裂開,kwik1 破裂聲,(語)wak6 ～手，招手，疑本字劃/攉,(語)jak6 又音，～手，招手；移～，不穩重	waak6 裂開,kwik2 破裂聲,(語)waak5 ～手，招手，疑本字劃/攉,(語)jak6 浮[pɐu21]游踣～，工作不穩定，無工做而游逛	waak6,kwik1
-8313	獲	获	(白)waak6 獲得,(文)wok6	wiak6 獲得	wok6
-8314	穫	获	(白)waak6 收穫,(文)wok6	wiak6 收穫	wok6
-8315	嚄	嚄	(白)waak6 嚄唶,o2 嘆詞,ho1 嘆詞,(文)wok6	wiak6 嚄唶,o5 嘆詞,ho1 嘆詞	wok6,o2,ho1
-8316	嫿	婳	waak6	wiak6	waak6
-8317	砉	砉	waak6	wiak6	waak6
-8318	騞	𬴃	waak6 騞然	wiak6 騞然	waak6
-8319	謋	𰵼	waak6	wiak6	waak6
-8320	㩇	㩇	waak6 擘也,zaak3 裂聲,(訓)slaak1 裂開、折斷，～開邊[pɛn55]，剖成兩半	wiak6 擘也,ziak2 裂聲,(訓)slaak3 裂開、折斷，褲𧟘～喇，褲襠裂了	waak6
-8321	籰	籰	(白)waak6 收絲器,(文)wok6	wiak6 收絲器	wok6
-8322	㗲	𠵾	waak6	wiak6	waak1
-8323	𦑌	𦑌	waak6 飛聲,(語)fak6 跳～～，（脈搏）跳動貌	wiak6 飛聲	waak6
-8324	頑	顽	waan4 頑童，冥頑,(又)ngaan4,(訓)maan4 ～皮，～固，訓讀蠻	ngaan4 頑童，冥頑,(訓)maan4 ～皮，～固，訓讀蠻	waan4
-8325	宦	宦	waan6	waan6	waan6
-8326	幻	幻	waan6	waan6	waan6
-8327	彎	弯	waan1	waan1	waan1
-8328	患	患	waan6	waan6	waan6
-8329	挽	挽	waan5 挽留，挽手，挽住,(白)wen5 罕讀,(白)waan2 挽手，挽住	waan2 挽留，挽手，挽住	waan5
-8330	輓	挽	waan5 輓聯，輓歌	waan2 輓聯，輓歌	waan5
-8331	灣	湾	waan1	waan1	waan1
-8332	玩	玩	(白)waan2 玩耍，玩笑；玩世，古玩,(文)waan6 玩世，古玩,(書)wun6 玩世，古玩	waan6 玩耍，玩笑；玩世，古玩,(書)wun6 玩世，古玩	1)wun6:玩弄 2)waan4:玩耍
-8333	環	环	waan4 環境，循環,(白)wen4 耳環	waan4 環境，耳環	waan4
-8334	還	还	waan4 〈副〉還有，還是,(白)wen4 〈動〉還錢，還原	waan4 〈副〉還有，還是；〈動〉還錢，還原	waan4；通旋
-8335	綰	绾	waan2	waan2	waan2
-8336	豢	豢	waan6	waan6	waan6
-8337	寰	寰	waan4	waan4	waan4
-8338	漶	漶	waan6	waan6	waan6
-8339	繯	缳	waan6 投繯，繯首,(又)waan4	waan6 投繯，繯首,(又)waan4	waan4,waan6
-8340	鬟	鬟	waan4	waan4	waan4
-8341	壪	塆	waan1	waan1	waan1
-8342	䴉	鹮	waan4	waan4	waan4
-8343	嬛	嬛	waan4 琅嬛,king4 美好；同煢字,hyun1 便嬛	waan4 琅嬛,ging4 美好；同煢字,hyun1 便嬛	waan4,king4,hyun1
-8344	澴	澴	waan4	waan4	waan4
-8345	鍰	锾	waan4	waan4	waan4
-8346	鐶	镮	waan4	waan4	waan4
-8347	闤	阛	waan4	waan4	waan4
-8348	轘	𮝹	waan4 轘轅,waan6 轘刑	waan4 轘轅,waan6 轘刑	waan4,waan6
-8349	橫	横	waang4 橫豎；蠻橫，古讀去聲	wiang4 橫豎；蠻橫，古讀去聲	waang4
-8350	斡	斡	waat3 斡旋；地名，陸斡	waat2 斡旋；地名，陸斡	waat3；(少數民族名)wo1達斡爾
-8351	嗗	嗗	waat3 飲聲,gut6 象聲詞，飲聲，～～聲，吞咽聲，引申作喝，～茶，喝茶，～酒，飲酒,(又)got6 ～～聲，吞咽聲；～酒，飲酒	waat2 飲聲,gut6 象聲詞，飲聲，引申作喝,(又)got6,(又)got3	gut6
-8352	遺	遗	wai4 遺失,(古)wai6 贈也,(又)ji4	ji4 遺失,(古)wai6 贈也,(又)jyu4	wai4；(古)wai6遺贈
-8353	揮	挥	(白)wai1 揮手，指揮,(文)fai1	kwai1 揮手，指揮；～春，春聯,(又)wai1 揮手	fai1
-8354	輝	辉	(白)wai1 光輝，輝煌,(文)fai1	kwai1 光輝，輝煌,(又)wai1	fai1
-8355	麾	麾	(白)wai1,(文)fai1	kwai1,(又)wai1	fai1
-8356	翬	翚	(白)wai1,(文)fai1	kwai1,(又)wai1	fai1
-8357	隳	隳	(白)wai1,(文)fai1	kwai1,(又)wai1	fai1
-8358	暉	晖	(白)wai1,(文)fai1	kwai1,(又)wai1	fai1
-8359	撝	㧑	(白)wai1,(文)fai1	kwai1,(又)wai1	fai1
-8360	褘	袆	(白)wai1,(文)fai1	kwai1,(又)wai1	fai1,wai4
-8361	煇	𪸩	(白)wai1,(文)fai1	kwai1,(又)wai1	fai1
-8362	偉	伟	wai2 偉大，雄偉	wai2 偉大，雄偉	wai5
-8363	位	位	wai6 位置，地位，座位,(白)wai2 單位，坐位，一位，各位	wai6 位置，地位，單位	wai6
-8364	卉	卉	wai2	wai2	wai2
-8365	衛	卫	wai6 保衛，衛生	wai6 保衛，衛生	wai6
-8366	唯	唯	wai4 唯獨，唯物論,wai2 唯唯諾諾	wai4 唯獨，唯物論,wai2 唯唯諾諾	1)wai4:同惟 2)wai2:唯唯諾諾
-8367	喂	喂	wai3 喚叫聲；同餧/餵字,(語)wai2 句首表引起注意，句末表祈使	wai3 喚叫聲,wui3 同餧/餵字,(語)wai5 句首表引起注意，句末表祈使	wai3
-8368	圍	围	wai4	wai4	wai4
-8369	委	委	wai2 委託,wai1 虛與委蛇	wai2 委託,wai1 虛與委蛇	1)wai2:委屈 2)wai1:虛與委蛇ji4
-8370	威	威	wai1	wai1	wai1
-8371	尉	尉	wai3 太尉,wat1 尉遲（複姓）	wai3 太尉,wat2 尉遲（複姓）	1)wai3:太尉 2)wat1:尉遲
-8372	帷	帷	wai4	wai4	wai4
-8373	惟	惟	wai4 惟恐	wai4 惟恐	wai4
-8374	惠	惠	wai6	wai6	wai6
-8375	慧	慧	wai6 智慧，慧眼,(常)wai3 智慧，前字調類化	wai6 智慧，慧眼	wai6
-8376	慰	慰	wai3	wai3	wai3
-8377	毀	毁	wai2 毀滅	wai2 毀滅	wai2
-8378	燬	毁	wai2 焚燬	wai2 焚燬	wai2
-8379	畏	畏	wai3	wai3	wai3
-8380	穢	秽	wai3	wai3	wai3
-8381	緯	纬	wai2	wai2	wai5
-8382	維	维	wai4 維護	wai4 維護	wai4
-8383	胃	胃	wai6	wai6	wai6
-8384	葦	苇	wai4 蘆葦	wai4 蘆葦	wai5
-8385	萎	萎	wai2 枯萎，萎縮，氣萎	wai2 枯萎，萎縮，氣萎	1)wai1:哲人其萎 2)wai2:枯萎
-8386	蔚	蔚	wai3 蔚然,wat1 地名，蔚縣（在河北）	wai3 蔚然,wat2 地名，蔚縣（在河北）	wai3；wat1蔚縣
-8387	諱	讳	wai6	wai6	wai5
-8388	謂	谓	wai6	wai6	wai6
-8389	違	违	wai4	wai4	wai4
-8390	蝟	猬	wai6 刺蝟，蝟集,(常)wai3 刺蝟，前字調類化	wai6 刺蝟，蝟集	wai6
-8391	爲	为	wai4 作爲；〈語〉計算，～過，算起來，～得過，划得來，～冇過，划不來,wai6 爲了,(白)wai1 難爲	wai4 作爲；〈語〉計算，～得過（做得過），划得來，～冇過（做冇過），划不來,wai6 爲了	1)wai4:人爲 2)wai6:爲了
-8392	喟	喟	wai6 喟嘆，讀同胃/謂	wai6 喟嘆，讀同胃/謂	wai2
-8393	彗	彗	wai6	wai6	seoi6,wai6
-8394	渭	渭	wai6	wai6	wai6
-8395	猥	猥	wai3 猥瑣，讀同畏	wai3 猥瑣，讀同畏	wai2；(又)wui1
-8396	痿	痿	wai2	wai2	wai2
-8397	蕙	蕙	wai6	wai6	wai6
-8398	諉	诿	wai2	wai2	wai2
-8399	闈	闱	wai4	wai4	wai4
-8400	韋	韦	wai4	wai4	wai5；(又)wai4
-8401	崴	崴	wai1 崴嵬；崴子	wai1 崴嵬；崴子	wai1
-8402	幃	帏	wai4	wai4	wai4
-8403	恚	恚	wai6	wai6	wai6
-8404	潿	涠	wai4	wai4	wai4
-8405	濰	潍	wai4	wai4	wai4
-8406	煒	炜	wai2	wai2	wai5
-8407	瑋	玮	wai2	wai2	wai5
-8408	葳	葳	wai1	wai1	wai1
-8409	虺	虺	wai2 虺蛇,fui1 虺隤	wai2 虺蛇,hui1 虺隤	wai2,fui1
-8410	蟪	蟪	wai6	wai6	wai6
-8411	逶	逶	wai1	wai1	wai1
-8412	霨	霨	wai3	wai3	wai3
-8413	韙	韪	wai2	wai2	wai5
-8414	橞	橞	wai6	wai6	wai6
-8415	煟	煟	wai6	wai6	wai6
-8416	碨	碨	wai2 碨磊,wai3 石磨	wai2 碨磊,wai3 石磨	wai2,wai3
-8417	翽	翙	wai3	wai3	wai3
-8418	湋	𣲗	wai4	wai4	wai4
-8419	暐	𬀩	wai2	wai2	wai5
-8420	譓	𬤝	wai6	wai6	wai6
-8421	鏏	𬭬	wai6	wai6	wai6
-8422	琟	琟	wai4	wai4	wai4
-8423	螱	螱	wai3	wai3	wai3
-8424	䲁	鳚	wai3	wai3	wai3
-8425	𠅤	𠅤	wai6	wai6	wai6
-8426	蔿	𫇭	wai2	wai2	wai2
-8427	憓	憓	wai6	wai6	wai6
-8428	譭	毁	wai2 詆譭	wai2 詆譭	wai2
+8307	耲	耲	waai4	waai4	waai4
+8308	惑	惑	waak6	huk6	waak6
+8309	或	或	waak6 或者，或許，弱讀爲[wa22]	huk6 或者，或許	waak6
+8310	劃	划	waak6 計劃，劃分	waak6 計劃，劃分	waak6
+8311	掝	掝	waak6 裂開,kwik1 破裂聲,(語)wak6 ～手，招手，疑本字劃/攉,(語)jak6 又音，～手，招手；移～，不穩重	waak6 裂開,kwik2 破裂聲,(語)waak5 ～手，招手，疑本字劃/攉,(語)jak6 浮[pɐu21]游踣～，工作不穩定，無工做而游逛	waak6,kwik1
+8312	獲	获	(白)waak6 獲得,(文)wok6	wiak6 獲得	wok6
+8313	穫	获	(白)waak6 收穫,(文)wok6	wiak6 收穫	wok6
+8314	嚄	嚄	(白)waak6 嚄唶,o2 嘆詞,ho1 嘆詞,(文)wok6	wiak6 嚄唶,o5 嘆詞,ho1 嘆詞	wok6,o2,ho1
+8315	嫿	婳	waak6	wiak6	waak6
+8316	砉	砉	waak6	wiak6	waak6
+8317	騞	𬴃	waak6 騞然	wiak6 騞然	waak6
+8318	謋	𰵼	waak6	wiak6	waak6
+8319	㩇	㩇	waak6 擘也,zaak3 裂聲,(訓)slaak1 裂開、折斷，～開邊[pɛn55]，剖成兩半	wiak6 擘也,ziak2 裂聲,(訓)slaak3 裂開、折斷，褲𧟘～喇，褲襠裂了	waak6
+8320	籰	籰	(白)waak6 收絲器,(文)wok6	wiak6 收絲器	wok6
+8321	㗲	𠵾	waak6	wiak6	waak1
+8322	𦑌	𦑌	waak6 飛聲,(語)fak6 跳～～，（脈搏）跳動貌	wiak6 飛聲	waak6
+8323	頑	顽	waan4 頑童，冥頑,(又)ngaan4,(訓)maan4 ～皮，～固，訓讀蠻	ngaan4 頑童，冥頑,(訓)maan4 ～皮，～固，訓讀蠻	waan4
+8324	宦	宦	waan6	waan6	waan6
+8325	幻	幻	waan6	waan6	waan6
+8326	彎	弯	waan1	waan1	waan1
+8327	患	患	waan6	waan6	waan6
+8328	挽	挽	waan5 挽留，挽手，挽住,(白)wen5 罕讀,(白)waan2 挽手，挽住	waan2 挽留，挽手，挽住	waan5
+8329	輓	挽	waan5 輓聯，輓歌	waan2 輓聯，輓歌	waan5
+8330	灣	湾	waan1	waan1	waan1
+8331	玩	玩	(白)waan2 玩耍，玩笑；玩世，古玩,(文)waan6 玩世，古玩,(書)wun6 玩世，古玩	waan6 玩耍，玩笑；玩世，古玩,(書)wun6 玩世，古玩	1)wun6:玩弄 2)waan4:玩耍
+8332	環	环	waan4 環境，循環,(白)wen4 耳環	waan4 環境，耳環	waan4
+8333	還	还	waan4 〈副〉還有，還是,(白)wen4 〈動〉還錢，還原	waan4 〈副〉還有，還是；〈動〉還錢，還原	waan4；通旋
+8334	綰	绾	waan2	waan2	waan2
+8335	豢	豢	waan6	waan6	waan6
+8336	寰	寰	waan4	waan4	waan4
+8337	漶	漶	waan6	waan6	waan6
+8338	繯	缳	waan6 投繯，繯首,(又)waan4	waan6 投繯，繯首,(又)waan4	waan4,waan6
+8339	鬟	鬟	waan4	waan4	waan4
+8340	壪	塆	waan1	waan1	waan1
+8341	䴉	鹮	waan4	waan4	waan4
+8342	嬛	嬛	waan4 琅嬛,king4 美好；同煢字,hyun1 便嬛	waan4 琅嬛,ging4 美好；同煢字,hyun1 便嬛	waan4,king4,hyun1
+8343	澴	澴	waan4	waan4	waan4
+8344	鍰	锾	waan4	waan4	waan4
+8345	鐶	镮	waan4	waan4	waan4
+8346	闤	阛	waan4	waan4	waan4
+8347	轘	𮝹	waan4 轘轅,waan6 轘刑	waan4 轘轅,waan6 轘刑	waan4,waan6
+8348	橫	横	waang4 橫豎；蠻橫，古讀去聲	wiang4 橫豎；蠻橫，古讀去聲	waang4
+8349	斡	斡	waat3 斡旋；地名，陸斡	waat2 斡旋；地名，陸斡	waat3；(少數民族名)wo1達斡爾
+8350	嗗	嗗	waat3 飲聲,gut6 象聲詞，飲聲，～～聲，吞咽聲，引申作喝，～茶，喝茶，～酒，飲酒,(又)got6 ～～聲，吞咽聲；～酒，飲酒	waat2 飲聲,gut6 象聲詞，飲聲，引申作喝,(又)got6,(又)got3	gut6
+8351	遺	遗	wai4 遺失,(古)wai6 贈也,(又)ji4	ji4 遺失,(古)wai6 贈也,(又)jyu4	wai4；(古)wai6遺贈
+8352	揮	挥	(白)wai1 揮手，指揮,(文)fai1	kwai1 揮手，指揮；～春，春聯,(又)wai1 揮手	fai1
+8353	輝	辉	(白)wai1 光輝，輝煌,(文)fai1	kwai1 光輝，輝煌,(又)wai1	fai1
+8354	麾	麾	(白)wai1,(文)fai1	kwai1,(又)wai1	fai1
+8355	翬	翚	(白)wai1,(文)fai1	kwai1,(又)wai1	fai1
+8356	隳	隳	(白)wai1,(文)fai1	kwai1,(又)wai1	fai1
+8357	暉	晖	(白)wai1,(文)fai1	kwai1,(又)wai1	fai1
+8358	撝	㧑	(白)wai1,(文)fai1	kwai1,(又)wai1	fai1
+8359	褘	袆	(白)wai1,(文)fai1	kwai1,(又)wai1	fai1,wai4
+8360	煇	𪸩	(白)wai1,(文)fai1	kwai1,(又)wai1	fai1
+8361	偉	伟	wai2 偉大，雄偉	wai2 偉大，雄偉	wai5
+8362	位	位	wai6 位置，地位，座位,(白)wai2 單位，坐位，一位，各位	wai6 位置，地位，單位	wai6
+8363	卉	卉	wai2	wai2	wai2
+8364	衛	卫	wai6 保衛，衛生	wai6 保衛，衛生	wai6
+8365	唯	唯	wai4 唯獨，唯物論,wai2 唯唯諾諾	wai4 唯獨，唯物論,wai2 唯唯諾諾	1)wai4:同惟 2)wai2:唯唯諾諾
+8366	喂	喂	wai3 喚叫聲；同餧/餵字,(語)wai2 句首表引起注意，句末表祈使	wai3 喚叫聲,wui3 同餧/餵字,(語)wai5 句首表引起注意，句末表祈使	wai3
+8367	圍	围	wai4	wai4	wai4
+8368	委	委	wai2 委託,wai1 虛與委蛇	wai2 委託,wai1 虛與委蛇	1)wai2:委屈 2)wai1:虛與委蛇ji4
+8369	威	威	wai1	wai1	wai1
+8370	尉	尉	wai3 太尉,wat1 尉遲（複姓）	wai3 太尉,wat2 尉遲（複姓）	1)wai3:太尉 2)wat1:尉遲
+8371	帷	帷	wai4	wai4	wai4
+8372	惟	惟	wai4 惟恐	wai4 惟恐	wai4
+8373	惠	惠	wai6	wai6	wai6
+8374	慧	慧	wai6 智慧，慧眼,(常)wai3 智慧，前字調類化	wai6 智慧，慧眼	wai6
+8375	慰	慰	wai3	wai3	wai3
+8376	毀	毁	wai2 毀滅	wai2 毀滅	wai2
+8377	燬	毁	wai2 焚燬	wai2 焚燬	wai2
+8378	畏	畏	wai3	wai3	wai3
+8379	穢	秽	wai3	wai3	wai3
+8380	緯	纬	wai2	wai2	wai5
+8381	維	维	wai4 維護	wai4 維護	wai4
+8382	胃	胃	wai6	wai6	wai6
+8383	葦	苇	wai4 蘆葦	wai4 蘆葦	wai5
+8384	萎	萎	wai2 枯萎，萎縮，氣萎	wai2 枯萎，萎縮，氣萎	1)wai1:哲人其萎 2)wai2:枯萎
+8385	蔚	蔚	wai3 蔚然,wat1 地名，蔚縣（在河北）	wai3 蔚然,wat2 地名，蔚縣（在河北）	wai3；wat1蔚縣
+8386	諱	讳	wai6	wai6	wai5
+8387	謂	谓	wai6	wai6	wai6
+8388	違	违	wai4	wai4	wai4
+8389	蝟	猬	wai6 刺蝟，蝟集,(常)wai3 刺蝟，前字調類化	wai6 刺蝟，蝟集	wai6
+8390	爲	为	wai4 作爲；〈語〉計算，～過，算起來，～得過，划得來，～冇過，划不來,wai6 爲了,(白)wai1 難爲	wai4 作爲；〈語〉計算，～得過（做得過），划得來，～冇過（做冇過），划不來,wai6 爲了	1)wai4:人爲 2)wai6:爲了
+8391	喟	喟	wai6 喟嘆，讀同胃/謂	wai6 喟嘆，讀同胃/謂	wai2
+8392	彗	彗	wai6	wai6	seoi6,wai6
+8393	渭	渭	wai6	wai6	wai6
+8394	猥	猥	wai3 猥瑣，讀同畏	wai3 猥瑣，讀同畏	wai2；(又)wui1
+8395	痿	痿	wai2	wai2	wai2
+8396	蕙	蕙	wai6	wai6	wai6
+8397	諉	诿	wai2	wai2	wai2
+8398	闈	闱	wai4	wai4	wai4
+8399	韋	韦	wai4	wai4	wai5；(又)wai4
+8400	崴	崴	wai1 崴嵬；崴子	wai1 崴嵬；崴子	wai1
+8401	幃	帏	wai4	wai4	wai4
+8402	恚	恚	wai6	wai6	wai6
+8403	潿	涠	wai4	wai4	wai4
+8404	濰	潍	wai4	wai4	wai4
+8405	煒	炜	wai2	wai2	wai5
+8406	瑋	玮	wai2	wai2	wai5
+8407	葳	葳	wai1	wai1	wai1
+8408	虺	虺	wai2 虺蛇,fui1 虺隤	wai2 虺蛇,hui1 虺隤	wai2,fui1
+8409	蟪	蟪	wai6	wai6	wai6
+8410	逶	逶	wai1	wai1	wai1
+8411	霨	霨	wai3	wai3	wai3
+8412	韙	韪	wai2	wai2	wai5
+8413	橞	橞	wai6	wai6	wai6
+8414	煟	煟	wai6	wai6	wai6
+8415	碨	碨	wai2 碨磊,wai3 石磨	wai2 碨磊,wai3 石磨	wai2,wai3
+8416	翽	翙	wai3	wai3	wai3
+8417	湋	𣲗	wai4	wai4	wai4
+8418	暐	𬀩	wai2	wai2	wai5
+8419	譓	𬤝	wai6	wai6	wai6
+8420	鏏	𬭬	wai6	wai6	wai6
+8421	琟	琟	wai4	wai4	wai4
+8422	螱	螱	wai3	wai3	wai3
+8423	䲁	鳚	wai3	wai3	wai3
+8424	𠅤	𠅤	wai6	wai6	wai6
+8425	蔿	𫇭	wai2	wai2	wai2
+8426	憓	憓	wai6	wai6	wai6
+8427	譭	毁	wai2 詆譭	wai2 詆譭	wai2
+8428	溾	溾	wai1 溾浽,(語)wui1 溾浽（污穢、骯髒），又作渨涹	wai1 溾浽,(語)wui1 溾浽（污穢、骯髒），又作渨涹	waai1,wui6
 8429	潓	潓	wai6	wai6	wai6
 8430	骫	骫	wai2	wai2	wai2
 8431	韡	𮧵	wai2	wai2	wai5
@@ -8520,7 +8520,7 @@ ID	TRAD	SIMP	N-JYUTPING	T-JYUTPING	G-JYUTPING
 8519	爩	爩	wat1 煙氣；〈語〉燻，與燻對轉	wat2 煙氣；〈語〉燻，與燻對轉	wat1
 8520	搲	搲	(白)we2 撓，抓,(文)waa2	(白)we2 撓，抓,(文)waa2	waa2,we2
 8521	鯇	鲩	(白)wen5 鯇魚,(文)waan5	waan5 鯇魚	waan5
-8522	滑	滑	(白)wet6 地滑，光滑,gwat1 滑稽,(文)waat6 滑冰，滑雪；〈又〉滑稽,(語)wet1 ～魚，黃鱔；魚～～，魚兒，童語	waat6 地滑，滑冰；〈又〉滑稽,gwat2 滑稽,(語)waat3 生～～，（鷄、魚等）活蹦亂跳	waat6；(古)gwat1滑稽
+8522	滑	滑	(白)wet6 地滑，光滑,gwat1 滑稽,(文)waat6 滑冰，滑雪；〈又〉滑稽,(語)wet1 ～魚，黃鱔；魚～～，魚兒，童語	waat6 地滑，滑冰；〈又〉滑稽,gwat2 滑稽,(語)waat3 生～～，（雞、魚等）活蹦亂跳	waat6；(古)gwat1滑稽
 8523	猾	猾	(白)wet6 狡猾,(文)waat6	waat6 狡猾	waat6
 8524	挖	挖	(白)wet3,(文)waat3	(白)wet2,(文)waat2	waat3
 8525	域	域	wik6 區域，領域,(又)jik6	wik5 區域，領域	wik6
@@ -8801,7 +8801,7 @@ ID	TRAD	SIMP	N-JYUTPING	T-JYUTPING	G-JYUTPING
 8800	找	找	zaau2 尋找,(白)zeu2 找錢	zaau2 尋找，找錢	zaau2
 8801	啁	啁	zaau1 啁哳；啁嘐,zau1 啁啾,(白)zeu1 吱吱～～，唧唧喳喳	zaau1 啁哳；啁嘐,zau1 啁啾,(白)zeu3 ～嘐[lɛu55]，嘴巴厲害	zau1
 8802	劑	剂	zai1 藥劑	zai6 藥劑,(又)zai3	zai1
-8803	擠	挤	zai1 排擠，擠迫，擁擠；〈語〉放置，本字躋,(語)zi1 動詞或形容詞，擁、擁擠，官話借詞,(語)e3 擠靠、套近乎	zai2 排擠，擠迫，擁擠,(語)zai1 攢聚，檯上亞啲嘢～做一起,(語)ze3 動詞或形容詞，擁、擁擠	zai1
+8803	擠	挤	zai1 排擠，擠迫，擁擠；〈語〉放置，本字躋,(語)zi1 動詞或形容詞，擁、擁擠，官話借詞,(語)ze1 擁、擁擠，又音,(語)e3 擠靠、套近乎	zai2 排擠，擠迫，擁擠,(語)zai1 攢聚，檯上亞啲嘢～做一起,(語)ze3 動詞或形容詞，擁、擁擠	zai1
 8804	濟	济	zai3 經濟,zai2 人才濟濟；濟南	zai3 經濟,zai2 人才濟濟；濟南	1)zai3:救濟 2)zai2:人才濟濟
 8805	滯	滞	zai6 停滯，滯留；翳～、肚～，消化不良；罷～，罷了	zai6 停滯，滯留；肚～，消化不良	zai6
 8806	祭	祭	zai3 祭祖,zaai3 姓	zai3 祭祖,zaai3 姓	zai3
@@ -8971,7 +8971,7 @@ ID	TRAD	SIMP	N-JYUTPING	T-JYUTPING	G-JYUTPING
 8970	揪	揪	zau1 同揫字，揪住	zau1 同揫字，揪住	zau1
 8971	晝	昼	zau3	zau3	zau3
 8972	洲	洲	zau1 綠洲，沙洲，亞洲	zau1 綠洲，沙洲，亞洲	zau1
-8973	皺	皱	zau3 皺紋，褶皺,(白)jau3 皺眉頭，皺紋	zau3 皺紋，褶皺,(白)njau3 皺眉頭，皺紋；～兀[ŋɛt5]兀[ŋɛt5]，皺巴巴	zau3
+8973	皺	皱	zau3 皺紋，褶皺,(白)jau3 皺眉頭，皺紋；～巴渣、～癟[pɛt2]癟[pɛt2]，皺巴巴	zau3 皺紋，褶皺,(白)njau3 皺眉頭，皺紋；～兀[ŋɛt5]兀[ŋɛt5]，皺巴巴	zau3
 8974	肘	肘	zau2	zau2	zaau2
 8975	舟	舟	zau1	zau1	zau1
 8976	袖	袖	zau6	zau6	zau6
@@ -9087,7 +9087,7 @@ ID	TRAD	SIMP	N-JYUTPING	T-JYUTPING	G-JYUTPING
 9086	脂	脂	zi1 胭脂，脂肪	zi1 胭脂，脂肪	zi1
 9087	自	自	zi6 自己，各自,(老派)zy6	zi6 自己，各自,(白)zi3 捫[mon55]～，怕羞	zi6
 9088	至	至	zi3 至少，甚至；副詞，纔、最、再	zi3 至少，甚至；副詞，纔、最、再	zi3
-9089	緻	致	zi3 細緻，精緻	zi3 細緻，精緻,(白)di6 緊密、無縫隙，亞塊門板冇夠～；案，知組三等讀如端組	zi3
+9089	緻	致	zi3 細緻，精緻	zi3 細緻，精緻,(白)di6 緊密、無縫隙，亞塊門板冇夠～，這塊門板不夠緊密；案，知三讀如端	zi3
 9090	致	致	zi3 導致，致敬	zi3 導致，致敬	zi3
 9091	芝	芝	zi1	zi1	zi1
 9092	蜘	蜘	zi1 蜘蛛	zi1 蜘蛛	zi1
@@ -9139,7 +9139,7 @@ ID	TRAD	SIMP	N-JYUTPING	T-JYUTPING	G-JYUTPING
 9138	巵	卮	zi1 巵言，玉巵	zi1 巵言，玉巵	zi1
 9139	嗞	嗞	zi1,(老派)zy1	zi1	zi1
 9140	貲	赀	zi1,(老派)zy1	zi1	zi1
-9141	孖	孖	zi1 雙生子，本讀,(訓)maa1 孿生、連帶，與巴旁轉；雙孖井，古井又泛指地名，現爲文物點,(白)me1 ～指，六指,(老派)zy1	zi1 雙生子，本讀,(訓)maa1 孿生、連帶，與巴旁轉；雙孖井，古井又泛指地名，現爲文物點,(白)me1 ～指，六指	maa1
+9141	孖	孖	zi1 雙生子，本讀,(訓)maa1 孿生、連帶，與巴旁轉；雙孖井，古井又泛指地名，現爲文物點,(訓)me1 白讀，～指，六指兒,(老派)zy1 本讀	zi1 雙生子，本讀,(訓)maa1 孿生、連帶，與巴旁轉；雙孖井，古井又泛指地名，現爲文物點,(訓)me1 白讀，～指，六指兒	maa1
 9142	庤	庤	zi6	zi6	zi6
 9143	忮	忮	zi3	zi3	zi3
 9144	扺	扺	zi2	zi2	zi2
@@ -9427,7 +9427,7 @@ ID	TRAD	SIMP	N-JYUTPING	T-JYUTPING	G-JYUTPING
 9426	柞	柞	zok6 柞木，柞蠶,zaa3 地名，柞水（在陝西）,zaak3 砍，斜斫	zaak6 柞木，柞蠶,zaa3 地名，柞水（在陝西）,ziak2 砍，斜斫	zok6,zaa3,zaak3
 9427	酢	酢	zok6 酬酢,cu3 酢漿草；同醋字	zaak6 酬酢,cu3 酢漿草；同醋字	zok6,cou3
 9428	岞	岞	zok6	zaak6	zok6
-9429	捉	捉	zok3 捉拿，捕捉	zuk2 捉拿，捕捉	zuk1
+9429	捉	捉	zok3 捉拿，捕捉，語流中也有讀[tʃʊk3]	zuk2 捉拿，捕捉	zuk1
 9430	琢	琢	zok3 琢磨，雕琢	zuk2 琢磨，雕琢	doek3
 9431	濯	濯	zok6	zuk6	zok6
 9432	擢	擢	zok6	zuk6	zok6
@@ -9436,7 +9436,7 @@ ID	TRAD	SIMP	N-JYUTPING	T-JYUTPING	G-JYUTPING
 9435	諑	诼	zok3 謠諑	zuk2 謠諑	doek3
 9436	椓	椓	zok3	zuk2	doek3
 9437	鷟	𬸦	zok6	zuk6	zok6
-9438	䐁	䐁	zok3 臀；肥,duk1 容器或物體底部，又作㞘字；量詞，泡（用於屎尿），另一說本字涿；地名，葫蘆～，即葫蘆頂，因白沙半島盡頭頂部似葫蘆底部得名，上建大橋稱葫蘆頂大橋，後被愚蠢的官員自以爲是改名爲葫蘆鼎，破壞了原本語義清晰的歷史地名	zuk2 臀；肥,doek2 容器或物體底部，腳～，腳跟，又作㞘字；量詞，泡（用於屎尿），另一說本字涿；地名，葫蘆～，即葫蘆頂，因白沙半島盡頭頂部似葫蘆底部得名，上建大橋稱葫蘆頂大橋，後被愚蠢的官員自以爲是改名爲葫蘆鼎，破壞了原本語義清晰的歷史地名	doek3,duk1
+9438	䐁	䐁	zok3 臀；肥,duk1 容器或物體底部，又作㞘字；量詞，泡（用於屎尿），另一說本字涿；地名，葫蘆～，即葫蘆頂，因白沙半島盡頭頂部似葫蘆底得名，上建大橋稱葫蘆頂大橋，後被官員改爲葫蘆鼎，原意已失	zuk2 臀；肥,doek2 容器或物體底部，腳～，腳跟，又作㞘字；量詞，泡（用於屎尿），另一說本字涿；地名，葫蘆～，即葫蘆頂，因白沙半島盡頭頂部似葫蘆底得名，上建大橋稱葫蘆頂大橋，後被官員改爲葫蘆鼎，原意已失	doek3,duk1
 9439	壯	壮	zong3 強壯	zaang3 強壯	zong3
 9440	妝	妆	zong1 化妝，妝扮	zaang1 化妝，妝扮	zong1
 9441	莊	庄	zong1	zaang1	zong1
@@ -9574,7 +9574,7 @@ ID	TRAD	SIMP	N-JYUTPING	T-JYUTPING	G-JYUTPING
 9573	注	注	zyu3 注意	zyu3 注意	zyu3
 9574	註	注	zyu3 註解	zyu3 註解	zyu3
 9575	煮	煮	zyu2 煮飯，煮粥	zyu2 煮飯，煮粥	zyu2
-9576	豬	猪	zyu1 豬肉，養豬；～嘴，噘嘴,(白)doe1 ～嘴，噘嘴，知組三等讀如端組	zyu1 豬肉，養豬,(白)dyu1 ～嘴，努嘴，知組三等讀如端組	zyu1
+9576	豬	猪	zyu1 豬肉，養豬；～嘴，噘嘴,(白)doe1 ～嘴，噘嘴，知三讀如端	zyu1 豬肉，養豬,(白)dyu1 ～嘴，努嘴，知三讀如端	zyu1
 9577	珠	珠	zyu1 珍珠，珠算	zyu1 珍珠，珠算,(白)dyu1 皮膚上的小疙瘩，蚊子～，被蚊子叮後腫起的小包；姣～，戲稱粉刺；～突[tœk5/tok5]，疙瘩；案，章組讀如端組	zyu1
 9578	聚	聚	zyu6 聚會，聚餐,(又)zyu3 團聚，凝聚	zyu6 聚會，凝聚	zeoi6
 9579	著	著	zyu3 著作，顯著,zoek3 衣著，著衫，俗作着,zoek6 著涼，睡著；棋高一著（口語用招）；俗作着	zyu3 著作，顯著,ziak2 衣著，著衫，俗作着,ziak6 著涼，睡著；棋高一著（口語用招）；俗作着	1)zyu3:著述 2)zoek3:衣著 3)zoek6:看著，著涼；另參考4145【着】字
