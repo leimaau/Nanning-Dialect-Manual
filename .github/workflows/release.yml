@@ -18,7 +18,9 @@ jobs:
       - name: Set date
         id: date
         run: |
-          $date = Get-Date -Format "yyyyMMdd"
+          # 使用 UTC+8（北京時間）
+          $date = (Get-Date).ToUniversalTime().AddHours(8).ToString("yyyyMMdd")
+          Write-Host "Computed CST date: $date"
           echo "date=$date" >> $env:GITHUB_OUTPUT
 
       - name: Create PDF package
@@ -65,7 +67,8 @@ jobs:
             更新內容：
             1. 修訂字音表；2. 修訂詞表；3. 完善PDF顯示
             待解決問題：部分生僻字和下標字符在PDF顯示有問題，有待解決
-          files: build\PDF-${{ steps.date.outputs.date }}.zip
+          files: build/PDF-${{ steps.date.outputs.date }}.zip
+          overwrite: true
           generate_release_notes: true
           draft: false
           prerelease: false
