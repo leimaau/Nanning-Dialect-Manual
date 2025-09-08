@@ -1,16 +1,50 @@
-name: Create Release
+name: Create PDF Release
 
 on:
   push:
     branches:
-      - main  # 或者你的主分支名称
+      - pdf
+
+permissions:
+  contents: write
 
 jobs:
-  release:
-    runs-on: ubuntu-latest
+  build-and-release:
+    runs-on: windows-latest
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
+
+      - name: Set date
+        id: date
+        run: |
+          $date = Get-Date -Format "yyyyMMdd"
+          echo "date=$date" >> $env:GITHUB_OUTPUT
+
+      - name: Create PDF package
+        run: |
+          $date = "${{ steps.date.outputs.date }}"
+          # 创建目录
+          New-Item -ItemType Directory -Force -Path "build\pdf"
+          
+          # 复制所有PDF文件
+          Get-ChildItem *.pdf | Copy-Item -Destination "build\pdf\"
+          
+          # 打包为ZIP
+          Compress-Archive -Path "build\pdf\*.pdf" -DestinationPath "build\pdf\PDF-$date.zip"
+        working-directory: Nanning-Dialect-Manual-PDF
+
+      - name: Delete old ZIP files
+        run: |
+          $date = "${{ steps.date.outputs.date }}"
+          # 获取所有ZIP文件
+          $files = Get-ChildItem -Filter "PDF-*.zip" -Path "build\pdf\"
+          foreach ($file in $files) {
+            if ($file.Name -notlike "*$date.zip") {
+              Remove-Item -Path $file.FullName -Force
+            }
+          }
+        working-directory: Nanning-Dialect-Manual-PDF
 
       - name: Create Release
         id: create_release
@@ -19,23 +53,41 @@ jobs:
           tag_name: latest
           name: Release latest
           body: |
-            此處存放手工上傳的 PDF 文件，始終爲最新版本。
-            
-            PDF 壓縮包包含以下文件：
-            - 南寧白話分類詞表.pdf
-            - 實用南寧白話分類詞表.pdf
-            - 現代漢語詞彙南寧白話和亭子平話讀音表.pdf
-            - 南寧白話單字讀音表.pdf
-            - 南寧白話同音字表.pdf
-            - 南寧亭子平話單字讀音表.pdf
-            - 南寧亭子平話同音字表.pdf
-            - 南寧白話、亭子平話與廣州話三語對照字表.pdf
-            - 南宁白话入门.pdf
+            此處存放自動生成的 ZIP 壓縮包，始終爲最新版本。
 
-            更新內容：1.增加詞彙表；2.修訂字音表和分類詞表；3.完善pdf顯示。
-            待解決問題：部分生僻字和下標字符在pdf顯示有問題，有待解決。
+            更新內容：
+            1. 修訂字音表；2. 修訂詞表；3. 完善PDF顯示
+            待解決問題：部分生僻字和下標字符在PDF顯示有問題，有待解決
+          files: Nanning-Dialect-Manual-PDF\build\pdf\PDF-${{ steps.date.outputs.date }}.zip
           generate_release_notes: true
           draft: false
           prerelease: false
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} 
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Delete old ZIP assets from Release
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const release = await github.rest.repos.getReleaseByTag({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              tag: 'latest'
+            });
+            const assets = release.data.assets;
+            const today = '${{ steps.date.outputs.date }}';
+            for (const asset of assets) {
+              if (
+                asset.name.startsWith('PDF-') &&
+                !asset.name.includes(today) &&
+                asset.name.endsWith('.zip')
+              ) {
+                await github.rest.repos.deleteReleaseAsset({
+                  owner: context.repo.owner,
+                  repo: context.repo.repo,
+                  asset_id: asset.id
+                });
+                console.log(`Deleted old ZIP asset: ${asset.name}`);
+              }
+            }
