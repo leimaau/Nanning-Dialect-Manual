@@ -25,26 +25,26 @@ jobs:
         run: |
           $date = "${{ steps.date.outputs.date }}"
           # 创建目录
-          New-Item -ItemType Directory -Force -Path "build\pdf"
+          New-Item -ItemType Directory -Force -Path "build"
           
           # 复制所有PDF文件
-          Get-ChildItem *.pdf | Copy-Item -Destination "build\pdf\"
+          Get-ChildItem *.pdf | Copy-Item -Destination "build\"
           
           # 打包为ZIP
-          Compress-Archive -Path "build\pdf\*.pdf" -DestinationPath "build\pdf\PDF-$date.zip"
-        working-directory: Nanning-Dialect-Manual-PDF
+          Compress-Archive -Path "build\*.pdf" -DestinationPath "build\PDF-$date.zip"
+        working-directory: PDF
 
       - name: Delete old ZIP files
         run: |
           $date = "${{ steps.date.outputs.date }}"
           # 获取所有ZIP文件
-          $files = Get-ChildItem -Filter "PDF-*.zip" -Path "build\pdf\"
+          $files = Get-ChildItem -Filter "PDF-*.zip" -Path "build\"
           foreach ($file in $files) {
             if ($file.Name -notlike "*$date.zip") {
               Remove-Item -Path $file.FullName -Force
             }
           }
-        working-directory: Nanning-Dialect-Manual-PDF
+        working-directory: PDF
 
       - name: Create Release
         id: create_release
@@ -58,7 +58,7 @@ jobs:
             更新內容：
             1. 修訂字音表；2. 修訂詞表；3. 完善PDF顯示
             待解決問題：部分生僻字和下標字符在PDF顯示有問題，有待解決
-          files: Nanning-Dialect-Manual-PDF\build\pdf\PDF-${{ steps.date.outputs.date }}.zip
+          files: PDF\build\PDF-${{ steps.date.outputs.date }}.zip
           generate_release_notes: true
           draft: false
           prerelease: false
