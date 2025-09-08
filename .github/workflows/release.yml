@@ -68,7 +68,8 @@ jobs:
             1. 修訂字音表；2. 修訂詞表；3. 完善PDF顯示
             待解決問題：部分生僻字和下標字符在PDF顯示有問題，有待解決
           files: build/PDF-${{ steps.date.outputs.date }}.zip
-          overwrite: true
+          overwrite_files: true
+          fail_on_unmatched_files: true
           generate_release_notes: true
           draft: false
           prerelease: false
