@@ -2851,7 +2851,7 @@ ID	TRAD	SIMP	N-JYUTPING	T-JYUTPING	G-JYUTPING
 2850	珙	珙	gung2	goeng2	gung2
 2851	芎	芎	gung1	goeng1	gung1
 2852	嗊	唝	gung3 地名，嗊吥；〈語〉鑽，拱出，讀聲符貢，推進義本源自拱,hung2 羅嗊	goeng3 地名，嗊吥；〈語〉鑽，拱出，讀聲符貢，推進義本源自拱,hoeng2 羅嗊	gung3,hung2
-2853	篢	𬕂	gung1 篢笠,lung5 箱籠，本字籠；地名用字	goeng1 篢笠,loeng3 箱籠，本字籠；地名用字	lung5
+2853	篢	𬕂	gung1 篢笠,lung5 同籠字；地名用字	goeng1 篢笠,loeng3 同籠字；地名用字	lung5
 2854	䢼	䢼	gung1	goeng1	gung1
 2855	塨	塨	gung1	goeng1	gung1
 2856	栱	栱	gung2	goeng2	gung2
@@ -3731,7 +3731,7 @@ ID	TRAD	SIMP	N-JYUTPING	T-JYUTPING	G-JYUTPING
 3730	鎰	镒	jat6 二十兩爲一鎰	jat6 二十兩爲一鎰	jat6
 3731	昳	昳	jat6 昳麗,dit6 太陽偏西	jat6 昳麗,dit6 太陽偏西	jat6,dit6
 3732	肸	肸	jat6 肸蠁,bi3 古地名	jat6 肸蠁,bi3 古地名	jat6,bei3
-3733	日	日	jat6 日期，日頭（太陽）,(語)mat6 今/昨～，晚日的合音，合音後無晚義，另一說今日前字順同化	njat5 日期，日頭（太陽）	jat6
+3733	日	日	jat6 日期，日頭（太陽）,(語)mat6 今/昨～，晚日的合音，合音後無晚義	njat5 日期，日頭（太陽）	jat6
 3734	馹	驲	jat6	njat5	jat6
 3735	丘	丘	jau1	jau1	jau1
 3736	休	休	jau1	jau1	jau1
@@ -4014,7 +4014,7 @@ ID	TRAD	SIMP	N-JYUTPING	T-JYUTPING	G-JYUTPING
 4013	弦	弦	jin4 弓弦	jyun4 弓弦	jin4
 4014	絃	弦	jin4 琴絃	jyun4 琴絃	jin4
 4015	煙	烟	jin1 煙霧，冒煙；〈外〉撲克的A，英語Ace	jyun1 煙霧，冒煙	jin1
-4016	菸	烟	jin1 香菸，菸草；燒/食～，抽菸；～屎，菸具中的菸垢、菸油子	jyun1 香菸，菸草	jin1
+4016	菸	烟	jin1 香菸，菸草；燒/食～，抽菸；～屎，菸具中的菸垢、菸油子	jyun1 香菸，菸草；吃～，抽菸；～筒屎，菸具中的菸垢、菸油子	jin1
 4017	焉	焉	jin1 焉能，焉知,jin4 心不在焉，俗讀焉能之焉	jyun1 焉能，焉知,jyun4 心不在焉，俗讀焉能之焉	1)jin4:善莫大焉 2)jin1:焉能如此
 4018	然	然	jin4 然後，自然	jyun4 然後，自然	jin4
 4019	燃	燃	jin4	jyun4	jin4
@@ -4760,7 +4760,7 @@ ID	TRAD	SIMP	N-JYUTPING	T-JYUTPING	G-JYUTPING
 4759	稞	稞	ko1	ko1	fo1
 4760	騍	骒	(白)ko3,(文)fo3	ko3	fo3
 4761	鈳	钶	ko1 鈮的舊譯	ko1 鈮的舊譯	ko1
-4762	噱	噱	koek6 大笑；噱頭，俗作謔頭,(語)kok1 詞綴，笑～～，笑哈哈	giak6 大笑；噱頭，俗作謔頭	koek6,coek3
+4762	噱	噱	koek6 大笑；噱頭，俗作謔頭,(語)kok1 詞綴，笑～～，笑哈哈,(語)kuk1 又音，詞綴，笑～～，笑哈哈	giak6 大笑；噱頭，俗作謔頭	koek6,coek3
 4763	卻	却	koek3	kiak2	koek3
 4764	強	强	koeng4 強大，堅強,koeng5 勉強；倔強,(又)koeng2 勉強；倔強	giang4 強大，堅強,kiang2 勉強；倔強	1)koeng4:強壯 2)koeng5:勉強，倔強；倔強又讀goeng6
 4765	蔃	蔃	koeng4 蔃莍,goeng2 根、莖，一說梗的音變	giang4 蔃莍,giang2 根、莖，一說梗的音變	koeng2,goeng2
@@ -7491,7 +7491,7 @@ ID	TRAD	SIMP	N-JYUTPING	T-JYUTPING	G-JYUTPING
 7490	瘜	瘜	slik1	slik2	sik1
 7491	蒠	蒠	slik1	slik2	sik1
 7492	仙	仙	slin1	slin1	sin1
-7493	先	先	slin1 先後，祖先；～～，早先、最初；〈語〉（稱物時）秤尾高，本字䙴,(語)lin1 語流音變，多用於句末，等下～	slin1 先後，祖先；句末虛詞，你行～、等渠來～；〈語〉（稱物時）秤尾高，本字䙴	sin1
+7493	先	先	slin1 先後，祖先；～～，早先、最初；〈語〉（稱物時）秤尾高，本字䙴,(語)lin1 語流音變，多用於句末，首～、等下～	slin1 先後，祖先；句末虛詞，你行～、等渠來～；〈語〉（稱物時）秤尾高，本字䙴	sin1
 7494	線	线	slin3 針線，線條；姓	slin3 針線，線條；姓	sin3
 7495	羨	羡	slin3 羨慕，豔羨	slin3 羨慕，豔羨	sin6
 7496	腺	腺	slin3	slin3	sin3
